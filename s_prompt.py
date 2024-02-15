@@ -1,3 +1,4 @@
+import re
 class ScenarioPrompt:
   def __init__():
     pass
@@ -5,23 +6,45 @@ class ScenarioPrompt:
   @classmethod
   def INPUT_TYPE(s):
     return {
-      "required": {
-        "base" : ("STRING", {
-          "multiline" : False
+      "optional": {
+        "Base" : ("STRING", {
+          "multiline" : True
         }),
         "Character" : ("STRING"),
         "Face" : ("STRING"),
-        "Body type" : ("STRING"),
+        "Body_type" : ("STRING"),
         "Fashion" : ("STRING"),
         "Accessory" : ("STRING"),
         "Action" : ("STRING"),
-        "point of view" : ("STRING"),
+        "point_of_view" : ("STRING"),
         "Background" : ("STRING"),
         "Light" : ("STRING"),
       }
     }
   
   RETURN_TYPES = ("STRING")
-  RETURN_NAMES = ("text")
+  RETURN_NAMES = ("prompt")
+  OUTPUT_NODE = False
+  FUNCTION = "executor"
+  CATEGORY = "Scenario Prompt"
 
-  
+  def executor(self,Base,Character,Face,Body_type,Fashion,Accessory,Action,point_of_view,Background,Light):
+    def merge_commas(string):
+      pattern = r',\s*,|,\s*,\s*,'
+      modified_string = re.sub(pattern, ',', string)
+      return modified_string
+    
+    result_prompt = f"{Base}, {Character}, {Face}, {Body_type}, {Fashion}, {Accessory}, {Action}, {point_of_view}, {Background}, {Light}"
+
+    result_prompt = merge_commas(result_prompt)
+    print(result_prompt)
+    return (result_prompt)
+
+
+NODE_CLASS_MAPPINGS = {
+  "ScenarioPrompt": ScenarioPrompt
+}
+
+NODE_DISPLAY_NAME_MAPPINGS = {
+  "ScenarioPrompt": "Scenario Prompt"
+}
