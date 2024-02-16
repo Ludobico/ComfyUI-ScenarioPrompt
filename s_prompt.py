@@ -1,6 +1,6 @@
 import re
 class ScenarioPrompt:
-  def __init__():
+  def __init__(self):
     pass
 
   @classmethod
@@ -14,46 +14,46 @@ class ScenarioPrompt:
       },
       "optional": {
         "Character" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "Face" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "Body_type" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "Fashion" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "Accessory" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "Action" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "point_of_view" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "Background" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
         "Light" : ("STRING", {
-          "multiline" : False,
+          "multiline" : True,
           "default": ""
         }),
       }
     }
   
-  RETURN_TYPES = ("STRING")
-  RETURN_NAMES = ("prompt")
+  RETURN_TYPES = ("STRING",)
+  RETURN_NAMES = ("prompt",)
   OUTPUT_NODE = False
   FUNCTION = "executor"
   CATEGORY = "utils"
