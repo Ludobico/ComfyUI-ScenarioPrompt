@@ -15,39 +15,30 @@ class ScenarioPrompt:
       "optional": {
         "Character" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "Face" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "Body_type" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "Fashion" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "Accessory" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "Action" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "point_of_view" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "Background" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
         "Light" : ("STRING", {
           "multiline" : True,
-          "default": ""
         }),
       }
     }
@@ -64,11 +55,14 @@ class ScenarioPrompt:
       modified_string = re.sub(pattern, ',', string)
       return modified_string
     
-    result_prompt = f"{Base}, {Character}, {Face}, {Body_type}, {Fashion}, {Accessory}, {Action}, {point_of_view}, {Background}, {Light}"
+    result_components = [Base, Character, Face, Body_type, Fashion, Accessory, Action, point_of_view, Background, Light]
+    result_prompt = ', '.join(component for component in result_components if component)
 
     result_prompt = merge_commas(result_prompt)
+    print("-"*40)
     print(result_prompt)
-    return (result_prompt)
+    print("-"*40)
+    return (result_prompt,)
 
 
 NODE_CLASS_MAPPINGS = {
