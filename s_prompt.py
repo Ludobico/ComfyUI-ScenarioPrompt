@@ -4,21 +4,51 @@ class ScenarioPrompt:
     pass
 
   @classmethod
-  def INPUT_TYPE(s):
+  def INPUT_TYPES(s):
     return {
-      "optional": {
-        "Base" : ("STRING", {
-          "multiline" : True
+      "required" : {
+          "Base" : ("STRING", {
+          "multiline" : True,
+          "default": ""
         }),
-        "Character" : ("STRING"),
-        "Face" : ("STRING"),
-        "Body_type" : ("STRING"),
-        "Fashion" : ("STRING"),
-        "Accessory" : ("STRING"),
-        "Action" : ("STRING"),
-        "point_of_view" : ("STRING"),
-        "Background" : ("STRING"),
-        "Light" : ("STRING"),
+      },
+      "optional": {
+        "Character" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "Face" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "Body_type" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "Fashion" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "Accessory" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "Action" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "point_of_view" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "Background" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
+        "Light" : ("STRING", {
+          "multiline" : False,
+          "default": ""
+        }),
       }
     }
   
@@ -26,7 +56,7 @@ class ScenarioPrompt:
   RETURN_NAMES = ("prompt")
   OUTPUT_NODE = False
   FUNCTION = "executor"
-  CATEGORY = "Scenario Prompt"
+  CATEGORY = "utils"
 
   def executor(self,Base,Character,Face,Body_type,Fashion,Accessory,Action,point_of_view,Background,Light):
     def merge_commas(string):
@@ -42,7 +72,7 @@ class ScenarioPrompt:
 
 
 NODE_CLASS_MAPPINGS = {
-  "ScenarioPrompt": ScenarioPrompt
+  "ScenarioPrompt": ScenarioPrompt,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
