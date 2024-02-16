@@ -5,46 +5,15 @@ class ScenarioPrompt:
 
   @classmethod
   def INPUT_TYPES(s):
-    return {
-      "required" : {
-          "Base" : ("STRING", {
-          "multiline" : True,
-          "default": ""
-        }),
-      },
-      "optional": {
-        "Character" : ("STRING", {
-          "multiline" : True,
-        }),
-        "Face" : ("STRING", {
-          "multiline" : True,
-        }),
-        "Body_type" : ("STRING", {
-          "multiline" : True,
-        }),
-        "Fashion" : ("STRING", {
-          "multiline" : True,
-        }),
-        "Accessory" : ("STRING", {
-          "multiline" : True,
-        }),
-        "Action" : ("STRING", {
-          "multiline" : True,
-        }),
-        "point_of_view" : ("STRING", {
-          "multiline" : True,
-        }),
-        "Background" : ("STRING", {
-          "multiline" : True,
-        }),
-        "Light" : ("STRING", {
-          "multiline" : True,
-        }),
-      }
-    }
+    fields = ["Character", "Face", "Body_type", "Fashion", "Accessory", "Action", "point_of_view", "Background", "Light"]
+    
+    required = {"Base": ("STRING", {"multiline": True, "default": ""})}
+    optional = {field: ("STRING", {"multiline": True}) for field in fields}
+    
+    return {"required": required, "optional": optional}
   
   RETURN_TYPES = ("STRING",)
-  RETURN_NAMES = ("prompt",)
+  RETURN_NAMES = ("text",)
   OUTPUT_NODE = False
   FUNCTION = "executor"
   CATEGORY = "utils"
@@ -59,9 +28,6 @@ class ScenarioPrompt:
     result_prompt = ', '.join(component for component in result_components if component)
 
     result_prompt = merge_commas(result_prompt)
-    print("-"*40)
-    print(result_prompt)
-    print("-"*40)
     return (result_prompt,)
 
 
