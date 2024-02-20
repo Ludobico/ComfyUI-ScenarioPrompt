@@ -1,0 +1,493 @@
+분류1,분류2,이름,태그목록,NSFW
+의상,행동,옷을 고치다,adjusting_clothes,FALSE
+의상,행동,옷을 당기다,clothes_grab,FALSE
+의상,행동,옷을 풀린다,untying,FALSE
+의상,행동,옷을 풀었다,open_clothes,FALSE
+의상,행동,옷의 물을 짜다,wringing_clothes,FALSE
+의상,행동,옷을 묶지 않았다,untied,FALSE
+의상,행동,옷을 갈아 입는다,undressing,FALSE
+의상,행동,옷의 지퍼를 풀다,unzipped,FALSE
+의상,행동,옷의 지퍼를 내리다,unzipping,FALSE
+의상,행동,옷을 아래로 내리다,clothes_down,FALSE
+의상,행동,옷을 옆으로 넘기다,clothing_aside,FALSE
+의상,행동,옷을 옆으로 내리다,open_hoodie,FALSE
+의상,행동,옷을 상의만 입었다,topless,FALSE
+의상,행동,옷을 하의만 입었다,bottomless,FALSE
+의상,행동,수건을 풀었다,open_towel,FALSE
+의상,행동,수건을 벗겨졌다,towel_slip,FALSE
+의상,행동,잠옷을 아래로 내렸다,pajamas_pull,FALSE
+의상,행동,기모노를 벗다,open_kimono,FALSE
+의상,행동,기모노를 위로 올리다,kimono_lift,FALSE
+의상,행동,기모노를 아래로 내리다,kimono_pull,FALSE
+의상,행동,유카타를 위로 올리다,yukata_lift,FALSE
+의상,행동,레오타드를 위로 당기다,leotard_pull,FALSE
+의상,행동,레오타드를 옆으로 넘기다,leotard_aside,FALSE
+드레스,행동,드레스를 위로 올리다,dress_pull,FALSE
+드레스,행동,드레스를 아래로 내리다,dress_tug,FALSE
+드레스,행동,드레스를 옆으로 넘기다,dress_aside,FALSE
+수영복,행동,수영복을 고치다,adjusting_swimsuit,FALSE
+수영복,행동,수영복을 풀었다,open_bikini,FALSE
+수영복,행동,수영복을 찢었다,torn_swimsuit,FALSE
+수영복,행동,수영복을 위로 올리다,bikini_lift,FALSE
+수영복,행동,수영복을 위로 당기다,bikini_pull,FALSE
+수영복,행동,수영복을 위로 당기다,swimsuit_pull,FALSE
+수영복,행동,수영복을 옆으로 넘기다,bikini_aside,FALSE
+수영복,행동,수영복을 옆으로 넘기다,swimsuit_aside,FALSE
+수영복,행동,수영복을 상의만 입다,bikini_top_only,FALSE
+수영복,행동,수영복을 하의만 입다,bikini_bottom_only,FALSE
+수영복,행동,수영복 위로 옷을 입다,swimsuit_cover-up,FALSE
+수영복,행동,수영복을 옷 안에 입다,swimsuit_under_clothes,FALSE
+상의,행동,셔츠를 풀었다,open_shirt,FALSE
+상의,행동,재킷를 풀었다,open_jacket,FALSE
+상의,행동,코트를 풀었다,open_coat,FALSE
+상의,행동,로브를 풀었다,open_robe,FALSE
+상의,행동,셔츠의 옷깃을 풀었다,open_collar,FALSE
+상의,행동,셔츠의 옷깃을 잡았다,collar_grab,FALSE
+상의,행동,셔츠의 옷깃을 당기다,collar_tug,FALSE
+상의,행동,셔츠를 위로 올렸다,shirt_lift,FALSE
+상의,행동,망토를 위로 올렸다,cape_lift,FALSE
+상의,행동,스웨터를 위로 올렸다,sweater_lift,FALSE
+상의,행동,셔츠를 옆으로 당기다,shirt_pull,FALSE
+상의,행동,셔츠를 옆으로 내리다,shirt_slip,FALSE
+상의,행동,셔츠를 옆으로 넘기다,shirt_aside,FALSE
+상의,행동,가운을 옆으로 넘겼다,robe_slip,FALSE
+상의,행동,셔츠를 아래로 당기다,shirt_tug,FALSE
+상의,행동,후드를 아래로 내리다,hood_down,FALSE
+상의,행동,셔츠의 끈을 위로 올린다,strap_lift,FALSE
+상의,행동,셔츠의 끈을 아래로 내리다,strap_slip,FALSE
+상의,행동,셔츠의 소매를 위로 올렸다,sleeves_rolled_up,FALSE
+상의,행동,셔츠의 끝을 위로 올려 묶다,sleeves_pushed_up,FALSE
+상의,행동,셔츠를 내려 가슴 한쪽을 노출하다,one_breast_out,FALSE
+상의,행동,셔츠를 내려 가슴 양쪽을 노출하다,breasts_out,FALSE
+하의,행동,바지를 풀었다,open_pants,FALSE
+하의,행동,바지를 아래로 내렸다,pants_pull,FALSE
+하의,행동,반바지를 풀었다,open_shorts,FALSE
+하의,행동,반바지를 아래로 내리다,shorts_pull,FALSE
+하의,행동,반바지를 옆으로 넘기다,shorts_aside,FALSE
+하의,행동,브루마를 아래로 내렸다,buruma_pull,FALSE
+하의,행동,브루마를 옆으로 넘기다,buruma_aside,FALSE
+하의,행동,하카마를 아래로 내리다,hakama_pull,FALSE
+하의,행동,치마를 잡았다,skirt_grab,FALSE
+하의,행동,치마를 풀었다,open_skirt,FALSE
+하의,행동,치마를 위로 올리다,skirt_lift,FALSE
+하의,행동,치마를 위로 올라갔다,upskirt,FALSE
+하의,행동,치마를 아래로 당기다,skirt_tug,FALSE
+하의,행동,치마를 아래로 내리다,skirt_pull,FALSE
+하의,행동,치마를 안에서 엿보다,extended_upskirt,FALSE
+하의,행동,치마를 다리에 걸었다,skirt_around_one_leg,FALSE
+하의,행동,치마를 발목에 걸었다,skirt_around_ankles,FALSE
+브래지어,행동,브래지어를 벗다,bra_removed,FALSE
+브래지어,행동,브래지어를 벗었다,bra_pull,FALSE
+브래지어,행동,브래지어를 들다,holding_bra,FALSE
+브래지어,행동,브래지어를 찢었다,torn_bra,FALSE
+브래지어,행동,브래지어를 고치다,adjusting_bra,FALSE
+브래지어,행동,브래지어를 풀었다,open_bra,FALSE
+브래지어,행동,브래지어를 입지 않다,no_bra,FALSE
+브래지어,행동,브래지어를 위로 올리다,bra_lift,FALSE
+브래지어,행동,브래지어를 머리에 씌우다,bra_on_head,FALSE
+브래지어,행동,브래지어를 엉덩이에 씌우다,bra_on_ass,FALSE
+팬티,행동,팬티를 들다,holding_panties,FALSE
+팬티,행동,팬티를 고치다,adjusting_panties,FALSE
+팬티,행동,팬티를 손대다,hand_in_panties,FALSE
+팬티,행동,팬티를 발목에 걸다,panties_around_ankles,FALSE
+팬티,행동,팬티를 다리에 걸다,panties_around_one_leg,FALSE
+팬티,행동,팬티를 입 안에 넣다,panties_in_mouth,FALSE
+팬티,행동,팬티를 위로 올리다,panty_lift,FALSE
+팬티,행동,팬티를 아래로 내리다,panty_pull,FALSE
+팬티,행동,팬티를 옆으로 넘기다,panties_aside,FALSE
+팬티,행동,팬티를 가슴에 씌우다,panties_on_breasts,FALSE
+팬티,행동,팬티를 머리에 씌우다,panties_on_head,FALSE
+양말,행동,양말을 들다,holding_legwear,FALSE
+양말,행동,양말을 입다,putting_on_legwear,FALSE
+양말,행동,양말을 벗다,pulling_off_legwear,FALSE
+양말,행동,양말을 벗었다,removing_legwear,FALSE
+양말,행동,양말을 고치다,adjusting_legwear,FALSE
+양말,행동,양말이 젖었다,wet_legwear,FALSE
+양말,행동,양말이 찢어졌다,torn_legwear,FALSE
+양말,행동,양말이 팽팽하다,taut_legwear,FALSE
+양말,행동,양말이 다른 걸 입다,mismatched_legwear,FALSE
+양말,행동,팬티 스타킹을 내리다,pantyhose_pull,FALSE
+모자,행동,모자를 들다,holding_hat,FALSE
+모자,행동,모자를 벗다,hat_removed,FALSE
+모자,행동,모자를 잡다,hat_tip,FALSE
+모자,행동,모자를 씌우다,putting_on_headwear,FALSE
+모자,행동,모자를 날리다,hat_loss,FALSE
+모자,행동,모자를 찢었다,torn_hat,FALSE
+모자,행동,모자를 기울이다,tilted_headwear,FALSE
+모자,행동,모자를 고치다,adjusting_headwear,FALSE
+모자,행동,모자를 거꾸로 쓰다,backwards_hat,FALSE
+모자,행동,모자를 옆으로 쓰다,sideways_hat,FALSE
+모자,행동,모자를 손으로 잡다,hand_on_headwear,FALSE
+모자,행동,모자를 가슴 위에 올리다,hat_on_chest,FALSE
+모자,행동,모자를 눈 한쪽 위에 올리다,hat_over_one_eye,FALSE
+모자,행동,모자를 눈 양쪽 위에 올리다,hat_over_eyes,FALSE
+안경,행동,안경을 잡다,holding_eyewear,FALSE
+안경,행동,안경을 찾다,looking_for_glasses,FALSE
+안경,행동,안경을 벗다,removing_eyewear,FALSE
+안경,행동,안경을 벗었다,eyewear_removed,FALSE
+안경,행동,안경을 기울이다,crooked_eyewear,FALSE
+안경,행동,안경을 조정하다,adjusting_eyewear,FALSE
+안경,행동,안경을 바꿔 끼다,eyewear_switch,FALSE
+안경,행동,안경을 끼고 엿본다,looking_over_eyewear,FALSE
+안경,행동,안경을 끼고 본다,eyewear_view,FALSE
+안경,행동,안경을 옷 위에 걸다,eyewear_hang,FALSE
+안경,행동,안경을 입으로 물다,eyewear_in_mouth,FALSE
+안경,행동,안경을 살짝 위로 올린다,hand_on_eyewear,FALSE
+안경,행동,안경을 머리 위에 올리다,eyewear_on_head,FALSE
+안경,행동,안경을 모자 위에 올리다,eyewear_on_headwear,FALSE
+마스크,행동,마스크를 들다,holding_mask,FALSE
+마스크,행동,마스크를 벗다,removing_mask,FALSE
+마스크,행동,마스크를 벗었다,mask_removed,FALSE
+마스크,행동,마스크를 목에 걸다,mask_around_neck,FALSE
+마스크,행동,마스크를 위로 올리다,mask_lift,FALSE
+마스크,행동,마스크를 아래로 당기다,mask_pull,FALSE
+마스크,행동,마스크를 눈 위에 올리다,mask_over_one_eye,FALSE
+마스크,행동,마스크를 머리 위에 올리다,mask_on_head,FALSE
+넥타이,행동,넥타이를 잡다,necktie_grab,FALSE
+귀걸이,행동,귀걸이를 고치다,adjusting_earrings,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE

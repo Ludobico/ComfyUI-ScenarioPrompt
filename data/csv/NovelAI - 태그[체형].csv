@@ -1,0 +1,506 @@
+분류1,분류2,이름,태그목록,NSFW
+몸,성별,남성,male,FALSE
+몸,성별,여성,female,FALSE
+몸,성별,트랜스 남성,Trans_man,FALSE
+몸,성별,트랜스 여성,Trans_woman,FALSE
+몸,나이,소년,"boy, shota",FALSE
+몸,나이,소녀,"girl, loli",FALSE
+몸,나이,청년 남성,teenboy,FALSE
+몸,나이,청년 여성,teengirl,FALSE
+몸,나이,중년 남성,mature_male,FALSE
+몸,나이,중년 여성,"mature_female, milf",FALSE
+몸,길이,키가 작다,short,FALSE
+몸,길이,키가 살짝 작다,littleshort,FALSE
+몸,길이,키가 평범하다,averageheight,FALSE
+몸,길이,키가 크다,tall,FALSE
+몸,길이,키가 매우 크다,verytall,FALSE
+몸,모양,상체,upper_body,FALSE
+몸,모양,하체,lower_body,FALSE
+몸,모양,몸이 말랐다,skinny,FALSE
+몸,모양,몸이 날씬하다,slender,FALSE
+몸,모양,몸이 매혹적이다,glamorous,FALSE
+몸,모양,몸이 통통하다,busty,FALSE
+몸,모양,몸이 살짝 통통하다,curvy,FALSE
+몸,모양,몸이 뚱뚱하다,fat,FALSE
+몸,모양,몸이 살짝 뚱뚱하다,chubby,FALSE
+몸,모양,배가 말랐다,thin_stomach,FALSE
+몸,모양,배가 가늘다,slender_stomach,FALSE
+몸,모양,배가 통통하다,heavy_stomach,FALSE
+몸,모양,배가 뚱뚱하다,chubby_stomach,FALSE
+몸,모양,복근이 가늘다,skinny_abs,FALSE
+몸,모양,복근이 두껍다,thick_abs,FALSE
+몸,모양,복근이 통통하다,chubby_abs,FALSE
+몸,모양,복근이 매끈하다,11_line_abs,FALSE
+몸,모양,허리가 얇다,thinwaist,FALSE
+몸,모양,허리가 가늘다,slenderwaist,FALSE
+몸,모양,허리가 두껍다,thickwaist,FALSE
+몸,모양,허리가 통통하다,chubbywaist,FALSE
+몸,모양,엉덩이가 작다,small_ass,FALSE
+몸,모양,엉덩이가 살짝 작다,small_medium_ass,FALSE
+몸,모양,엉덩이가 평평하다,flat_ass,FALSE
+몸,모양,엉덩이가 평범하다,medium_ass,FALSE
+몸,모양,엉덩이가 크다,large_ass,FALSE
+몸,모양,엉덩이가 매우 크다,huge_ass,FALSE
+몸,모양,엉덩이가 엄청 크다,gigantic_ass,FALSE
+몸,특징,몸이 하얗다,white_skin,FALSE
+몸,특징,몸이 어둡다,dark_skin,FALSE
+몸,특징,몸이 구릿빛이다,tanned_skin,FALSE
+몸,특징,몸이 알몸이다,completely_nude,FALSE
+몸,특징,땀을 흘린다,sweat,FALSE
+몸,특징,땀을 흘린다,sweating_profusely,FALSE
+몸,특징,땀을 뻘뻘 흘린다,steamsweat,FALSE
+몸,특징,몸이 젖었다,wet,FALSE
+몸,특징,몸이 푹 젖었다,"soggywet,soggysweat",FALSE
+몸,특징,몸에 오일에 젖었다,oiledwet,FALSE
+가슴,모양,가슴이 평평하다,flat_chest,FALSE
+가슴,모양,가슴이 작다,small_breasts,FALSE
+가슴,모양,가슴이 살짝 작다,small_medium_breasts,FALSE
+가슴,모양,가슴이 평범하다,medium_breasts,FALSE
+가슴,모양,가슴이 크다,large_breasts,FALSE
+가슴,모양,가슴이 매우 크다,huge_breasts,FALSE
+가슴,모양,가슴이 엄청 크다,gigantic_breasts,FALSE
+가슴,모양,유륜이 작다,small_areolae,FALSE
+가슴,모양,유륜이 크다,large_areolae,FALSE
+가슴,모양,젖꼭지가 작다,small_nipples,FALSE
+가슴,모양,젖꼭지가 길다,long_nipples,FALSE
+가슴,특징,가슴이 늘어졌다,sagging_breasts,FALSE
+가슴,특징,가슴이 풍선같다,veiny_breasts,FALSE
+가슴,특징,가슴이 뾰족하다,pointy_breasts,FALSE
+가슴,특징,가슴이 비대칭이다,asymmetrical_breasts,FALSE
+가슴,특징,유륜이 밝다,light_areolae,FALSE
+가슴,특징,유륜이 어둡다,dark_areolae,FALSE
+가슴,특징,젖꼭지가 밝다,light_nipples,FALSE
+가슴,특징,젖꼭지가 어둡다,dark_nipples,FALSE
+팔,모양,팔이 짧다,short_arm,FALSE
+팔,모양,팔이 길다,long_arm,FALSE
+팔,모양,팔이 가늘다,slender_arm,FALSE
+팔,모양,팔이 두껍다,heavy_arm,FALSE
+팔,모양,팔뚝이 얇다,thin_forearm,FALSE
+팔,모양,팔뚝이 가늘다,slender_forearm,FALSE
+팔,모양,팔뚝이 두껍다,heavy_arm,FALSE
+팔,모양,팔뚝이 통통하다,chubby_forearm,FALSE
+팔,모양,팔꿈치가 둥글다,round_elbow,FALSE
+팔,모양,팔꿈치가 뭉툭하다,blunt_elbow,FALSE
+팔,모양,팔꿈치가 뾰족하다,pointed_elbow,FALSE
+팔,모양,겨드랑이가 밝다,light_armpit,FALSE
+팔,모양,겨드랑이가 어둡다,dark_armpit,FALSE
+손,모양,손이 짧다,short_hand,FALSE
+손,모양,손이 길다,long_hand,FALSE
+손,모양,손이 가늘다,slender_hand,FALSE
+손,모양,손이 두껍다,heavy_hand,FALSE
+손,모양,손목이 얇다,thin_wrist,FALSE
+손,모양,손목이 가늘다,slender_wrist,FALSE
+손,모양,손목이 두껍다,thick_wrist,FALSE
+손,모양,손가락이 짧다,short_fingers,FALSE
+손,모양,손가락이 길다,long_fingers,FALSE
+손,모양,손가락이 가늘다,slender_fingers,FALSE
+손,모양,손가락이 두껍다,thick_fingers,FALSE
+손,모양,손톱이 짧다,short_nail,FALSE
+손,모양,손톱이 길다,long_nail,FALSE
+다리,모양,다리가 짧다,short_leg,FALSE
+다리,모양,다리가 길다,long_leg,FALSE
+다리,모양,다리가 가늘다,slender_leg,FALSE
+다리,모양,다리가 두껍다,thick_leg,FALSE
+다리,모양,허벅지가 얇다,thin_thighs,FALSE
+다리,모양,허벅지가 가늘다,slender_thighs,FALSE
+다리,모양,허벅지가 두껍다,thick_thigh,FALSE
+다리,모양,허벅지가 통통하다,chubby_thighs,FALSE
+다리,모양,종아리가 얇다,thin_calf,FALSE
+다리,모양,종아리가 가늘다,slender_calf,FALSE
+다리,모양,종아리가 두껍다,thick_calf,FALSE
+다리,모양,종아리가 통통하다,chubby_calf,FALSE
+발,모양,발이 짧다,short_foot,FALSE
+발,모양,발이 길다,long_foot,FALSE
+발,모양,발이 가늘다_,slender_foot,FALSE
+발,모양,발이 두껍다,thick_foot,FALSE
+발,모양,발가락이 짧다,short_toe,FALSE
+발,모양,발가락이 길다,long_toe,FALSE
+발,모양,발톱이 짧다,short_toenail,FALSE
+발,모양,발톱이 길다,long_toenail,FALSE
+발,모양,발목이 얇다,thin_ankle,FALSE
+발,모양,발목이 가늘다,slender_ankle,FALSE
+발,모양,발목이 두껍다,thick_ankle,FALSE
+날개,모양,날개가 머리에 있다,head_wings,FALSE
+날개,모양,날개가 머리카락에 있다,hair_wings,FALSE
+날개,모양,날개가 다리에 있다,leg_wings,FALSE
+날개,모양,날개가 등에 있다,low_wings,FALSE
+날개,모양,날개가 발목에 있다,ankle_wings,FALSE
+날개,모양,날개가 작다,mini_wings,FALSE
+날개,모양,날개가 크다,large_wings,FALSE
+날개,모양,날개가 한쪽만 있다,wingle_wing,FALSE
+날개,모양,날개가 매우 많다,multiplewings,FALSE
+날개,종류,가짜 날개,Fake_wings,FALSE
+날개,종류,금속 날개,metal_wings,FALSE
+날개,종류,기계 날개,Mechanical_wings,FALSE
+날개,종류,식물 날개,Plant_wings,FALSE
+날개,종류,얇은 천 날개,light_hawk_wings,FALSE
+날개,종류,인공 날개,artificial_wings,FALSE
+날개,종류,깃털 날개,feathered_wings,FALSE
+날개,종류,곤충 날개,insect_wings,FALSE
+날개,종류,나방 날개,moth_wings,FALSE
+날개,종류,나비 날개,Butterfly_wings,FALSE
+날개,종류,무당벌레 날개,ladybug_wings,FALSE
+날개,종류,박쥐 날개,Bat_wings,FALSE
+날개,종류,천사 날개,Angel_wings,FALSE
+날개,종류,악마 날개,Demon_wings,FALSE
+날개,종류,요정 날개,Fairy_wings,FALSE
+날개,종류,용의 날개,Dragon_wings,FALSE
+날개,종류,불꽃 날개,Fiery_wings,FALSE
+날개,종류,액체 날개,liquid_wings,FALSE
+날개,종류,얼음 날개,Ice_wings,FALSE
+날개,종류,에너지 날개,energy_wings,FALSE
+날개,종류,하트 모양 날개,Heart_wings,FALSE
+꼬리,모양,꼬리가 짧다,short_tail,FALSE
+꼬리,모양,꼬리가 길다,long_tail,FALSE
+꼬리,모양,꼬리가 가늘다,slender_tail,FALSE
+꼬리,모양,꼬리가 두껍다,thick_tail,FALSE
+꼬리,종류,강아지 꼬리,dog_tail,FALSE
+꼬리,종류,고릴라 꼬리,gorilla_tail,FALSE
+꼬리,종류,고양이 꼬리,cat_tail,FALSE
+꼬리,종류,곰 꼬리,bear_tail,FALSE
+꼬리,종류,늑대 꼬리,wolf_tail,FALSE
+꼬리,종류,다람쥐 꼬리,squirrel_tail,FALSE
+꼬리,종류,돼지 꼬리,pig_tail,FALSE
+꼬리,종류,말 꼬리,horse_tail,FALSE
+꼬리,종류,사슴 꼬리,deer_tail,FALSE
+꼬리,종류,사자 꼬리,lion_tail,FALSE
+꼬리,종류,소 꼬리,cow_tail,FALSE
+꼬리,종류,양 꼬리,sheep_tail,FALSE
+꼬리,종류,여우 꼬리,fox_tail,FALSE
+꼬리,종류,원숭이 꼬리,monkey_tail,FALSE
+꼬리,종류,족제비 꼬리,ermine_tail,FALSE
+꼬리,종류,쥐 꼬리,mouse_tail,FALSE
+꼬리,종류,토끼 꼬리,rabbit_tail,FALSE
+꼬리,종류,표범 꼬리,leopard_tail,FALSE
+꼬리,종류,호랑이 꼬리,tiger_tail,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE

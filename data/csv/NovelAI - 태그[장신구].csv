@@ -1,0 +1,484 @@
+분류1,분류2,이름,태그목록,NSFW
+머리 장식,머리띠,머리띠,"hairband, headband",FALSE
+머리 장식,머리띠,머리 장식,headdress,FALSE
+머리 장식,머리띠,머리 리본,hair_ribbon,FALSE
+머리 장식,머리띠,이마 보호대,forehead_protector,FALSE
+머리 장식,머리띠,땀띠,sweatband,FALSE
+머리 장식,머리띠,두건(반다나),bandana,FALSE
+머리 장식,머리띠,양갈래 머리띠,bow_hairband,FALSE
+머리 장식,머리띠,프릴 머리띠,frilled_hairband,FALSE
+머리 장식,머리띠,레이스 머리띠,lace_hairband,FALSE
+머리 장식,머리띠,레이스 장식 머리띠,lace-trimmed_hairband,FALSE
+머리 장식,머리띠,로리타 머리띠,lolita_hairband,FALSE
+머리 장식,머리띠,스파이크 머리티,spiked_hairband,FALSE
+머리 장식,머리띠,줄무늬 머리띠,striped_hairband,FALSE
+머리 장식,머리띠,투 톤 머리띠,two-tone_hairband,FALSE
+머리 장식,머리띠,날개 달린,winged_hairband,FALSE
+머리 장식,머리띠,메이드 머리 장식,maid_headdress,FALSE
+머리 장식,모자,베레모,beret,FALSE
+머리 장식,모자,멕시코 모자,sombrero,FALSE
+머리 장식,모자,비니,beanie,FALSE
+머리 장식,모자,모피 모자,fur_hat,FALSE
+머리 장식,모자,수면 모자,nightcap,FALSE
+머리 장식,모자,파티 모자,party_hat,FALSE
+머리 장식,모자,간호사 모자,nurse_cap,FALSE
+머리 장식,모자,광대 모자,jester_cap,FALSE
+머리 장식,모자,군사 모자,kepi,FALSE
+머리 장식,모자,군용 모자,shako_cap,FALSE
+머리 장식,모자,군인(상관) 모자,campaign_hat,FALSE
+머리 장식,모자,귀족 모자,tate_eboshi,FALSE
+머리 장식,모자,마녀 모자,witch_hat,FALSE
+머리 장식,모자,작은 마녀 모자,mini_witch_hat,FALSE
+머리 장식,모자,마법사 모자,wizard_hat,FALSE
+머리 장식,모자,마술사 모자,top_hat,FALSE
+머리 장식,모자,작은 마술사 모자,mini_top_hat,FALSE
+머리 장식,모자,산타,santa_hat,FALSE
+머리 장식,모자,미니 산타,mini_santa_hat,FALSE
+머리 장식,모자,밀짚모자,straw_hat,FALSE
+머리 장식,모자,밀짚모자(도사),rice_hat,FALSE
+머리 장식,모자,밀짚모자(승려),ajirogasa,FALSE
+머리 장식,모자,비행사 모자,aviator_cap,FALSE
+머리 장식,모자,사제 모자,mitre,FALSE
+머리 장식,모자,선원 모자,sailor_hat,FALSE
+머리 장식,모자,성직자 모자,habit,FALSE
+머리 장식,모자,야구 모자,baseball_cap,FALSE
+머리 장식,모자,여성 유니폼 모자,female_service_cap,FALSE
+머리 장식,모자,요리사 모자,chef_hat,FALSE
+머리 장식,모자,빵 요리사 모자,toque_blanche,FALSE
+머리 장식,모자,접힌 요리사 모자,flat_top_chef_hat,FALSE
+머리 장식,모자,일본 결혼식 모자,tsunokakushi,FALSE
+머리 장식,모자,졸업 모자,mortarboard_collage_graduation_hat,FALSE
+머리 장식,모자,카우보이 모자,cowboy_hat,FALSE
+머리 장식,모자,탐정 모자,deerstalker,FALSE
+머리 장식,모자,탐정 모자,fedora,FALSE
+머리 장식,모자,탐험가 모자,pith_helmet,FALSE
+머리 장식,모자,텐구 모자,tokin_hat,FALSE
+머리 장식,모자,해군 모자,dixie_cup_hat,FALSE
+머리 장식,모자,해적 모자,bicorne,FALSE
+머리 장식,모자,해적 모자,pirate_hat,FALSE
+머리 장식,모자,동그란 모자,cloche_hat,FALSE
+머리 장식,모자,바이저 캡,visor_cap,FALSE
+머리 장식,모자,뾰족한 모자,peaked_cap,FALSE
+머리 장식,모자,삼각뿔 모자,tricorne,FALSE
+머리 장식,모자,삼각형 모자,garrison_cap,FALSE
+머리 장식,모자,원통형 모자,fez_hat,FALSE
+머리 장식,모자,챙이 작은 모자,bowler_hat,FALSE
+머리 장식,모자,챙이 긴 모자,sun_hat,FALSE
+머리 장식,모자,챙이 넓고 납작한 모자,boater_hat,FALSE
+머리 장식,모자,폭이 넓고 길쭉한 모자,bucket_hat,FALSE
+머리 장식,모자,한쪽으로 기울인 모자,flat_cap,FALSE
+머리 장식,모자,머리카락을 덮는 모자,mob_cap,FALSE
+머리 장식,헬멧,날개 달린 헬맷,winged_helmet,FALSE
+머리 장식,헬멧,다이빙 헬맷,diving_helmet,FALSE
+머리 장식,헬멧,독일군 헬맷,pickelhaube,FALSE
+머리 장식,헬멧,미식축구,american_football_helmet,FALSE
+머리 장식,헬멧,뿔 달린 헬맷,horned_helmet,FALSE
+머리 장식,헬멧,야구 헬맷,baseball_helmet,FALSE
+머리 장식,헬멧,오토바이 헬멧,motorcycle_helmet,FALSE
+머리 장식,헬멧,자전거 헬맷,bicycle_helmet,FALSE
+머리 장식,장신구,베일,veil,FALSE
+머리 장식,장신구,보닛,bonnet,FALSE
+머리 장식,장신구,서클릿,circlet,FALSE
+머리 장식,장신구,왕관,Crowns,FALSE
+머리 장식,장신구,작은 왕관,mini_crown,FALSE
+머리 장식,장신구,천 왕관,diadem,FALSE
+머리 장식,장신구,티아라,tiara,FALSE
+얼굴 장식,안경,3D 안경,3d_glasses,FALSE
+얼굴 장식,안경,고글,goggles,FALSE
+얼굴 장식,안경,단안경,monocle,FALSE
+얼굴 장식,안경,오페라 안경,opera_glasses,FALSE
+얼굴 장식,안경,다이빙 안경,diving_mask,FALSE
+얼굴 장식,안경,보호 안결,safety_glasses,FALSE
+얼굴 장식,안경,비행 고글,flight_goggles,FALSE
+얼굴 장식,안경,비행가 안경,aviator_sunglasses,FALSE
+얼굴 장식,안경,사격 안경,shooting_glasses,FALSE
+얼굴 장식,안경,스키 고글,ski_goggles,FALSE
+얼굴 장식,안경,연구원 안경,coke-bottle_glasses,FALSE
+얼굴 장식,안경,둥근 모양 안경,round_eyewear,FALSE
+얼굴 장식,안경,직사각형 안경,rectangular_eyewear,FALSE
+얼굴 장식,안경,하트 모양 안경,heart-shaped_eyewear,FALSE
+얼굴 장식,안경,별 모양 안경,star-shaped_eyewear,FALSE
+얼굴 장식,안경,눈물 모양 안경,teardrop-framed_glasses,FALSE
+얼굴 장식,안경,재밌는 안경,funny_glasses,FALSE
+얼굴 장식,안경,반투명한 안경,triangular_eyewear,FALSE
+얼굴 장식,안경,불투명한 안경,opaque_glasses,FALSE
+얼굴 장식,안경,손으로 잡는 안경,lorgnette,FALSE
+얼굴 장식,안경,콧대에 지지하는 안경,pince-nez,FALSE
+얼굴 장식,안경,안경끈 달린 안경,eyewear_strap,FALSE
+얼굴 장식,안경,안경테가 없는 안경,rimless_eyewear,FALSE
+얼굴 장식,안경,안경테가 두꺼운 안경,over-rim_eyewear,FALSE
+얼굴 장식,안경,안경테가 위쪽만 있는 안경,under-rim_eyewear,FALSE
+얼굴 장식,안경,안경테가 아래쪽만 있는 안경,teardrop-framed_glasses,FALSE
+얼굴 장식,안경,안경테가 하단만 있는 안경,semi-rimless_eyewear,FALSE
+얼굴 장식,가면,광대 가면,clown_mask,FALSE
+얼굴 장식,가면,닌자 가면,ninja_mask,FALSE
+얼굴 장식,가면,도미노 가면,domino_mask,FALSE
+얼굴 장식,가면,레슬링,wrestling_mask,FALSE
+얼굴 장식,가면,루차도르 가면,luchador_mask,FALSE
+얼굴 장식,가면,안대,eye_mask,FALSE
+얼굴 장식,가면,역병의사 가면,plague_doctor_mask,FALSE
+얼굴 장식,가면,오니 마스크,oni_mask,FALSE
+얼굴 장식,가면,축제 가면,carnival_mask,FALSE
+얼굴 장식,가면,캐릭터 가면,character_mask,FALSE
+얼굴 장식,가면,하키 가면,hockey_mask,FALSE
+얼굴 장식,가면,해골 마스크,skull_mask,FALSE
+얼굴 장식,가면,효토코 가면,hyottoko_mask,FALSE
+얼굴 장식,마스크,방독면,gas_mask,FALSE
+얼굴 장식,마스크,다이빙 마스크,diving_mask,FALSE
+얼굴 장식,마스크,산소 마스크,oxygen_mask,FALSE
+얼굴 장식,마스크,수면 마스크,sleep_mask,FALSE
+얼굴 장식,마스크,수술 마스크,surgical_mask,FALSE
+얼굴 장식,마스크,용접 마스크,welding_mask,FALSE
+얼굴 장식,마스크,깨진 가면,broken_mask,FALSE
+얼굴 장식,마스크,반쪽 가면,half_mask,FALSE
+얼굴 장식,마스크,입 가면,mouth_mask,FALSE
+얼굴 장식,마스크,입 베일,mouth_veil,FALSE
+귀 장식,귀걸이,곡옥 귀걸이,Magatama_earrings,FALSE
+귀 장식,귀걸이,술이 달린 귀걸이,Tassel_earrings,FALSE
+귀 장식,귀걸이,쉘 귀걸이,Shell_earrings,FALSE
+귀 장식,귀걸이,음양사 귀걸이,Yin_yang_earrings,FALSE
+귀 장식,귀걸이,종 귀걸이,Bell_earrings,FALSE
+귀 장식,귀걸이,초승달 귀걸이,Crescent_earrings,FALSE
+귀 장식,귀걸이,털 장식 귀걸이,Pom_pom_earrings,FALSE
+귀 장식,귀걸이,해골 귀걸이,Skull_earrings,FALSE
+귀 장식,귀걸이,꽃 귀걸이,Flower_earrings,FALSE
+귀 장식,귀걸이,수정 귀걸이,Crystal_earrings,FALSE
+귀 장식,귀걸이,눈송이 귀걸이,Snowflake_earrings,FALSE
+귀 장식,귀걸이,딸기 귀걸이,Strawberry_earrings,FALSE
+귀 장식,귀걸이,별 귀걸이,Star_earrings,FALSE
+귀 장식,귀걸이,스페이드 귀걸이,Spade_earrings,FALSE
+귀 장식,귀걸이,십자가 귀걸이,Cross_earrings,FALSE
+귀 장식,귀걸이,알약 귀걸이,Pill_earrings,FALSE
+귀 장식,귀걸이,하트 귀걸이,Heart_earrings,FALSE
+귀 장식,귀걸이,행성 귀걸이,Planet_earrings,FALSE
+목 장식,넥타이,스카프,scarf,FALSE
+목 장식,넥타이,크라밧,Cravate,FALSE
+목 장식,넥타이,자벳,Jabot,FALSE
+목 장식,넥타이,애스콧 타이,Ascot_Tie,FALSE
+목 장식,넥타이,나비 넥타이,bowtie,FALSE
+목 장식,넥타이,스톡 타이,Stock_Tie,FALSE
+목 장식,넥타이,볼로 타이,Bolo_Tie,FALSE
+목 장식,넥타이,리본 타이,neck_ribbon,FALSE
+목 장식,넥타이,끈 타이,cross_tie,FALSE
+목 장식,넥타이,쵸커,choker,FALSE
+목 장식,넥타이,리본 쵸커,ribbon_choker,FALSE
+목 장식,넥타이,종 쵸커,bell_choker,FALSE
+목 장식,목걸이,목걸이,necklace,FALSE
+목 장식,목걸이,로켓,locket,FALSE
+목 장식,목걸이,팬던트,amulet,FALSE
+목 장식,목걸이,팬타클,pentacle,FALSE
+목 장식,목걸이,꽃 목걸이,flower_necklace,FALSE
+목 장식,목걸이,진주 목걸이,pendant,FALSE
+목 장식,목걸이,체인 목걸이,chain_necklace,FALSE
+목 장식,목걸이,마가타마(일본 옥 목걸이),magatama,FALSE
+목 장식,장신구,고글,goggles_around_neck,FALSE
+목 장식,장신구,목도리,neckerchief,FALSE
+목 장식,장신구,사원증,lanyard,FALSE
+목 장식,장신구,스톨,stole,FALSE
+목 장식,장신구,헤드폰,headphones_around_neck,FALSE
+손 장식,장갑,너클,brass_knuckles,FALSE
+손 장식,장갑,뾰족한 너클,spiked_knuckles,FALSE
+손 장식,장갑,고무 장갑,rubber_gloves,FALSE
+손 장식,장갑,가죽 장갑,leather_gloves,FALSE
+손 장식,장갑,비닐 장갑,plastic_gloves,FALSE
+손 장식,장갑,라텍스 장갑,latex_gloves,FALSE
+손 장식,장갑,격투기 장갑,martial_arts_gloves,FALSE
+손 장식,장갑,골키퍼 장갑,goalkeeper_gloves,FALSE
+손 장식,장갑,골프 장갑,golf_gloves,FALSE
+손 장식,장갑,권투 클러브,boxing_club,FALSE
+손 장식,장갑,당구 장갑,billiard_gloves,FALSE
+손 장식,장갑,등산용 장갑,climbing_gloves,FALSE
+손 장식,장갑,레이싱 글러브,racing_gloves,FALSE
+손 장식,장갑,빙상용 장갑,ice_gloves,FALSE
+손 장식,장갑,스키 장갑,ski_gloves,FALSE
+손 장식,장갑,야구 장갑,baseball_glove,FALSE
+손 장식,장갑,야구 장갑,baseball_gloves,FALSE
+손 장식,장갑,오토바이 장갑,motorcycle_gloves,FALSE
+손 장식,장갑,헬스 글러브,Health_glove,FALSE
+손 장식,장갑,오페라 글러브,opera_glove,FALSE
+손 장식,장갑,의례용 면장갑,ceremonial_cotton_gloves,FALSE
+손 장식,장갑,안전 장갑,safety_gloves,FALSE
+손 장식,장갑,전술 장갑,tactical_gloves,FALSE
+손 장식,장갑,전투용 장갑,combat_gloves,FALSE
+손 장식,장갑,방열 장갑,heat-dissipating_gloves,FALSE
+손 장식,장갑,방검 장갑,gas-proof_gloves,FALSE
+손 장식,장갑,방한 장갑,cold_gloves,FALSE
+기타,날개,날개 달린 귀,wing_ears,FALSE
+기타,날개,날개 리본,wing_ribbon,FALSE
+기타,날개,날개 달린 모자,winged_hat,FALSE
+기타,날개,날개 달린 신발,Winged_footwear,FALSE
+기타,날개,날개 달린 헬맷,Winged_helmet,FALSE
+기타,날개,날개 달린 가방,Winged_bag,FALSE
+기타,꼬리,꼬리 고리,Tail_ring,FALSE
+기타,꼬리,꼬리 리본,Tail_bow,FALSE
+기타,꼬리,꼬리 리본,Tail_ribbon,FALSE
+기타,꼬리,꼬리 장식품,Tail_ornament,FALSE
+기타,꼬리,꼬리 종,Tail_bell,FALSE
+기타,꼬리,꼬리 피어싱,Tail_piercing,FALSE
+기타,피어싱,혀 피어싱,Tongue_piercing,FALSE
+기타,피어싱,코 피어싱,Nose_piercing,FALSE
+기타,피어싱,귀 피어싱,Ear_piercing,FALSE
+기타,피어싱,배꼽 피어싱,Collarbone_piercing,FALSE
+기타,피어싱,귀걸이 한 개,Single_earring,FALSE
+기타,피어싱,귀걸이 여러 개,Multiple_earrings,FALSE
+기타,피어싱,위쪽 귀 두 개 피어싱,Industrial_piercing,FALSE
+기타,피어싱,눈썹 피어싱,Eyebrow_piercing,FALSE
+기타,피어싱,눈썹 아래 피어싱,Anti-eyebrow_piercing,FALSE
+기타,피어싱,눈꺼풀 피어싱,Eyelid_piercing,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE

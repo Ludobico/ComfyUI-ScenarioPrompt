@@ -1,0 +1,572 @@
+분류1,분류2,이름,태그목록,NSFW
+몸,동작,네 발로 걷다,crawling,FALSE
+몸,동작,네 발로 서다,all_fours,FALSE
+몸,동작,네 발로 서서 엉덩이를 들다,top-down_bottom-up,FALSE
+몸,동작,네 발을 들고 복종하다,prostration,FALSE
+몸,동작,두 발로 걷다,walking,FALSE
+몸,동작,두 발로 달리다,running,FALSE
+몸,동작,두 발로 점프하다,jumping,FALSE
+몸,동작,물구나무서다,handstand,FALSE
+몸,동작,발도 자세를 잡는다,battoujutsu_stance,FALSE
+몸,동작,상하반전,upside-down,FALSE
+몸,동작,서서 균형을 잡다,balancing,FALSE
+몸,동작,손으로 벽을 타다,wallwalking,FALSE
+몸,동작,슈퍼 히어로 랜딩,superhero_landing,FALSE
+몸,동작,스트레칭,stretching,FALSE
+몸,동작,싸울 자세를 잡는다,fighting_stance,FALSE
+몸,동작,양쪽 다리로 서다,standing,FALSE
+몸,동작,얼굴로 떨어지다,faceplant,FALSE
+몸,동작,전갈 자세를 잡는다,full_scorpion,FALSE
+몸,동작,한쪽 다리로 서다,standing_on_one_leg,FALSE
+몸,앉다,앉다,sitting,FALSE
+몸,앉다,나비처럼 앉다,butterfly_sitting,FALSE
+몸,앉다,일본식으로 앉다,seiza,FALSE
+몸,앉다,무릎 위에 앉다,sitting_on_lap,FALSE
+몸,앉다,사람 위에 앉다,sitting_on_person,FALSE
+몸,앉다,쪼그려 앉다,squatting,FALSE
+몸,앉다,양쪽으로 앉다,wariza,FALSE
+몸,앉다,한쪽으로 앉다,yokozuwari,FALSE
+몸,눕다,눕다,lying,FALSE
+몸,눕다,누워서 다리를 꼬다,crossed_legs,FALSE
+몸,눕다,누워서 웅크리다,fetal_position,FALSE
+몸,눕다,뒤로 눕다,on_back,FALSE
+몸,눕다,옆으로 눕다,on_side,FALSE
+몸,눕다,엎드려 눕다,on_stomach,FALSE
+몸,기대다,기대다,reclining,FALSE
+몸,기대다,몸을 기대다,leaning,FALSE
+몸,기대다,몸을 앞으로 기대다,leaning_forward,FALSE
+몸,기대다,몸을 뒤로 기대다,leaning_back,FALSE
+몸,기대다,몸을 사람에게 기대다,leaning_on_person,FALSE
+몸,기대다,몸을 물건에 기대다,leaning_on_object,FALSE
+몸,기대다,몸을 벽에 기대다,against_wall,FALSE
+몸,기대다,몸을 나무에 기대다,against_tree,FALSE
+몸,기대다,몸을 펜스에 기대다,against_glass,FALSE
+몸,기대다,몸을 차량에 기대다,leaning_against_car,FALSE
+몸,기대다,몸을 오토바이에 기대다,leaning_against_motorcycle,FALSE
+몸,기대다,몸을 옆으로 기대다,leaning_against_vehicle,FALSE
+몸,껴안다,껴안다,hug,FALSE
+몸,껴안다,껴안다,Hugging,FALSE
+몸,껴안다,꼬리로 껴안다,tail_hug,FALSE
+몸,껴안다,날개로 껴안다,wing_hug,FALSE
+몸,껴안다,다리를 껴안다,hugging_own_legs,FALSE
+몸,껴안다,뒤에서 껴안다,hug_from_behind,FALSE
+몸,껴안다,물건을 껴안다,object_hug,FALSE
+몸,껴안다,팔로 껴안다,arm_hug,FALSE
+몸,껴안다,허리를 껴안다,waist_hug,FALSE
+몸,껴안다,1명 이상을 껴안다,Hugging_doable_by_one_or_more_characters,FALSE
+몸,껴안다,2명 이상을 껴안다,2Posture_of_at_least_two_characters,FALSE
+몸,껴안다,2명 이상을 포옹하다,2Hugging_doable_by_two_or_more_characters,FALSE
+몸,기울이다,등을 기울이다,Torso_inclination,FALSE
+몸,기울이다,등이 구부정하다,slouching,FALSE
+몸,기울이다,등을 뒤틀다,twisted_torso,FALSE
+몸,기울이다,등이 휘었다,arched_back,FALSE
+몸,기울이다,등을 구부렸다,bent_over,FALSE
+몸,올리다,가슴을 들다,carried_breast_rest,FALSE
+몸,올리다,겨드랑이에 끼고 들다,carrying_under_arm,FALSE
+몸,올리다,공주님 안기,princess_carry,FALSE
+몸,올리다,들쳐매다,carrying,FALSE
+몸,올리다,등에 엎고 나르다,piggyback,FALSE
+몸,올리다,사람을 들쳐매다,Carrying_someone,FALSE
+몸,올리다,소방관처럼 들다,fireman's_carry,FALSE
+몸,올리다,아기를 안다,baby_carry,FALSE
+몸,올리다,아이를 들다,child_carry,FALSE
+몸,올리다,어깨 위로 들쳐매다,carrying_over_shoulder,FALSE
+몸,올리다,어깨 위에 서다,standing_on_shoulder,FALSE
+몸,올리다,어깨 위에 앉다,sitting_on_shoulder,FALSE
+몸,올리다,어깨로 부축하다,shoulder_carry,FALSE
+몸,묶다,개구리처럼 묶다,frogtie,FALSE
+몸,묶다,다리를 묶다,bound_legs,FALSE
+몸,묶다,다리를 묶어 떨어뜨리다,separated_legs,FALSE
+몸,묶다,몸을 묶다,bound_torso,FALSE
+몸,묶다,무릎을 묶다,bound_knees,FALSE
+몸,묶다,발을 묶다,bound_feet,FALSE
+몸,묶다,사람을 묶어 매달았다,suspension,FALSE
+몸,묶다,사람을 묶어 장식한다,strappado,FALSE
+몸,묶다,손목을 묶다,bound_wrists,FALSE
+몸,묶다,손목을 묶어 떨어뜨리다,separated_wrists,FALSE
+몸,묶다,온몸이 묶이다,crucifixion,FALSE
+몸,묶다,종아리를 묶다,bound_calves,FALSE
+몸,묶다,팔과 다리를 뒤로 묶다,hogtie,FALSE
+몸,묶다,팔을 뒤로 묶다,box_tie,FALSE
+몸,묶다,팔을 묶다,bound_arms,FALSE
+몸,묶다,팔을 묶어 떨어뜨리다,separated_arms,FALSE
+몸,묶다,허벅지를 묶다,bound_thighs,FALSE
+몸,올리다,사람을 올리다,straddling,FALSE
+몸,올리다,사람을 허벅지에 올리다,thigh_straddling,FALSE
+몸,올리다,사람을 마주보며 올리다,upright_straddle,FALSE
+몸,마주하다,눈을 맞추다,eyecontact,FALSE
+몸,마주하다,다리를 잡는다,leglock,FALSE
+몸,마주하다,등을 맞대다,back-to-back,FALSE
+몸,마주하다,뺨을 맞대다,cheek-to-cheek,FALSE
+몸,마주하다,손을 잡는다,holding_hands,FALSE
+몸,마주하다,머리를 맞대다,head+stogether,FALSE
+몸,마주하다,이마를 맞대다,forehead-to-forehead,FALSE
+얼굴,표정,가벼운 표정,Light_face,FALSE
+얼굴,표정,감동한 표정,touched_face,FALSE
+얼굴,표정,기쁜 표정,Happy_face,FALSE
+얼굴,표정,놀란 표정,surprised_face,FALSE
+얼굴,표정,느긋한 표정,easygoing_face,FALSE
+얼굴,표정,들뜬 표정,Giddy_face,FALSE
+얼굴,표정,부끄러운 표정,Shameful_face,FALSE
+얼굴,표정,부러운 표정,envious_face,FALSE
+얼굴,표정,상냥한 표정,gentle_face,FALSE
+얼굴,표정,신성한 표정,sacred_face,FALSE
+얼굴,표정,웃는 표정,smiling_face,FALSE
+얼굴,표정,자비로운 표정,benevolent_face,FALSE
+얼굴,표정,잘난척한 표정,pretentious_face,FALSE
+얼굴,표정,즐거운 표정,joyful_face,FALSE
+얼굴,표정,질겁한표정,frightened_face,FALSE
+얼굴,표정,해맑은 표정,bright_face,FALSE
+얼굴,표정,행복한 표정,Happy_face,FALSE
+얼굴,표정,희망한 표정,desired_face,FALSE
+얼굴,표정,간절한 표정,earnest_face,FALSE
+얼굴,표정,걱정한 표정,worried_face,FALSE
+얼굴,표정,경멸한 표정,scornful_face,FALSE
+얼굴,표정,괴로운 표정,distressed_face,FALSE
+얼굴,표정,단호한 표정,determined_face,FALSE
+얼굴,표정,당황한 표정,Embarrassed_face,FALSE
+얼굴,표정,무서운 표정,Scary_face,FALSE
+얼굴,표정,무표정한 표정,expression_face,FALSE
+얼굴,표정,미친 표정,Crazy_face,FALSE
+얼굴,표정,분노한 표정,outraged_face,FALSE
+얼굴,표정,불안한 표정,Unstable_face,FALSE
+얼굴,표정,불행한 표정,unfortunate_face,FALSE
+얼굴,표정,붉히는 표정,turnred_face,FALSE
+얼굴,표정,비웃는 표정,scoffing_face,FALSE
+얼굴,표정,비참한 표정,miserable_face,FALSE
+얼굴,표정,사악한 표정,evil_face,FALSE
+얼굴,표정,생각한 표정,idea_face,FALSE
+얼굴,표정,속상한 표정,Upset_face,FALSE
+얼굴,표정,슬픈 표정,Sad_face,FALSE
+얼굴,표정,실망한 표정,Disappointed_face,FALSE
+얼굴,표정,심각한 표정,Serious_face,FALSE
+얼굴,표정,암울한 표정,Gloomy_face,FALSE
+얼굴,표정,애달픈 표정,sorrowful_face,FALSE
+얼굴,표정,억눌린 표정,suppressed_face,FALSE
+얼굴,표정,억울한 표정,unfair_face,FALSE
+얼굴,표정,억지 부리는 표정,Withdistaste_face,FALSE
+얼굴,표정,오만한 표정,arrogant_face,FALSE
+얼굴,표정,외로운 표정,Lonely_face,FALSE
+얼굴,표정,우는 표정,crying_face,FALSE
+얼굴,표정,우울한 표정,Gloomy_face,FALSE
+얼굴,표정,울먹이는 표정,tearful_face,FALSE
+얼굴,표정,의심한 표정,suspicious_face,FALSE
+얼굴,표정,절망한 표정,despair_face,FALSE
+얼굴,표정,졸린 표정,Sleepy_face,FALSE
+얼굴,표정,좌절한 표정,frustrated_face,FALSE
+얼굴,표정,지루한 표정,Boring_face,FALSE
+얼굴,표정,짜증난 표정,irritating_face,FALSE
+얼굴,표정,창백한 표정,pale_face,FALSE
+얼굴,표정,초조한 표정,Nervous_face,FALSE
+얼굴,표정,피곤한 표정,Tired_face,FALSE
+얼굴,표정,화난 표정,Angry_face,FALSE
+얼굴,표정,한심한 표정,pathetic_face,FALSE
+얼굴,표정,한탄한 표정,lamented_face,FALSE
+얼굴,표정,혼란한 표정,confused_face,FALSE
+얼굴,표정,매혹한 표정,charmed_face,FALSE
+얼굴,표정,유혹한 표정,seduced_face,FALSE
+얼굴,표정,취한 표정,drunk_face,FALSE
+얼굴,표정,황홀한 표정,ecstasy_face,FALSE
+얼굴,표정,흥분한 표정,aroused_face,FALSE
+얼굴,화장하다,화장하다,applying_makeup,FALSE
+얼굴,화장하다,눈꺼풀을 화장하다,eyeshadow,FALSE
+얼굴,화장하다,눈꼬리를 화장하다,eyeliner,FALSE
+얼굴,화장하다,속눈썹을 화장하다,mascara,FALSE
+얼굴,화장하다,뺨(볼)을 화장하다,rouge=(makeup),FALSE
+얼굴,화장하다,입술을 화장하다,lipstick,FALSE
+얼굴,화장하다,입술을 광택나게 화장하다,lipgloss,FALSE
+얼굴,화장하다,입술을 부드럽게 화장하다,lip_balm,FALSE
+얼굴,화장하다,몸에 낙서하다,body_writing,FALSE
+얼굴,화장하다,얼굴에 낙서하다,face_paint,FALSE
+얼굴,화장하다,얼굴에 페인트가 튀다,paint_splatteron_face,FALSE
+얼굴,화장하다,다른 사람 얼굴에 낙서하다,drawing_on_another's_face,FALSE
+머리,동작,머리를 돌리다,hair_twirling,FALSE
+머리,동작,머리를 묶다,hair_tucking,FALSE
+머리,동작,머리를 빗다,brushing_hair,FALSE
+머리,동작,머리를 이발하다,hairdressing,FALSE
+목,동작,목에 한쪽 팔을 감다,arm_around_neck,FALSE
+목,동작,목에 양쪽 팔을 감다,arms_around_neck,FALSE
+목,동작,내 목에 손을 대다,hand_on_own_neck,FALSE
+목,동작,남의 목에 손을 대다,hand_on_another's_neck,FALSE
+목,애무하다,목을 물어 뜯다,neck_biting,FALSE
+목,애무하다,목을 빨다,necking,FALSE
+목,애무하다,목에 키스하다,kissing_neck,FALSE
+눈,동작,눈을 가늘게 뜰다,glaring,FALSE
+눈,동작,눈으로 곁눈질하다,squinting,FALSE
+눈,동작,눈을 반쯤 가다,half-closed_eyes,FALSE
+눈,동작,눈 위를 손으로 가리다,shading_eyes,FALSE
+눈,울다,눈물을 흘리다,crying,FALSE
+눈,울다,눈물을 흘리며 흐느끼다,sobbing,FALSE
+눈,엿보다,엿보다,peeking,FALSE
+눈,엿보다,구멍을 엿보다,peephole,FALSE
+눈,엿보다,숨어서 엿보다,peeking_out,FALSE
+눈,엿보다,손가락 사이로 엿보다,peeking_through_fingers,FALSE
+입,동작,입을 다물다,Closed_mouth,FALSE
+입,동작,입술을 핥다,Licking_lips,FALSE
+입,동작,입술을 내밀다,Pursed_lips,FALSE
+입,동작,입을 벌리다,Open_mouth,FALSE
+입,동작,입술을 벌리다,Spread_lips,FALSE
+입,동작,입술을 오므리다,Puckered_lips,FALSE
+입,동작,입술이 갈라지다,Parted_lips,FALSE
+입,호흡하다,숨쉬다,breathing,FALSE
+입,호흡하다,거칠게 숨쉬다,heavy_breathing_(panting),FALSE
+입,호흡하다,기침한다,coughing,FALSE
+입,호흡하다,거품을 풀다,bubble_blowing,FALSE
+입,호흡하다,침을 흘리다,drooling,FALSE
+입,먹다,먹다,eating,FALSE
+입,먹다,씹다,chewing,FALSE
+입,먹다,삼키다,swallowing,FALSE
+입,먹다,시식하다,tasting,FALSE
+입,먹다,피를 빨다,blood_sucking,FALSE
+입,먹다,꼬리를 빨다,sucking_tail,FALSE
+입,먹다,아이스크림을 빨다,popsicle_in_mouth,FALSE
+입,빨다,입으로 가슴을 빨다,breast_sucking,FALSE
+입,빨다,입으로 옷 위의 가슴을 빨다,breast_sucking_through_clothes,FALSE
+입,빨다,입으로 서로 가슴을 빨다,mutual_breast_sucking,FALSE
+입,빨다,입으로 양쪽 젖꽂지를 빨다,sucking_both_nipples,TRUE
+입,빨다,입으로 가슴을 혼자서 다 빨다,sucking_on_multiple_breasts,FALSE
+입,빨다,입으로 가슴을 양쪽에서 빨다,double_breast_sucking,FALSE
+입,빨다,입으로 고환을 빨다,testicle_sucking,TRUE
+입,빨다,입으로 손가락을 빨다,finger_sucking,FALSE
+입,빨다,입으로 발가락을 빨다,toe_sucking,FALSE
+입,깨물다,이빨로 깨물다,biting,FALSE
+입,깨물다,이빨로 귀를 깨물다,ear_biting,FALSE
+입,깨물다,이빨로 뺨을 깨물다,cheek_biting,FALSE
+입,깨물다,이빨로 머리를 깨물다,head_biting,FALSE
+입,깨물다,이빨로 손을 깨물다,hand_biting,FALSE
+입,깨물다,이빨로 손톱을 깨물다,nail_biting,FALSE
+입,깨물다,이빨로 손가락을 깨물다,finger_biting,FALSE
+입,깨물다,이빨로 엄지를 깨물다,thumb_biting,FALSE
+입,깨물다,이빨로 장갑을 깨물다,glove_biting,FALSE
+입,깨물다,이빨로 입술을 깨물다,lip_biting,FALSE
+입,깨물다,이빨로 혀를 깨물다,biting_tongue,FALSE
+입,깨물다,이빨로 꼬리를 깨물다,tail_biting,FALSE
+입,깨물다,이빨로 가슴을 깨물다,breast_biting,FALSE
+입,깨물다,이빨로 자지를 깨물다,penis_biting,TRUE
+입,깨물다,이빨로 포피를 깨물다,foreskin_biting,TRUE
+입,깨물다,이빨로 엉덩이를 깨물다,ass_biting,FALSE
+입,키스하다,가볍게 키스한다,Bird_Kiss,FALSE
+입,키스하다,입술을 교차해 키스한다,Cross_Kiss,FALSE
+입,키스하다,입술을 밀착해 키스한다,Sliding_Kiss,FALSE
+입,키스하다,입술을 벌린 채 키스한다,French_Kiss,FALSE
+입,키스하다,입술을 깨물며 키스한다,Hamburger_Kiss,FALSE
+입,키스하다,입술 전체를 덮어 키스한다,Wide_Space_Kiss,FALSE
+입,키스하다,혀를 깨물며 키스한다,Eating_Kiss,FALSE
+입,키스하다,혀를 받아들여 키스한다,Inside_Kiss,FALSE
+입,키스하다,혀를 비비며 키스한다,Wrestler_Kiss,FALSE
+입,키스하다,혀를 엮으며 키스한다,Tongue_Training_Kiss,FALSE
+입,키스하다,혀를 깊숙히 넣어 키스한다,Deep_Kiss,FALSE
+입,키스하다,입에 공기를 넣으며 키스한다,Air_Cleaning_Kiss,FALSE
+입,키스하다,립스틱 자국을 목에 새기다,lipstick_mark_on_neck,FALSE
+입,키스하다,립스틱 자국을 팔에 새기다,lipstick_mark_on_arm,FALSE
+입,키스하다,립스틱 자국을 어깨에 새기다,lipstick_mark_on_shoulder,FALSE
+입,키스하다,립스틱 자국을 가슴에 새기다,lipstick_mark_on_chest,FALSE
+입,키스하다,립스틱 자국을 가슴에 새기다,lipstick_mark_on_breast,FALSE
+입,키스하다,립스틱 자국을 젖꼭지에 새기다,lipstick_mark_on_nipple,TRUE
+입,키스하다,립스틱 자국을 유륜에 새기다,lipstick_mark_on_areola,TRUE
+입,키스하다,립스틱 자국을 배에 새기다,lipstick_mark_on_stomach,FALSE
+입,키스하다,립스틱 자국을 가랑이에 새기다,lipstick_mark_on_crotch,FALSE
+입,키스하다,립스틱 자국을 다리에 새기다,lipstick_mark_on_leg,FALSE
+입,키스하다,립스틱 자국을 허벅지에 새기다,lipstick_mark_on_thighs,FALSE
+입,키스하다,립스틱 자국을 엉덩이에 새기다,lipstick_mark_on_ass,FALSE
+입,키스하다,립스틱 자국을 자지에 새긴다,lipstick_mark_on_penis,TRUE
+입,키스하다,립스틱 자국을 고환에 새긴다,lipstick_mark_on_testicles,TRUE
+입,키스하다,립스틱 자국을 보지에 새기다,lipstick_mark_on_pussy,TRUE
+입,키스하다,립스틱 자국을 항문에 새기다,lipstick_mark_on_anus,TRUE
+혀,동작,혀를 잡다,tongue_grab,FALSE
+혀,동작,혀를 내밀다,tongue_out,FALSE
+혀,동작,혀로 핥아먹다,licking_stomach,FALSE
+혀,핥다,혀로 핥다,licking,FALSE
+혀,핥다,혀로 귀를 핥다,licking_ear,FALSE
+혀,핥다,혀로 목을 핥다,licking_neck,FALSE
+혀,핥다,혀로 뺨을 핥다,licking_cheek,FALSE
+혀,핥다,혀로 입술을 핥다,licking_lips,FALSE
+혀,핥다,혀로 얼굴을 핥다,licking_face,FALSE
+혀,핥다,혀로 손을 핥다,licking_hand,FALSE
+혀,핥다,혀로 발을 핥다,licking_foot,FALSE
+혀,핥다,혀로 팔을 핥다,licking_arm,FALSE
+혀,핥다,혀로 다리를 핥다,licking_leg,FALSE
+혀,핥다,혀로 손가락을 핥다,licking_finger,FALSE
+혀,핥다,혀로 발가락을 핥다,licking_toe,FALSE
+혀,핥다,혀로 쇄골을 핥다,licking_collarbone,FALSE
+혀,핥다,혀로 가슴을 핥다,licking_breast,FALSE
+혀,핥다,혀로 젖꼭지를 핥다,licking_nipple,FALSE
+혀,핥다,혀로 겨드랑이를 핥다,licking_armpit,FALSE
+혀,핥다,혀로 배를 핥다,licking_belly,FALSE
+혀,핥다,혀로 배꼽을 핥다,licking_navel,FALSE
+혀,핥다,혀로 허벅지를 핥다,licking_thigh,FALSE
+혀,핥다,혀로 엉덩이를 핥다,licking_ass,FALSE
+혀,핥다,혀로 엉덩이를 핥다,licking_hip,TRUE
+혀,핥다,혀로 자지를 핥다,licking_penis,TRUE
+혀,핥다,혀로 고환을 핥다,licking_testicle,TRUE
+귀,동작,귀를 덮다,covering_ears,FALSE
+귀,동작,귀를 물다,ear_biting,FALSE
+귀,동작,귀를 잡다,ear_grab,FALSE
+귀,동작,귀를 당긴다,ear_pull,FALSE
+귀,동작,귀를 흔든다,ear_wiggle,FALSE
+귀,동작,귀를 만진다,hand_on_ear,FALSE
+귀,동작,귀를 잡는다,holding_ears,FALSE
+코,동작,냄새를 맡다,smelling,FALSE
+코,동작,옷의 냄새를 맡다,smelling_clothes,FALSE
+코,동작,속옷의 냄새를 맡다,smelling_underwear,FALSE
+코,동작,팬티스타킹의 냄새를 맡다,smelling_pantyhose,FALSE
+가슴,동작,가슴을 가린다,breast_suppress,FALSE
+가슴,동작,가슴을 경외한다,breast_awe,FALSE
+가슴,동작,가슴을 누른다,breast_press,FALSE
+가슴,동작,가슴을 당긴다,breast_pull,FALSE
+가슴,동작,가슴을 더듬다,groping,FALSE
+가슴,동작,가슴을 들어 올리다,breast_lift,FALSE
+가슴,동작,가슴을 따귀로 때리다,breast_slap,FALSE
+가슴,동작,가슴을 때리다,breast_punch,FALSE
+가슴,동작,가슴을 매달다,hanging_breasts,FALSE
+가슴,동작,가슴을 무거워한다,weighing_breasts,FALSE
+가슴,동작,가슴을 물다,breast_biting,FALSE
+가슴,동작,가슴을 물에 띄우다,floating_breasts,FALSE
+가슴,동작,가슴을 바짝 세우다,perky_breasts,FALSE
+가슴,동작,가슴을 받침대처럼 쓴다,convenient_breasts,FALSE
+가슴,동작,가슴을 벌리다,breasts_apart,FALSE
+가슴,동작,가슴을 불편해한다,inconvenient_breasts,FALSE
+가슴,동작,가슴을 빨다,breast_sucking,FALSE
+가슴,동작,가슴을 의식한다,breast_conscious,FALSE
+가슴,동작,가슴을 질투한다,breast_envy,FALSE
+가슴,동작,가슴을 질투한다,flat_envy,FALSE
+가슴,동작,가슴을 축소한다,breast_reduction,FALSE
+가슴,동작,가슴을 출렁인다,unaligned_breasts,FALSE
+가슴,동작,가슴을 측정한다,bust_measuring,FALSE
+가슴,동작,가슴을 튕기다,bouncing_breasts,FALSE
+가슴,동작,가슴을 팽창한다,flying_button,FALSE
+가슴,동작,가슴을 확장한다,breast_expansion,FALSE
+가슴,끼우다,가슴 사이에 끈을 끼우다,strap_between_breasts,FALSE
+가슴,끼우다,가슴 사이에 목장식을 끼우다,neckwear_between_breasts,FALSE
+가슴,끼우다,가슴 사이에 머리를 끼우다,head_between_breasts,FALSE
+가슴,끼우다,가슴 사이에 사람을 끼우다,person_between_breasts,FALSE
+가슴,끼우다,가슴 사이에 옷을 끼우다,clothes_between_breasts,FALSE
+가슴,끼우다,가슴 사이에 음식을 끼우다,food_between_breasts,FALSE
+가슴,끼우다,가슴 사이에 카드를 키우다,card_between_breasts,FALSE
+가슴,끼우다,가슴 사이에 팔을 끼우다,arm_between_breasts,FALSE
+가슴,애무하다,가슴을 수유하다,breastfeeding,FALSE
+가슴,애무하다,가슴을 잡다,breast_grab,FALSE
+가슴,애무하다,가슴을 쥐게 하다,guided_breast_grab,FALSE
+가슴,애무하다,가슴을 쥐다,breast_hold,FALSE
+가슴,애무하다,가슴을 짜내다,breast_squeeze,FALSE
+가슴,애무하다,가슴을 찌르다,breast_poke,FALSE
+가슴,애무하다,내 가슴을 빨다,self_breast_sucking,FALSE
+가슴,애무하다,남의 가슴을 빨다,mutual_breast_sucking,FALSE
+가슴,애무하다,젖꼭지를 덮다,covered_nipples,FALSE
+가슴,애무하다,젖꼭지를 누른다,nipple_press,FALSE
+가슴,애무하다,젖꼭지를 당기다,nipple_pull,FALSE
+가슴,애무하다,젖꼭지를 만진다,nipple_flick,FALSE
+가슴,애무하다,젖꼭지를 문지르다,nipple_rub,FALSE
+가슴,애무하다,젖꼭지를 부풀리다,puffy_nipples,FALSE
+가슴,애무하다,젖꼭지를 비틀다,nipple_tweak,FALSE
+가슴,애무하다,젖꼭지를 옷 밖으로 빼내다,nipple_slip,FALSE
+가슴,애무하다,젖꼭지를 찌르다,nipple_push,FALSE
+엉덩이,동작,엉덩이를 잡다,ass_grab,FALSE
+엉덩이,동작,엉덩이를 덮다,covering_ass,FALSE
+엉덩이,동작,엉덩이를 더듬다,groping,FALSE
+엉덩이,동작,엉덩이를 물다,ass_biting,FALSE
+엉덩이,동작,엉덩이를 흔들다,ass_shake,FALSE
+엉덩이,동작,엉덩이가 커지다,ass_expansion,FALSE
+팔,동작,팔을 위로 들다,arm_up,FALSE
+팔,동작,팔 한쪽을 뒤로 들다,arm_behind_back,FALSE
+팔,동작,팔 양쪽을 뒤로 들다,arms_behind_back,FALSE
+팔,동작,팔을 머리 위로 들다,arm_behind_head,FALSE
+팔,동작,팔로 하트를 그리다,heart_arms,FALSE
+팔,잡는다,팔로 강제로 잡는다,struggling,FALSE
+팔,잡는다,강제로 팔을 뒤로 잡는다,Arm_grab,FALSE
+팔,잡는다,강제로 다리를 잡는다,Leg_grab,FALSE
+팔,잡는다,강제로 끈으로 묶는다,Tied_up,FALSE
+팔,잡는다,강제로 손목을 잡다,holding_another's_wrist,FALSE
+팔,잡는다,강제로 목을 조르다,Choke_hold,FALSE
+팔,잡는다,강제로 다리로 목을 조르다,triangle_choke,FALSE
+팔,잡는다,강제로 등 뒤에서 목을 조르다,rear_naked_choke,FALSE
+팔,잡는다,강제로 팔로 목을 조르다,triangle_choke,FALSE
+손,동작,손으로 강조한다,air_quotes,FALSE
+손,동작,손으로 경례한다,salute,FALSE
+손,동작,손으로 누르다,noogie,FALSE
+손,동작,손으로 담는다,cupping_hands,FALSE
+손,동작,손으로 모자를잡다,hat_tip,FALSE
+손,동작,손으로 세우다,steepled_fingers,FALSE
+손,동작,손으로 약속하다,pinky_swear,FALSE
+손,동작,손으로 얼굴을 덮다,facepalm,FALSE
+손,동작,손으로 인사하다,palm-fist_greeting,FALSE
+손,동작,손으로 주먹을 부딪힌다,fist_bump,FALSE
+손,동작,손으로 주먹쥐다,fig_sign,FALSE
+손,동작,손으로 주먹쥐다,power_fist,FALSE
+손,동작,손으로 탭하다,palm-fist_tap,FALSE
+손,동작,손으로 하이파이브,high_five,FALSE
+손,동작,손을 겹치다,own_hands_together,FALSE
+손,동작,손을 닫다,Whole_closed_hand,FALSE
+손,동작,손을 맞물리다,interlocked_fingers,FALSE
+손,동작,손을 뻗다,carry_me,FALSE
+손,동작,손을 뻗다,raised_fist,FALSE
+손,동작,손을 안절부절하다,fidgeting,FALSE
+손,동작,손을 얽는다,own_hands_clasped,FALSE
+손,동작,손을 올려 침묵시킨다,shushing,FALSE
+손,동작,손을 움켜쥔다,clenched_hands,FALSE
+손,동작,손을 쥐다,clenched_hand,FALSE
+손,동작,손을 흔들다,waving,FALSE
+손,올리다,손을 귀에 올리다,hand_on_ear,FALSE
+손,올리다,손을 입에 올리다,hand_mouth,FALSE
+손,올리다,손을 내 머리에 올리다,hand_on_own_head,FALSE
+손,올리다,손을 남의 머리에 올리다,hand_on_another's_head,FALSE
+손,올리다,손을 내 얼굴에 올리다,hand_on_own_face,FALSE
+손,올리다,손을 남의 얼굴에 올리다,hand_on_another's_face,FALSE
+손,올리다,손을 내 턱에 올리다,hand_on_own_chin,FALSE
+손,올리다,손을 남의 턱에 올리다,hand_on_another's_chin,FALSE
+손,올리다,손을 이마에 올리다,hand_on_own_forehead,FALSE
+손,올리다,손을 내 뺨에 올리다,hand_on_own_cheek,FALSE
+손,올리다,손을 남의 뺨에 올리다,hand_on_another's_cheek,FALSE
+손,올리다,손을 내 어깨에 올리다,hand_on_own_shoulder,FALSE
+손,올리다,손을 남의 어깨에 올리다,hand_on_another's_shoulder,FALSE
+손,올리다,손을 손에 올리다,holding_hands,FALSE
+손,올리다,손을 남의 손에 올리다,hand_on_another's_hand,FALSE
+손,올리다,손을 발에 올리다,hands_on_feet,FALSE
+손,올리다,손을 무릎(한쪽)에 올리다,hand_on_own_knee,FALSE
+손,올리다,손을 무릎(양쪽)에 올리다,hands_on_own_knees,FALSE
+손,올리다,손을 내 가슴에 올리다,hand_on_own_chest,FALSE
+손,올리다,손을 남의 가슴에 올리다,hand_on_another's_chest,FALSE
+손,올리다,손을 다리에 올리다,hand_between_legs,FALSE
+손,올리다,손을 엉덩이에 올리다,hands_on_hips,FALSE
+손,올리다,손을 엉덩이(양쪽)에 올리다,hand_on_own_ass,FALSE
+손,올리다,손을 엉덩이(한쪽)에 올리다,hands_on_ass,FALSE
+손,올리다,손을 모자에 올리다,hand_on_headwear,FALSE
+손,올리다,손을 안경에 올리다,adjusting_eyewear,FALSE
+손,올리다,손을 주머니 한쪽에 넣다,hand_in_pocket,FALSE
+손,올리다,손을 주머니 양쪽에 넣다,hands_in_pockets,FALSE
+손,올리다,손에 주먹을 넣다,fist_in_hand,FALSE
+손,간지럽히다,손으로 간지럽히다,tickling,FALSE
+손,간지럽히다,손으로 간지럽히다,foot_tickling,FALSE
+손,간지럽히다,손으로 간지럽혀 고문하다,tickle_torture,FALSE
+손,들다,양손에 무기를 들다,dual_wielding,FALSE
+손,들다,양손에 세 개를 휘두르다,triple_wielding,FALSE
+손,들다,양손에 네 개를 휘두르다,quadruple_wielding,FALSE
+손,때리다,주먹으로 때리다,punching,FALSE
+손,때리다,주먹으로 얼굴을 때리다,face_punch,FALSE
+손,때리다,주먹으로 배를 때리다,stomach_punch,FALSE
+손,때리다,주먹으로 때리려한다,incoming_punch,FALSE
+손,올리다,손으로 들어올리다,lifting,FALSE
+손,올리다,손으로 자기 옷을 들다,lifted_by_self,FALSE
+손,올리다,손으로 다른 사람의 옷을 들다,lifted_by_another,FALSE
+손,올리다,손으로 다리를 들어올리다,leg_lift,FALSE
+손,올리다,손으로 사람을 들어올리다,lifting_person,FALSE
+손,올리다,손으로 이불을 들어올리다,lifting_covers,FALSE
+손,숨기다,손으로 숨기다,covering,FALSE
+손,숨기다,손으로 귀를 숨기다,covering_ears,FALSE
+손,숨기다,손으로 눈을 숨기다,covering_eyes,FALSE
+손,숨기다,손으로 입을 가리다,covering_mouth,FALSE
+손,숨기다,손으로 얼굴을 숨기다,overing_face,FALSE
+손,숨기다,손으로 알몸을 숨기다,nude_cover,FALSE
+손,숨기다,손으로 가슴을 숨기다,covering_breasts,FALSE
+손,숨기다,손으로 젖꼭지를 숨기다,covering_nipple,FALSE
+손,숨기다,손으로 가랑이를 숨기다,covering_crotch,FALSE
+손,숨기다,손으로 엉덩이를 숨기다,covering_ass,FALSE
+손,손짓하다,손짓하다,beckoning,FALSE
+손,손짓하다,손짓하며 도발하다,come_at_me_bro,FALSE
+손,손짓하다,손짓하며 유혹하다,come_hither,FALSE
+손,손짓하다,아래를 향해 손짓하다,outstretched_hand,FALSE
+손,손짓하다,화면 밖을 향해 손짓하다,reaching_out,FALSE
+손,잡다,손으로 잡다,grabbing,FALSE
+손,잡다,손으로 남의 엉덩를 잡다,grabbing_another's_ass,FALSE
+손,잡다,손으로 가슴을 잡다,breast_grab,FALSE
+손,잡다,손으로 가슴을 잡게 유도하다,guided_breast_grab,FALSE
+손,잡다,손으로 몸통을 잡다,torso_grab,FALSE
+손,짜내다,손으로 강하게 짜내다,squeezing,FALSE
+손,짜내다,손으로 가슴을 짜내다,breast_squeeze,FALSE
+손,짜내다,손으로 고환을 짜내다,squeezing_testicles,FALSE
+손,측정하다,손으로 측정하다,measuring,FALSE
+손,측정하다,손으로 가슴을 측정하다,bust_measuring,FALSE
+손,측정하다,손으로 자지를 측정하다,penis_measuring,FALSE
+손,측정하다,손으로 허리를 측정하다,waist_measuring,FALSE
+손,부채질하다,손으로 부채질하다,fainting,FALSE
+손,부채질하다,손으로 부채질하며 말하다,falling,FALSE
+손,부채질하다,손으로 부채질해 가랑이를 식히다,fanning_crotch,FALSE
+손,부채질하다,손으로 부채질해 얼굴을 식히다,fanning_face,FALSE
+손,애무하다,손으로 가슴을 쥐다,breast_hold,FALSE
+손,애무하다,손으로 가슴을 잡다,breast_grab,FALSE
+손,애무하다,손으로 가슴을 들다,breast_lift,FALSE
+손,애무하다,손으로 가슴을 찌르다,breast_poke,FALSE
+손,애무하다,손으로 가슴을 누르다,breast_press,FALSE
+손,애무하다,손으로 가슴을 짜낸다,breast_squeeze,FALSE
+손,애무하다,손으로 가슴을 올린다,breast_suppress,FALSE
+손,애무하다,손으로 가슴을 더듬다,groping,FALSE
+손가락,동작,손가락 하나를 올리다,One_open_finger,FALSE
+손가락,동작,새끼 손가락을 올리다,pinky_out,FALSE
+손가락,동작,가운데 손가락를 올리다,middle_finger,FALSE
+손가락,동작,검지 손가락 올리다,index_finger_raised(formerly_fgsfds),FALSE
+손가락,동작,엄지 손가락을 들다,thumbs_up,FALSE
+손가락,동작,엄지 손가락을 내리다,thumbs_down,FALSE
+손가락,동작,손가락 두개를 올리다,Two_open_fingers,FALSE
+손가락,동작,엄지와 새끼를 올리다,shaka_sign,FALSE
+손가락,동작,V 사인을 한다,v_sign,FALSE
+손가락,동작,V 사인을 뒤집어 한다,inward_v,FALSE
+손가락,동작,눈에 V 사인을 한다,v_over_eye,FALSE
+손가락,동작,입에 V 사인을 한다,v_over_mouth,FALSE
+손가락,동작,두 손가락으로 경례한다,two-finger_salute,FALSE
+손가락,동작,여우 그림자를 만든다,fox_shadow_puppet,FALSE
+손가락,동작,손가락 총,finger_gun,FALSE
+손가락,동작,손가락 하트,finger_heart,FALSE
+손가락,동작,손가락 세개를 올린다,Three_open_fingers,FALSE
+손가락,동작,"검지, 중지, 약지를 올린다",middle_w,FALSE
+손가락,동작,OK 사인을 한다,ok_sign,FALSE
+손가락,동작,돈 사인을 한다,money_gesture,FALSE
+손가락,동작,더블 피스 사인을 한다,w_sign,FALSE
+손가락,동작,"검지와 중지, 약지와 새끼를 올린다",vulcan_salute,FALSE
+손가락,동작,손가락으로 경례하다,salute,FALSE
+손가락,동작,손가락으로 눈을 당긴다,akanbe,FALSE
+손가락,동작,손가락으로 똑바로 경례한다,straight-arm_salute,FALSE
+손가락,동작,손가락으로 목을 긋다,slit_throat(gesture),FALSE
+손가락,동작,손가락으로 손짓하다,beckoning,FALSE
+손가락,동작,손가락으로 숫자를 세다,finger_counting,FALSE
+손가락,동작,손가락으로 열다,open_hand,FALSE
+손가락,동작,손가락으로 인사하다,ohikaenasutte,
+손가락,동작,손가락을 교차한다,crossed_fingers,
+손가락,동작,손가락을 벌리다,spread_fingers,
+손가락,동작,손가락을 뻗다,reaching,
+손가락,동작,손가락을 입술에얹다,shushing,
+손가락,동작,손가락을 흔들다,waving,
+손가락,꼬집다,손가락으로 꼬집다,pinching,
+손가락,꼬집다,손가락으로 배를 꼬집다,belly_grab,
+손가락,꼬집다,손가락으로 뺨을 꼬집다,cheek_pinching,
+손가락,가리키다,손가락으로 가리키다,pointing,
+손가락,가리키다,손가락으로 가리키다,pointing_up,
+손가락,가리키다,손가락으로 가리키다,pointing_at_self,
+손가락,가리키다,손가락으로 뷰어를 가리키다,pointing_at_viewer,
+손가락,가리키다,손가락으로 아래를 가리키다,pointing_down,
+손가락,가리키다,손가락으로 앞을 가리키다,pointing_forward,
+손가락,가리키다,손가락으로 높이 가리키다,saturday_night_fever,
+다리,자세,다리를 들다,leg_lift,
+다리,자세,다리를 잡는다,folded,
+다리,자세,다리를 벌리다,spread_legs,
+다리,자세,다리를 서서 꼬다,watson_cross,
+다리,자세,다리를 꼬다,crossed_legs,
+다리,자세,다리를 앉아서 껴안다,figure_four_sitting,
+다리,자세,다리를 껴안다,hugging_own_legs,
+다리,꿇다,무릎 한쪽을 꿇다,one_knee,
+다리,꿇다,무릎 양쪽을 꿇다,kneeling,
+다리,꿇다,무릎을 모으고 발을 벌리다,knees_together_feet_apart,
+다리,꿇다,무릎을 벌리고 발을 벌리다,knees_apart_feet_together,
+다리,올리다,다리 한쪽을 위로 올리다,leg_up,
+다리,올리다,다리 양쪽을 위로 올리다,egs_up,
+다리,올리다,다리를 가슴 위로 올리다,knees_to_chest,
+다리,올리다,다리를 머리 위로 올리다,legs_over_head,
+다리,뻗다,다리를 길게 뻗다,outstretched_leg,
+다리,뻗다,다리를 뒤로 뻗다,pigeon_pose,
+다리,뻗다,다리를 서서 뻗다,split,
+다리,뻗다,다리를 서서 뻗다,standing_split,
+다리,차다,다리로 차다,kicking,
+다리,차다,다리로 가랑이를 차다,crotch_kick,
+다리,차다,다리를 모아서 차다,drop_kick,
+다리,차다,다리로 날아서 차다,flying_kick,
+다리,차다,다리를 1차로 차다,axe_kick,
+다리,차다,다리로 허리보다 높이 차다,drop_kick,
+발,동작,발목을 겹치다,crossed_ankles,
+발,동작,발가락이 위를 향하다,pigeon-toed,
+발,동작,발바닥이 아래로 향하다,plantar_flexion,
+발,동작,발을 위쪽으로 구부리다,dorsiflexion,
+발,동작,발가락을 들고 균형잡다,tiptoes,
+발,동작,발가락을 들고 키스한다,tiptoe_kiss,
+발,밟다,발로 강제로 밟다,stomping,
+발,밟다,무릎을 꿇리고 머리를 밟다,stepping,
+발,밟다,앉아서 머리를 밟다,foot_on_head,
+발,밟다,강제로 가랑이를 밟다,crotch_stomping,

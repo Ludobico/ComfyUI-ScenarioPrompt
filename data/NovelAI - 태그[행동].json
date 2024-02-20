@@ -1,0 +1,742 @@
+[
+    {
+        "tag":"cuddling",
+        "desc":"누구를 껴안다"
+    },
+    {
+        "tag":"earcleaning",
+        "desc":"누구의 귀를 청소하다"
+    },
+    {
+        "tag":"touching",
+        "desc":"누군가 감동하다"
+    },
+    {
+        "tag":"dying",
+        "desc":"누군가 곧 죽다"
+    },
+    {
+        "tag":"vomiting",
+        "desc":"누군가 구토하다"
+    },
+    {
+        "tag":"whispering",
+        "desc":"누군가 귓가에 속삭이다"
+    },
+    {
+        "tag":"balancing",
+        "desc":"누군가 균형잡다"
+    },
+    {
+        "tag":"praying",
+        "desc":"누군가 기도하다"
+    },
+    {
+        "tag":"diaperchanging",
+        "desc":"누군가 기저귀를 갈다"
+    },
+    {
+        "tag":"gardening",
+        "desc":"누군가 꽃에 물을 주다"
+    },
+    {
+        "tag":"dreaming",
+        "desc":"누군가 꿈꾸다"
+    },
+    {
+        "tag":"flapping",
+        "desc":"누군가 날개를 펄럭이다"
+    },
+    {
+        "tag":"landing",
+        "desc":"누군가 내려오다"
+    },
+    {
+        "tag":"crawling",
+        "desc":"누군가 네 발로 걷다"
+    },
+    {
+        "tag":"singing",
+        "desc":"누군가 노래하다"
+    },
+    {
+        "tag":"knocking",
+        "desc":"누군가 노크하다"
+    },
+    {
+        "tag":"playing",
+        "desc":"누군가 놀다"
+    },
+    {
+        "tag":"blinking",
+        "desc":"누군가 눈을 깜빡이다"
+    },
+    {
+        "tag":"trolling",
+        "desc":"누구를 도발하다"
+    },
+    {
+        "tag":"hugfrombehind",
+        "desc":"누구를 뒤에서 껴안다"
+    },
+    {
+        "tag":"imitating",
+        "desc":"누구를 따라하다"
+    },
+    {
+        "tag":"hitting",
+        "desc":"누구를 때리다"
+    },
+    {
+        "tag":"smoking",
+        "desc":"누군가 담배를 피다"
+    },
+    {
+        "tag":"waiting",
+        "desc":"누군가 대기하다"
+    },
+    {
+        "tag":"fleeing",
+        "desc":"누군가 도망치다"
+    },
+    {
+        "tag":"running",
+        "desc":"누군가 도주하다"
+    },
+    {
+        "tag":"climbing",
+        "desc":"누군가 등반하다"
+    },
+    {
+        "tag":"digging",
+        "desc":"누군가 땅을 파다"
+    },
+    {
+        "tag":"rappelling",
+        "desc":"누군가 로프를 타고 내려온다"
+    },
+    {
+        "tag":"blocking",
+        "desc":"누구를 말리다"
+    },
+    {
+        "tag":"catching",
+        "desc":"누구를 매달다"
+    },
+    {
+        "tag":"mindreading",
+        "desc":"누구의 마음을 읽다"
+    },
+    {
+        "tag":"sittingonlap",
+        "desc":"누구의 무릎을 껴안다"
+    },
+    {
+        "tag":"untying",
+        "desc":"누군가 매다 끈을 풀다"
+    },
+    {
+        "tag":"scarftying",
+        "desc":"누군가 매다 목도리를 매다"
+    },
+    {
+        "tag":"tying",
+        "desc":"누군가 매다 장식을 매다"
+    },
+    {
+        "tag":"resisting",
+        "desc":"누군가 매우 저항하다"
+    },
+    {
+        "tag":"breastfeeding",
+        "desc":"누군가 모유를 수유하다"
+    },
+    {
+        "tag":"bathing",
+        "desc":"누군가 목욕하다"
+    },
+    {
+        "tag":"soap",
+        "desc":"누군가 목욕하며 비누를 쓰다"
+    },
+    {
+        "tag":"shampoo",
+        "desc":"누군가 목욕하며 거품을 쓰다"
+    },
+    {
+        "tag":"mixedbathing",
+        "desc":"누군가 목욕을 같이 한다"
+    },
+    {
+        "tag":"sharedbathing",
+        "desc":"누군가 목욕을 함께 한다"
+    },
+    {
+        "tag":"clothedbath",
+        "desc":"누군가 옷을 입고 목욕하다"
+    },
+    {
+        "tag":"strangling",
+        "desc":"누군가 목을 조르다"
+    },
+    {
+        "tag":"trembling",
+        "desc":"누군가 몸을 떨다"
+    },
+    {
+        "tag":"drying",
+        "desc":"누군가 몸을 말리다"
+    },
+    {
+        "tag":"cowering",
+        "desc":"누군가 몸을 웅크리다"
+    },
+    {
+        "tag":"bowing",
+        "desc":"누군가 무릎꿇고 인사하다"
+    },
+    {
+        "tag":"kneeing",
+        "desc":"누군가 무릎을 꿇다"
+    },
+    {
+        "tag":"textmessaging",
+        "desc":"누군가 문자 메시지를 보내다"
+    },
+    {
+        "tag":"diving=(differentfromdive)",
+        "desc":"누군가 물 속에 다이빙하다"
+    },
+    {
+        "tag":"wading",
+        "desc":"누군가 물을 넘어가다"
+    },
+    {
+        "tag":"decantering",
+        "desc":"누군가 물을 높게 잔에 붓다"
+    },
+    {
+        "tag":"squirtingliquid",
+        "desc":"누군가 물을 분출하다"
+    },
+    {
+        "tag":"watering",
+        "desc":"누군가 물을 뿌리다"
+    },
+    {
+        "tag":"pouring",
+        "desc":"누군가 물을 잔에 붓다"
+    },
+    {
+        "tag":"splashing",
+        "desc":"누군가 물이 몸에 튀다"
+    },
+    {
+        "tag":"slipping",
+        "desc":"누군가 미끄러지다"
+    },
+    {
+        "tag":"bumping",
+        "desc":"누구와 실수로 부딪힌다"
+    },
+    {
+        "tag":"apologizing",
+        "desc":"누군가 사과하다"
+    },
+    {
+        "tag":"stacking",
+        "desc":"누군가 사람을 쌓다"
+    },
+    {
+        "tag":"eavesdropping",
+        "desc":"누군가 소리를 엿듣다"
+    },
+    {
+        "tag":"screaming",
+        "desc":"누군가 소리를 크게 낸다"
+    },
+    {
+        "tag":"shouting",
+        "desc":"누군가 소리를 크게 외치다"
+    },
+    {
+        "tag":"drinking",
+        "desc":"누군가 술을 마시다"
+    },
+    {
+        "tag":"giggling",
+        "desc":"누군가 숨죽여 웃다"
+    },
+    {
+        "tag":"sliding",
+        "desc":"누군가 슬라이딩하다"
+    },
+    {
+        "tag":"moaning",
+        "desc":"누군가 신음하다"
+    },
+    {
+        "tag":"fighting",
+        "desc":"누군가 싸우다"
+    },
+    {
+        "tag":"duel",
+        "desc":"누군가 결투하다"
+    },
+    {
+        "tag":"pillow_fight",
+        "desc":"누군가 베개로 싸운다"
+    },
+    {
+        "tag":"snowball_fight",
+        "desc":"누군가 눈으로 싸운다"
+    },
+    {
+        "tag":"comforting",
+        "desc":"누구를 위로하다"
+    },
+    {
+        "tag":"roaring",
+        "desc":"누구를 위협하다"
+    },
+    {
+        "tag":"flirting",
+        "desc":"누구를 유혹하다"
+    },
+    {
+        "tag":"cheering",
+        "desc":"누구를 응원하다"
+    },
+    {
+        "tag":"_fidgeting",
+        "desc":"누군가 안절부절하다"
+    },
+    {
+        "tag":"flailing",
+        "desc":"누군가 어리광을 부리다"
+    },
+    {
+        "tag":"sulking",
+        "desc":"누군가 얼굴을 찡그리다"
+    },
+    {
+        "tag":"spanking",
+        "desc":"누군가 엉덩이를 때리다"
+    },
+    {
+        "tag":"forceddressing",
+        "desc":"누군가 옷을 강제로 입히다"
+    },
+    {
+        "tag":"undressing",
+        "desc":"누군가 옷을 벗고 있다"
+    },
+    {
+        "tag":"dressing",
+        "desc":"누군가 옷을 입다"
+    },
+    {
+        "tag":"wringing",
+        "desc":"누군가 옷을 짜내다"
+    },
+    {
+        "tag":"driving",
+        "desc":"누군가 운전하다"
+    },
+    {
+        "tag":"laughing",
+        "desc":"누군가 웃다"
+    },
+    {
+        "tag":"baking",
+        "desc":"누군가 음식(빵)을 만들다"
+    },
+    {
+        "tag":"chocolatemaking",
+        "desc":"누군가 음식(초콜렛)을 만들다"
+    },
+    {
+        "tag":"roasting",
+        "desc":"누군가 음식을 데우다"
+    },
+    {
+        "tag":"cooking",
+        "desc":"누군가 음식을 요리하다"
+    },
+    {
+        "tag":"stirring",
+        "desc":"누군가 음식을 휘젓다"
+    },
+    {
+        "tag":"sunbathing",
+        "desc":"누군가 일광욕하다"
+    },
+    {
+        "tag":"working",
+        "desc":"누군가 일하고 있다"
+    },
+    {
+        "tag":"shushing",
+        "desc":"누구를 조용히 시키다"
+    },
+    {
+        "tag":"chasing",
+        "desc":"누구를 쫓다"
+    },
+    {
+        "tag":"sneezing",
+        "desc":"누군가 재채기하다"
+    },
+    {
+        "tag":"jumping",
+        "desc":"누군가 점프하다"
+    },
+    {
+        "tag":"pouncing",
+        "desc":"누군가 강하게 점프하다"
+    },
+    {
+        "tag":"hopping",
+        "desc":"누군가 약하게 점프하다"
+    },
+    {
+        "tag":"searching",
+        "desc":"누군가 주위를 둘러본다"
+    },
+    {
+        "tag":"zipping",
+        "desc":"누군가 지퍼를 위로 당기다"
+    },
+    {
+        "tag":"unzipping",
+        "desc":"누군가 지퍼를 풀고 있다"
+    },
+    {
+        "tag":"concentrating",
+        "desc":"누군가 집중하다"
+    },
+    {
+        "tag":"whipping",
+        "desc":"누구를 채찍찔하다"
+    },
+    {
+        "tag":"launching",
+        "desc":"누군가 착륙 준비하다"
+    },
+    {
+        "tag":"reading",
+        "desc":"누군가 책을 읽다"
+    },
+    {
+        "tag":"firing",
+        "desc":"누군가 총을 쏘다"
+    },
+    {
+        "tag":"muzzleflash",
+        "desc":"누군가 총을 쏘자 빛나다"
+    },
+    {
+        "tag":"reloading",
+        "desc":"누군가 총을 재장전하다"
+    },
+    {
+        "tag":"dancing",
+        "desc":"누군가 춤추다"
+    },
+    {
+        "tag":"poledancing",
+        "desc":"누군가 춤추며 봉을 타다"
+    },
+    {
+        "tag":"spitting",
+        "desc":"누군가 침을 뱉다"
+    },
+    {
+        "tag":"nosepicking",
+        "desc":"누군가 코를 파다"
+    },
+    {
+        "tag":"strokingownchin",
+        "desc":"누군가 턱을 쓰다듬다"
+    },
+    {
+        "tag":"elbowing",
+        "desc":"누구를 팔꿈치로 때리다"
+    },
+    {
+        "tag":"waving",
+        "desc":"누군가 팔을 흔들다 인사하다"
+    },
+    {
+        "tag":"penspinning",
+        "desc":"누군가 펜을 회전하다"
+    },
+    {
+        "tag":"reaching",
+        "desc":"누군가 하강하다"
+    },
+    {
+        "tag":"whistling",
+        "desc":"누군가 휘파람을 불다"
+    },
+    {
+        "tag":"resting",
+        "desc":"누군가 휴식하다"
+    },
+    {
+        "tag":"sweeping",
+        "desc":"누군가 흙먼지를 쓸다"
+    },
+    {
+        "tag":"peeing",
+        "desc":"누군가를 쓰다듬다"
+    },
+    {
+        "tag":"feeding",
+        "desc":"누군가에게 음식을 권하다"
+    },
+    {
+        "tag":"sinking",
+        "desc":"무엇이 가라앉다"
+    },
+    {
+        "tag":"floating",
+        "desc":"무엇이 공중에 떠 있다"
+    },
+    {
+        "tag":"flying",
+        "desc":"무엇이 공중을 날다"
+    },
+    {
+        "tag":"teaching",
+        "desc":"무엇을 가르치다"
+    },
+    {
+        "tag":"opening",
+        "desc":"무엇을 개봉하다"
+    },
+    {
+        "tag":"skipping",
+        "desc":"무엇을 건너뛰다"
+    },
+    {
+        "tag":"repairing",
+        "desc":"무엇을 고치다"
+    },
+    {
+        "tag":"studying",
+        "desc":"무엇을 공부하다"
+    },
+    {
+        "tag":"polishing",
+        "desc":"무엇을 광택내다"
+    },
+    {
+        "tag":"begging",
+        "desc":"무엇을 구걸하다"
+    },
+    {
+        "tag":"rolling",
+        "desc":"무엇을 굴리며 이동하다"
+    },
+    {
+        "tag":"sketching",
+        "desc":"무엇을 그리다"
+    },
+    {
+        "tag":"dragging",
+        "desc":"무엇을 끌고 가다"
+    },
+    {
+        "tag":"melting",
+        "desc":"무엇을 녹이다"
+    },
+    {
+        "tag":"crushing",
+        "desc":"무엇을 눌러서 터뜨리다"
+    },
+    {
+        "tag":"carrying",
+        "desc":"무엇이 떨어지는 걸 잡다"
+    },
+    {
+        "tag":"pulling",
+        "desc":"무엇을 당기다"
+    },
+    {
+        "tag":"pitching",
+        "desc":"무엇을 던지다"
+    },
+    {
+        "tag":"throwing",
+        "desc":"무엇을 던지다"
+    },
+    {
+        "tag":"holding",
+        "desc":"무엇을 들다"
+    },
+    {
+        "tag":"punching",
+        "desc":"무엇을 때리다"
+    },
+    {
+        "tag":"rapidpunches",
+        "desc":"무엇을 때리다 빠르게"
+    },
+    {
+        "tag":"dropping",
+        "desc":"무엇을 떨어뜨리다"
+    },
+    {
+        "tag":"cupping",
+        "desc":"무엇을 모아 담다"
+    },
+    {
+        "tag":"pointing_weapon",
+        "desc":"무엇을 무기로 조준하다"
+    },
+    {
+        "tag":"hatching",
+        "desc":"무엇이 부화하다"
+    },
+    {
+        "tag":"glowing",
+        "desc":"무엇이 빛난다"
+    },
+    {
+        "tag":"unsheathing",
+        "desc":"무엇을 벗기다"
+    },
+    {
+        "tag":"protecting",
+        "desc":"무엇을 보호하다"
+    },
+    {
+        "tag":"sucking",
+        "desc":"무엇을 빨다"
+    },
+    {
+        "tag":"shopping",
+        "desc":"무엇을 사다"
+    },
+    {
+        "tag":"imagining",
+        "desc":"무엇을 상상하다"
+    },
+    {
+        "tag":"scratching",
+        "desc":"무엇을 상처 입힌다"
+    },
+    {
+        "tag":"thinking",
+        "desc":"무엇을 생각하다"
+    },
+    {
+        "tag":"giving",
+        "desc":"무엇을 선물하다"
+    },
+    {
+        "tag":"dishwashing",
+        "desc":"무엇을 설거지하다"
+    },
+    {
+        "tag":"summoning",
+        "desc":"무엇을 소환하다"
+    },
+    {
+        "tag":"hiding",
+        "desc":"무엇을 숨기다"
+    },
+    {
+        "tag":"patting",
+        "desc":"무엇을 쓰다듬다"
+    },
+    {
+        "tag":"bouncing",
+        "desc":"무엇이 요동친다"
+    },
+    {
+        "tag":"bouncingbreasts",
+        "desc":"무엇이 요동친다"
+    },
+    {
+        "tag":"spinning",
+        "desc":"무엇이 회전하다"
+    },
+    {
+        "tag":"staring",
+        "desc":"무엇을 응시하다"
+    },
+    {
+        "tag":"cutting",
+        "desc":"무엇을 자르다"
+    },
+    {
+        "tag":"juggling",
+        "desc":"무엇을 저글링하다"
+    },
+    {
+        "tag":"shaving",
+        "desc":"무엇을 제모하다"
+    },
+    {
+        "tag":"aiming",
+        "desc":"무엇을 조준하다"
+    },
+    {
+        "tag":"poking",
+        "desc":"무엇을 찌르다"
+    },
+    {
+        "tag":"ripping",
+        "desc":"무엇을 찢다"
+    },
+    {
+        "tag":"cleaning",
+        "desc":"무엇을 청소하다"
+    },
+    {
+        "tag":"at_gunpoint",
+        "desc":"무엇을 총구로 조준하다"
+    },
+    {
+        "tag":"healing",
+        "desc":"무엇을 치유하다"
+    },
+    {
+        "tag":"riding",
+        "desc":"무엇을 타다"
+    },
+    {
+        "tag":"tapping",
+        "desc":"무엇을 테이프로 감다"
+    },
+    {
+        "tag":"breaking",
+        "desc":"무엇을 파괴하다"
+    },
+    {
+        "tag":"pushing",
+        "desc":"무엇을 한쪽으로 밀다"
+    },
+    {
+        "tag":"dodging",
+        "desc":"무엇을 회피하다"
+    },
+    {
+        "tag":"slashing",
+        "desc":"무엇을 휘둘러 베다"
+    },
+    {
+        "tag":"whisking",
+        "desc":"무엇을 휘젓다"
+    },
+    {
+        "tag":"shaking",
+        "desc":"무엇을 흔들다"
+    },
+    {
+        "tag":"spilling",
+        "desc":"무엇을 흘리다"
+    }
+]

@@ -1,0 +1,532 @@
+분류1,분류2,이름,태그목록,NSFW
+의상,특징,옷의 팔을 노출하다,arm_cutout,FALSE
+의상,특징,옷의 겨드랑이를 노출하다,armpit_cutout,FALSE
+의상,특징,옷의 어깨를 노출하다,bare_shoulders,FALSE
+의상,특징,옷의 어깨를 살짝 노출하다,shoulder_cutout,FALSE
+의상,특징,옷의 옆구리를 노출하다,low-cut_armhole,FALSE
+의상,특징,옷의 옆구리 위쪽을 노출하다,high-waist_sideboob,FALSE
+의상,특징,옷의 옆구리를 전부 노출하다,sideless_outfit,FALSE
+의상,특징,옷의 등을 노출하다,bare_back,FALSE
+의상,특징,옷의 등을 숨기지 않는다,backless_outfit,FALSE
+의상,특징,옷의 가슴을 노출하다,breast_slip,FALSE
+의상,특징,옷의 가슴골을 노출하다,cleavage_cutout,FALSE
+의상,특징,옷의 가슴 사이를 노출하다,center_opening,FALSE
+의상,특징,옷의 가슴을 전부 노출하다,breastless_clothes,FALSE
+의상,특징,옷의 옆가슴을 노출하다,sideboob,FALSE
+의상,특징,옷의 뒷가슴을 노출하다,backboob,FALSE
+의상,특징,옷의 밑가슴을 노출하다,underboob,FALSE
+의상,특징,옷의 밑가슴 사이를 노출하다,underboob_cutout,FALSE
+의상,특징,옷의 젖꼭지를 노출하다,nipple_slip,FALSE
+의상,특징,옷의 유륜을 노출하다,areola_slip,FALSE
+의상,특징,옷의 배를 노출하다,midriff,FALSE
+의상,특징,옷의 배를 노출하다,stomach_cutout,FALSE
+의상,특징,옷의 배꼽을 노출하다,navel_cutout,FALSE
+의상,특징,옷의 다리가 노출되다,side_slit,FALSE
+의상,특징,옷의 허벅지를 노출하다,zettai_ryouiki,FALSE
+의상,특징,옷의 가랑이를 노출하다,crotch_cutout,FALSE
+의상,특징,옷의 골반을 노출하다,hip_vent,FALSE
+의상,특징,옷의 엉덩이를 노출하다,ass_cutout,FALSE
+의상,특징,옷의 엉덩이를 노출하다,butt_crack,FALSE
+의상,특징,옷의 소매가 없다,sleeveless,FALSE
+의상,특징,옷의 단추가 없다,unbuttoned_shirt,FALSE
+의상,특징,옷이 비쳐 보인다,see-through,FALSE
+의상,특징,옷의 노출이 심하다,revealing_clothes,FALSE
+의상,특징,옷의 선을 X자로 묶었다,cross-laced_clothes,FALSE
+의상,특징,옷의 선을 X자로 묶어 노출하다,cross-laced_cutout,FALSE
+의상,알몸,알몸 가슴천막,naked_tabard,TRUE
+의상,알몸,알몸 가운,naked_robe,TRUE
+의상,알몸,알몸 리본,naked_ribbon,TRUE
+의상,알몸,알몸 망토,naked_cape,TRUE
+의상,알몸,알몸 망토,naked_cloak,TRUE
+의상,알몸,알몸 멜빵,naked_suspenders,TRUE
+의상,알몸,알몸 붕대,naked_bandage,TRUE
+의상,알몸,알몸 셔츠,naked_shirt,TRUE
+의상,알몸,알몸 속옷,underwear_only,TRUE
+의상,알몸,알몸 스카프,naked_scarf,TRUE
+의상,알몸,알몸 이불,naked_sheet,TRUE
+의상,알몸,알몸 작업복,naked_overalls,TRUE
+의상,알몸,알몸 재킷,naked_jacket,TRUE
+의상,알몸,알몸 초콜릿,naked_chocolate,TRUE
+의상,알몸,알몸 코트,naked_coat,TRUE
+의상,알몸,알몸 타올,naked_towel,TRUE
+의상,알몸,알몸 후드,naked_hoodie,TRUE
+의상,알몸,알몸 후드 망토,naked_capelet,TRUE
+의상,알몸,알몸 에이프런,naked_apron,TRUE
+의상,알몸,알몸 에이프런,nearly_naked_apron,TRUE
+의상,제복,가쿠란,gakuran,FALSE
+의상,제복,교복,school_uniform,FALSE
+의상,제복,군복,military_uniform,FALSE
+의상,제복,메이지 여학생 교복,meiji_schoolgirl_uniform,FALSE
+의상,제복,발레복,tutu,FALSE
+의상,제복,방호복,hazmat_suit,FALSE
+의상,제복,밴드복,band_uniform,FALSE
+의상,제복,벨리댄서,harem_outfit,FALSE
+의상,제복,보호복,hev_suit,FALSE
+의상,제복,사제복,cassock,FALSE
+의상,제복,사제복,habit,FALSE
+의상,제복,선원복,sailor_(naval_uniform),FALSE
+의상,제복,세일러복,serafuku_(sailor_uniform),FALSE
+의상,제복,원시 의복,loincloth,FALSE
+의상,제복,작업복,overalls,FALSE
+의상,제복,잠옷,pajamas,FALSE
+의상,제복,여성 점원,waitress clothes,FALSE
+의상,제복,치어리더,cheerleader,FALSE
+의상,정장,정장(남성),suit,FALSE
+의상,정장,정장(여성),skirtsuit,FALSE
+의상,정장,신사복,business_suit,FALSE
+의상,정장,정장 바지,pant_suit,FALSE
+의상,정장,정장 치마,skirt_suit,FALSE
+의상,정장,턱시도,tuxedo,FALSE
+의상,슈트,자전거 슈트,bikesuit,FALSE
+의상,슈트,레이싱 슈트,racing_suit,FALSE
+의상,슈트,파일럿 슈트,pilot_suit,FALSE
+의상,슈트,플러그 슈트,plugsuit,FALSE
+의상,슈트,바디슈트,bodysuit,FALSE
+의상,슈트,점프슈트,jumpsuit,FALSE
+의상,슈트,짧은 점프 슈트,short_jumpsuit,FALSE
+의상,운동복,운동복,sweatpants,FALSE
+의상,운동복,운동복,track_suit,FALSE
+의상,운동복,체육복,gym_uniform,FALSE
+의상,운동복,축구복,football_uniform,FALSE
+의상,운동복,농구복,basketball_uniform,FALSE
+의상,운동복,야구복,baseball_uniform,FALSE
+의상,운동복,배구복,volleyball_uniform,FALSE
+의상,운동복,골프복,golf_uniform,FALSE
+의상,운동복,육상복,running_uniform,FALSE
+의상,운동복,테니스복,tennis_uniform,FALSE
+의상,운동복,레오타드,leotard,FALSE
+의상,운동복,끈 없는 레오타드,strapless_leotard,FALSE
+의상,코스튬,산타 드레스,santa_dress,FALSE
+의상,코스튬,산타 복장,santa_costume,FALSE
+의상,코스튬,카우보이,cowboy_western,FALSE
+의상,코스튬,강아지 코스튬,dog_costume,FALSE
+의상,코스튬,고릴라 코스튬,Gorilla_costume,FALSE
+의상,코스튬,고양이 코스튬,cat_costume,FALSE
+의상,코스튬,곰 코스튬,bear_costume,FALSE
+의상,코스튬,너구리 코스튬,raccoon_costume,FALSE
+의상,코스튬,늑대 코스튬,wolf_costume,FALSE
+의상,코스튬,다람쥐 코스튬,squirrel_costume,FALSE
+의상,코스튬,돼지 코스튬,pig_costume,FALSE
+의상,코스튬,말 코스튬,horse_costume,FALSE
+의상,코스튬,박쥐 코스튬,bat_costume,FALSE
+의상,코스튬,사슴 코스튬,deer_costume,FALSE
+의상,코스튬,사자 코스튬,lion_costume,FALSE
+의상,코스튬,소 코스튬,cow_costume,FALSE
+의상,코스튬,양 코스튬,sheep_costume,FALSE
+의상,코스튬,여우 코스튬,fox_costume,FALSE
+의상,코스튬,염소 코스튬,goat_costume,FALSE
+의상,코스튬,원숭이 코스튬,monkey_costume,FALSE
+의상,코스튬,족제비 코스튬,ferret_costume,FALSE
+의상,코스튬,쥐 코스튬,mouse_costume,FALSE
+의상,코스튬,토끼 코스튬,rabbit_costume,FALSE
+의상,코스튬,팬더 코스튬,panda_costume,FALSE
+의상,코스튬,호랑이 코스튬,tiger_costume,FALSE
+의상,코스튬,너스 메이드복,Nuss_maid_costume,FALSE
+의상,코스튬,레이디스 메이드복,Ladies_maid_costume,FALSE
+의상,코스튬,밀리터리 메이드복,Military_maid_costume,FALSE
+의상,코스튬,빅토리아 메이드복,Victoria_Maid_costume,FALSE
+의상,코스튬,사이버 메이드복,Cybermaid_costume,FALSE
+의상,코스튬,스팀펑크 메이드복,Steampunk_maid_costume,FALSE
+의상,코스튬,일본풍 메이드복,Japanese-style_maid_costume,FALSE
+의상,코스튬,차이나 메이드복,China-style_maid_costume,FALSE
+의상,코스튬,클래식 메이드복,Classic_maid_costume,FALSE
+의상,코스튬,키친 메이드복,Kitchen_maid_costume,FALSE
+의상,코스튬,팔러 메이드복,Faller_maid_costume,FALSE
+의상,코스튬,프렌치 메이드복,French_maid_costume,FALSE
+의상,코스튬,하우스 메이드복,House_maid_costume,FALSE
+의상,코스튬,하우스키퍼,Housekeeper_costume,FALSE
+의상,드레스,가운,gown,FALSE
+의상,드레스,네글리제,negligee,FALSE
+의상,드레스,웨딩 드레스,wedding_dress,FALSE
+의상,드레스,테니스 드레스,tennis_dress,FALSE
+의상,드레스,이브닝 드레스,evening_gown,FALSE
+의상,드레스,잠옷 드레스,nightgown,FALSE
+의상,드레스,장례식 드레스,funeral_dress,FALSE
+의상,드레스,칵테일 드레스,cocktail_dress,FALSE
+의상,드레스,코트 드레스,coat_dress,FALSE
+의상,드레스,프릴 드레스,frilled_dress,FALSE
+의상,드레스,라텍스 드레스,latex_dress,FALSE
+의상,드레스,칼라 드레스,collared_dress,FALSE
+의상,드레스,모피 장식 드레스,fur-trimmed_dress,FALSE
+의상,드레스,레이스 장식 드레스,lace-trimmed_dress,FALSE
+의상,드레스,리본 장식 드레스,ribbon-trimmed_dress,FALSE
+의상,드레스,천이 여러 겹인 드레스,layered_dress,FALSE
+의상,드레스,여름용 드레스,sundress,FALSE
+의상,드레스,팽팽한 드레스,taut_dress,FALSE
+의상,드레스,밑단이 넓은 드레스,trapeze_dress,FALSE
+의상,드레스,비쳐 보이는 드레스,see-through_dress,FALSE
+의상,드레스,흐르는 듯한 드레스,flowing_dress,FALSE
+의상,드레스,긴 드레스,long_dress,FALSE
+의상,드레스,다리노출 긴 드레스,highleg_dress,FALSE
+의상,드레스,매우 짧은 드레스,high-low_dress,FALSE
+의상,드레스,짧은 드레스,short_dress,FALSE
+의상,드레스,끈 없는 드레스,strapless_dress,FALSE
+의상,드레스,끈 없이 밀착한 드레스,tube_dress,FALSE
+의상,드레스,등이 노출된 드레스,backless_dress,FALSE
+의상,드레스,목과 연결된 드레스,halter_dress,FALSE
+의상,드레스,몸에 꼭 맞는 드레스,pencil_dress,FALSE
+의상,드레스,소매 없는 드레스,sleeveless_dress,FALSE
+의상,드레스,발목까지 내려오는 드레스,hobble_dress,FALSE
+의상,드레스,길게 V자로 갈라진 드레스,plunging_neckline_dress,FALSE
+의상,드레스,세로로 주름진 드레스,pleated_dress,FALSE
+의상,드레스,어깨가 보이는드레스,off-shoulder_dress,FALSE
+의상,드레스,절반으로 나뉜 드레스,half-dress,FALSE
+의상,드레스,피부가 꽉 조이는 드레스,skin_tight_dress,FALSE
+의상,드레스,허벅지가 갈라진 드레스,side_slit_dress,FALSE
+의상,수영복,비키니,bikini,FALSE
+의상,수영복,슬링샷,slingshot_swimsuit,FALSE
+의상,수영복,레쉬 가드,rash_guard_(swim_shirt),FALSE
+의상,수영복,비키니 스커트,bikini_skirt,FALSE
+의상,수영복,스포츠 비키니,sports_bikini,FALSE
+의상,수영복,옛날 수영복,old-fashioned_swimsuit,FALSE
+의상,수영복 ,학교 수영복,sukumizu,FALSE
+의상,수영복,학생용 수영복,school_swimsuit,FALSE
+의상,수영복,선수용 수영복,competition_swimsuit,FALSE
+의상,수영복,원피스 수영복,one-piece_swimsuit,FALSE
+의상,수영복,드레스 수영복,dress_swimsuit,FALSE
+의상,수영복,캐주얼 원피스 수영복,casual_one-piece_swimsuit,FALSE
+의상,수영복,살짝 짧은 비키니,lowleg_bikini,FALSE
+의상,수영복,매우 짧은 비키니,micro_bikini,FALSE
+의상,수영복,짧은 상의와 연결된 비키니,tankini,FALSE
+의상,수영복,몸에 밀착한 수영복,impossible_swimsuit,FALSE
+의상,수영복,끈이 많은 비키니,thong_bikini,FALSE
+의상,수영복,끈으로 묶인 비키니,side-tie_bikini_bottom,FALSE
+의상,수영복,끈으로 가슴만 연결한 비키니,string_bikini,FALSE
+의상,수영복,고리가 달린 비키니,o-ring_bikini,FALSE
+의상,수영복,고리가 위쪽과 연결한 비키니,o-ring_top,FALSE
+의상,수영복,고리가 아래쪽과 연결한 비키니,o-ring_bottom,FALSE
+의상,복장,탕좡,tangzhuang,FALSE
+의상,복장,치파오,changpao,FALSE
+의상,복장,차이나 드레스,china_dress,FALSE
+의상,복장,디른들,dirndl,FALSE
+의상,복장,베트남 드레스,vietnamese_dress,FALSE
+의상,복장,훈도시,fundoshi,FALSE
+의상,복장,야마카사,yamakasa,FALSE
+의상,복장,하카마,hakama,FALSE
+의상,복장,하카마 바지,hakama_pants,FALSE
+의상,복장,하카마 치마,hakama_skirt,FALSE
+의상,복장,하카마 짧은 치마,hakama_short_skirt,FALSE
+의상,복장,기모노,kimono,FALSE
+의상,복장,후리소데,furisode,FALSE
+의상,복장,유카타,yukata,FALSE
+의상,복장,우치카케,uchikake=(wedding_kimono),FALSE
+의상,복장,짧은 기모노,short_kimono,FALSE
+의상,복장,기모노 스커트,kimono_skirt,FALSE
+의상,복장,몇 겹 겹친 기모노,layered_kimono,FALSE
+의상,복장,하오리,haori,FALSE
+의상,복장,반소매 하오리,happi,FALSE
+의상,복장,긴 하오리,chanchanko,FALSE
+의상,복장,도테라,dotera,FALSE
+의상,복장,한텐,hanten,FALSE
+의상,복장,무녀복,miko,FALSE
+의상,복장,개조한 무녀복nontraditional,miko,FALSE
+의상,복장,사라시,sarashi,FALSE
+의상,복장,복부 사라시,Midriff_sarashi,FALSE
+의상,복장,가슴 사라시,Chest_sarashi,FALSE
+의상,복장,몸통 사라시,Budget_sarashi,FALSE
+의상,복장,풀린 사라시,Undone_sarashi,FALSE
+의상,복장,기모노 끈,tasuki,FALSE
+상의,셔츠,셔츠,shirt,FALSE
+상의,셔츠,티셔츠,t-shirt,FALSE
+상의,셔츠,프릴 셔츠,frilled_shirt,FALSE
+상의,셔츠,칼라 셔츠,collared_shirt,FALSE
+상의,셔츠,드레스 셔츠,dress_shirt,FALSE
+상의,셔츠,줄무늬 셔츠,striped_shirt,FALSE
+상의,셔츠,민소매 셔츠,sleeveless_shirt,FALSE
+상의,셔츠,밀착한 셔츠,compression_shirt,FALSE
+상의,셔츠,오픈숄더 셔츠,off-shoulder_shirt,FALSE
+상의,셔츠,버튼을 반만 푼 셔츠,unbuttoned_white_shirt,FALSE
+상의,셔츠,탱크탑,tank_top,FALSE
+상의,셔츠,튜브탑,tube_top,FALSE
+상의,셔츠,배꼽티,crop_top,FALSE
+상의,셔츠,블라우스,blouse,FALSE
+상의,셔츠,어깨가 보이는 블라우스,downblouse,FALSE
+상의,스웨터,홀터넥,halterneck,FALSE
+상의,스웨터,스웨터,sweater,FALSE
+상의,스웨터,풀오버,pullover,FALSE
+상의,스웨터,터틀넥,turtleneck,FALSE
+상의,스웨터,스웨터 조끼,sweater_vest,FALSE
+상의,스웨터,스웨터 드레스,sweater_dress,FALSE
+상의,스웨터,선 그인 스웨터,ribbed_sweater,FALSE
+상의,스웨터,털 있는 스웨터,aran_sweater,FALSE
+상의,스웨터,민소매 터틀넥,sleeveless_turtleneck,FALSE
+상의,재킷,재킷,jacket,FALSE
+상의,재킷,블레이저,blazer,FALSE
+상의,재킷,크롭 재킷,cropped_jacket,FALSE
+상의,재킷,레터맨 재킷,letterman_jacket,FALSE
+상의,재킷,사파리 재킷,safari_jacket,FALSE
+상의,재킷,정장 재킷,suit_jacket,FALSE
+상의,재킷,스카잔(일본 불량배),sukajan,FALSE
+상의,코트,코트,coat,FALSE
+상의,코트,외투,overcoat,FALSE
+상의,코트,우비,raincoat,FALSE
+상의,코트,연미복,tailcoat,FALSE
+상의,코트,더플 코트,duffel_coat,FALSE
+상의,코트,롱코트,long_coat,FALSE
+상의,코트,피코트,peacoat,FALSE
+상의,코트,트레치 코트,trench_coat,FALSE
+상의,코트,모피 코트,fur_coat,FALSE
+상의,코트,모피 장식 코트,fur-trimmed_coat,FALSE
+상의,후드,후드,hoodie,FALSE
+상의,후드,배꼽 보이는 후드,cropped_hoodie,FALSE
+상의,후드,폴카 무늬,polka_dot_hoodie,FALSE
+상의,후드,인쇄한 후드,print_hoodie,FALSE
+상의,후드,민소매 후드,sleeveless_hoodie,FALSE
+상의,후드,줄무늬 후드,striped_hoodie,FALSE
+상의,겉옷,로브,robe,FALSE
+상의,겉옷,목욕 가운,bathrobe,FALSE
+상의,겉옷,앞치마,apron,FALSE
+상의,겉옷,양복 조끼,waistcoat,FALSE
+상의,겉옷,어깨 망토,shoulder_cape,FALSE
+상의,겉옷,어깨를 덮는 망토,cape,FALSE
+상의,겉옷,어깨만 덮는 작은 망토,capelet,FALSE
+상의,겉옷,열린 로브,open_robe,FALSE
+상의,겉옷,조끼,vest,FALSE
+상의,겉옷,카디건,cardigan,FALSE
+상의,겉옷,카디건 조끼,cardigan_vest,FALSE
+하의,바지,청바지,jeans,FALSE
+하의,바지,청반바지,cutoff_jeans,FALSE
+하의,바지,카우보이 바지,chaps,FALSE
+하의,바지,몸에 꽉 끼는 바지,tight_pants,FALSE
+하의,바지,무릎 아래가 넓은 바지,bell-bottoms,FALSE
+하의,바지,발목 위까지 오는 바지,capri_pants,FALSE
+하의,바지,엉덩이 골이 보이는 바지,downpants,FALSE
+하의,바지,엉덩이와 허벅지에 꽉 끼는 바지,lowleg_pants,FALSE
+하의,바지,발목과 무릎 사이가 접힌 바지,pants_rolled_up,FALSE
+하의,반바지,반바지,shorts,FALSE
+하의,반바지,데님 반바지,denim_shorts,FALSE
+하의,반바지,자전거 반바지,bike_shorts,FALSE
+하의,반바지,체육복 반바지,gym_shorts,FALSE
+하의,반바지,부루마,buruma,FALSE
+하의,반바지,블루머,bloomers,FALSE
+하의,반바지,돌핀 팬츠,dolphin_shorts,FALSE
+하의,반바지,짧은 반바지,short_shorts,FALSE
+하의,반바지,살짝 짧은 반바지,lowleg_shorts,FALSE
+하의,반바지,매우 짧은 반바지,micro_shorts,FALSE
+하의,반바지,치마 아래 반바지,shorts_under_skirt,FALSE
+하의,치마,긴 치마,Long_skirt,FALSE
+하의,치마,짧은 치마,miniskirt,FALSE
+하의,치마,살짝 짧은 치마,lowleg_skirt,FALSE
+하의,치마,매우 짦은 치마,micro_skirt,FALSE
+하의,치마,매우 넓은 치마,high-waist_skirt,FALSE
+하의,치마,매우 좁은 치마,high-low_skirt,FALSE
+하의,치마,랩 스커트,wrap_skirt,FALSE
+하의,치마,레이어드 스커트,layered_skirt,FALSE
+하의,치마,머메이드 스커트,mermaid_skirt,FALSE
+하의,치마,멜빵 치마,overall_skirt,FALSE
+하의,치마,멜빵과 연결된 치마,overall_skirt,FALSE
+하의,치마,멜빵이 잡는 치마,suspender_skirt,FALSE
+하의,치마,치마 바지,skirt_pants,FALSE
+하의,치마,타이트 스커트,tight_skirt,FALSE
+하의,치마,튤립 스커트,tulip_skirt,FALSE
+하의,치마,파니에 스커트,pannier_skirt,FALSE
+하의,치마,플레어 스커트,flared_skirt,FALSE
+하의,치마,플리츠 스커트,pleated_skirt,FALSE
+하의,치마,피나포 드레스,pinapo_dress,FALSE
+속옷,브래지어,가슴 가리개,bandeau,FALSE
+속옷,브래지어,뷔스티에,bustier,FALSE
+속옷,브래지어,캐미솔,camisole,FALSE
+속옷,브래지어,코르셋,corset,FALSE
+속옷,브래지어,브래지어 끈,bra_strap,FALSE
+속옷,브래지어,접착 브래지어,adhesive_bra,FALSE
+속옷,브래지어,벨트 브래지어,beltbra,FALSE
+속옷,브래지어,프릴 브래지어,frilled_bra,FALSE
+속옷,브래지어,리본 브래지어,bow_bra,FALSE
+속옷,브래지어,스포츠 브래지어,sports_bra,FALSE
+속옷,브래지어,트레이닝 브래지어,training_bra,FALSE
+속옷,브래지어,노출된 브래지어,cupless_bra,FALSE
+속옷,브래지어,노출된 브래지어,shelf_bra,FALSE
+속옷,브래지어,끈이 없는 브래지어,strapless_bra,FALSE
+속옷,브래지어,앞에서 묶는 브래지어,front-tie_bra,FALSE
+속옷,브래지어,앞으로 잠그는 브래지어,front-hook_bra,FALSE
+속옷,팬티,삼각형 팬티,bow_panties,FALSE
+속옷,팬티,끈(양쪽) 팬티,side-tie_panties,FALSE
+속옷,팬티,끈 팬티,string_panties,FALSE
+속옷,팬티,가랑이가 노출된 팬티,crotchless_panties,FALSE
+속옷,팬티,가랑이가 보이는 팬티,crotch_seam,FALSE
+속옷,팬티,가랑이만 노출된 팬티,strapless_bottom,FALSE
+속옷,팬티,엉덩이만 노출된 팬티,backless_panties,FALSE
+속옷,팬티,주름 있는 팬티,frilled_panties,FALSE
+속옷,팬티,느슨한 팬티,loose_panties,FALSE
+속옷,팬티,매우 작은 팬티,micro_panties,FALSE
+속옷,팬티,매우 짧은 팬티,lowleg_panties,FALSE
+속옷,팬티,짧고 긴 팬티,highleg_panties,FALSE
+속옷,팬티,매우 큰 팬티,Sizes_of_panties,FALSE
+속옷,양말,양말,socks,FALSE
+속옷,양말,버선,tabi,FALSE
+속옷,양말,발목 양말,ankle_socks,FALSE
+속옷,양말,바비 양말,bobby_socks,FALSE
+속옷,양말,헐랑한 양말,loose_socks,FALSE
+속옷,양말,발가략 양말,toe_socks,FALSE
+속옷,양말,튜브 양말,tube_socks,FALSE
+속옷,양말,스타킹,Stocking,FALSE
+속옷,양말,레깅스,leggings,FALSE
+속옷,양말,하이레그,High_Legs,FALSE
+속옷,양말,분리된 레깅스,detached_leggings,FALSE
+속옷,양말,팬티 스타킹,pantyhose,FALSE
+속옷,양말,니 삭스(무릎),kneehighs,FALSE
+속옷,양말,오버 니 삭스(무릎 위),over-kneehighs,FALSE
+속옷,양말,하이 식스(허벅지),thighhighs,FALSE
+속옷,양말,사이 하이 삭스(허벅지),Thigh_High_Socks,FALSE
+속옷,양말,허벅지 끈,thigh_strap,FALSE
+속옷,양말,가터벨트,garter_belt,FALSE
+속옷,양말,가터 스트랩,garter_straps,FALSE
+속옷,양말,레그웨어 가터,legwear_garter,FALSE
+속옷,양말,반짝이는 양말,shiny_legwear,FALSE
+속옷,양말,보호하는 양말,armored_legwear,FALSE
+속옷,양말,위로 올리는 양말,lace-up_legwear,FALSE
+속옷,양말,비쳐 보이는 양말,see-through_legwear,FALSE
+속옷,양말,발가락만 보이는 양말,toeless_legwear,FALSE
+속옷,양말,발가락이 보이는 양말,bridal_legwear,FALSE
+속옷,양말,선이 있는 양말,seamed_legwear,FALSE
+속옷,양말,앞에 선 있는 양말,front-seamed_legwear,FALSE
+속옷,양말,뒤에 선 있는 양말,back-seamed_legwear,FALSE
+속옷,양말,옆에 선 있는 양말,side-seamed_legwear,FALSE
+속옷,양말,끈(한쪽)이 달린 양말,side-tie_legwear,FALSE
+속옷,양말,등자가 달린 양말,stirrup_legwear,FALSE
+속옷,양말,스파이크 달린 양말,spiked_legwear,FALSE
+속옷,양말,지퍼 달린 양말,zipper_legwear,FALSE
+속옷,양말,징이 박힌 양말,studded_legwear,FALSE
+속옷,양말,끈(십자형) 장식 달린 양말,cross-laced_legwear,FALSE
+속옷,양말,레이스 장식 달린 양말,lace-trimmed_legwear,FALSE
+속옷,양말,리본 장식 다린 양말,ribbon-trimmed_legwear,FALSE
+속옷,양말,리본이 달린 양말,ribbon_legwear,FALSE
+속옷,양말,모피 장식 달린 양말,fur-trimmed_legwear,FALSE
+속옷,양말,고리 장식 달린 양말,o-ring_legwear,FALSE
+속옷,양말,종 장식이 달린 양말,legwear_bell,FALSE
+신발,신발,운동화,sneakers,FALSE
+신발,신발,운동화,converse,FALSE
+신발,신발,하이탑,high_tops,FALSE
+신발,신발,교복 신발,loafers,FALSE
+신발,신발,정장 신발,pumps,FALSE
+신발,신발,중국 신발,flats,FALSE
+신발,신발,영국 신발,mary_janes,FALSE
+신발,신발,학교 실내화,uwabaki,FALSE
+신발,신발,뾰족한 신발,pointy_footwear,FALSE
+신발,신발,끈 달린 교복 신발,kiltie_loafers,FALSE
+신발,신발,리본 달린 신발,footwear_ribbon,FALSE
+신발,신발,끈이 달린 신발,cross-laced_footwear,FALSE
+신발,신발,두꺼운 굽 있는 신발,platform_footwear,FALSE
+신발,신발,발가락이 보이는 신발,toeless_footwear,FALSE
+신발,신발,발꿈치에 날개 달린 신발,winged_footwear,FALSE
+신발,구두,하이힐,high_heels,FALSE
+신발,구두,웨지힐,wedge_heels,FALSE
+신발,부츠,부츠,boots,FALSE
+신발,부츠,무릎 부츠,knee_boots,FALSE
+신발,부츠,발목 부츠,ankle_boots,FALSE
+신발,부츠,발목 위 부츠,lace-up_boots,FALSE
+신발,부츠,허벅지 부츠,thigh_boots,FALSE
+신발,부츠,보호 부츠,armored_boots,FALSE
+신발,부츠,하이힐 부츠,high_heel_boots,FALSE
+신발,부츠,고무 장화,rubber_boots,FALSE
+신발,부츠,카우보이 부츠,cowboy_boots,FALSE
+신발,샌들,샌들,sandals,FALSE
+신발,샌들,나막신 샌들,clog_sandals,FALSE
+신발,샌들,검투사 샌들,gladiator_sandals,FALSE
+신발,샌들,끈이 얽힌 샌들,cross-laced_sandals,FALSE
+신발,샌들,발목이 고정되지 않는 샌들,flip-flops,FALSE
+신발,샌들,게다(일본 나무 샌들),geta,FALSE
+신발,샌들,오코보(일본 게이샤 샌들),okobo,FALSE
+신발,샌들,와자지(일본 짚신),waraji,FALSE
+신발,샌들,조리(일본 샌들),zouri,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE

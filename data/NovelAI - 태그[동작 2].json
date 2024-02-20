@@ -1,0 +1,586 @@
+[
+    {
+        "tag":"adjusting_clothes",
+        "desc":"옷을 고치다"
+    },
+    {
+        "tag":"clothes_grab",
+        "desc":"옷을 당기다"
+    },
+    {
+        "tag":"untying",
+        "desc":"옷을 풀린다"
+    },
+    {
+        "tag":"open_clothes",
+        "desc":"옷을 풀었다"
+    },
+    {
+        "tag":"wringing_clothes",
+        "desc":"옷의 물을 짜다"
+    },
+    {
+        "tag":"untied",
+        "desc":"옷을 묶지 않았다"
+    },
+    {
+        "tag":"undressing",
+        "desc":"옷을 갈아 입는다"
+    },
+    {
+        "tag":"unzipped",
+        "desc":"옷의 지퍼를 풀다"
+    },
+    {
+        "tag":"unzipping",
+        "desc":"옷의 지퍼를 내리다"
+    },
+    {
+        "tag":"clothes_down",
+        "desc":"옷을 아래로 내리다"
+    },
+    {
+        "tag":"clothing_aside",
+        "desc":"옷을 옆으로 넘기다"
+    },
+    {
+        "tag":"open_hoodie",
+        "desc":"옷을 옆으로 내리다"
+    },
+    {
+        "tag":"topless",
+        "desc":"옷을 상의만 입었다"
+    },
+    {
+        "tag":"bottomless",
+        "desc":"옷을 하의만 입었다"
+    },
+    {
+        "tag":"open_towel",
+        "desc":"수건을 풀었다"
+    },
+    {
+        "tag":"towel_slip",
+        "desc":"수건을 벗겨졌다"
+    },
+    {
+        "tag":"pajamas_pull",
+        "desc":"잠옷을 아래로 내렸다"
+    },
+    {
+        "tag":"open_kimono",
+        "desc":"기모노를 벗다"
+    },
+    {
+        "tag":"kimono_lift",
+        "desc":"기모노를 위로 올리다"
+    },
+    {
+        "tag":"kimono_pull",
+        "desc":"기모노를 아래로 내리다"
+    },
+    {
+        "tag":"yukata_lift",
+        "desc":"유카타를 위로 올리다"
+    },
+    {
+        "tag":"leotard_pull",
+        "desc":"레오타드를 위로 당기다"
+    },
+    {
+        "tag":"leotard_aside",
+        "desc":"레오타드를 옆으로 넘기다"
+    },
+    {
+        "tag":"dress_pull",
+        "desc":"드레스를 위로 올리다"
+    },
+    {
+        "tag":"dress_tug",
+        "desc":"드레스를 아래로 내리다"
+    },
+    {
+        "tag":"dress_aside",
+        "desc":"드레스를 옆으로 넘기다"
+    },
+    {
+        "tag":"adjusting_swimsuit",
+        "desc":"수영복을 고치다"
+    },
+    {
+        "tag":"open_bikini",
+        "desc":"수영복을 풀었다"
+    },
+    {
+        "tag":"torn_swimsuit",
+        "desc":"수영복을 찢었다"
+    },
+    {
+        "tag":"bikini_lift",
+        "desc":"수영복을 위로 올리다"
+    },
+    {
+        "tag":"bikini_pull",
+        "desc":"수영복을 위로 당기다"
+    },
+    {
+        "tag":"swimsuit_pull",
+        "desc":"수영복을 위로 당기다"
+    },
+    {
+        "tag":"bikini_aside",
+        "desc":"수영복을 옆으로 넘기다"
+    },
+    {
+        "tag":"swimsuit_aside",
+        "desc":"수영복을 옆으로 넘기다"
+    },
+    {
+        "tag":"bikini_top_only",
+        "desc":"수영복을 상의만 입다"
+    },
+    {
+        "tag":"bikini_bottom_only",
+        "desc":"수영복을 하의만 입다"
+    },
+    {
+        "tag":"swimsuit_cover-up",
+        "desc":"수영복 위로 옷을 입다"
+    },
+    {
+        "tag":"swimsuit_under_clothes",
+        "desc":"수영복을 옷 안에 입다"
+    },
+    {
+        "tag":"open_shirt",
+        "desc":"셔츠를 풀었다"
+    },
+    {
+        "tag":"open_jacket",
+        "desc":"재킷를 풀었다"
+    },
+    {
+        "tag":"open_coat",
+        "desc":"코트를 풀었다"
+    },
+    {
+        "tag":"open_robe",
+        "desc":"로브를 풀었다"
+    },
+    {
+        "tag":"open_collar",
+        "desc":"셔츠의 옷깃을 풀었다"
+    },
+    {
+        "tag":"collar_grab",
+        "desc":"셔츠의 옷깃을 잡았다"
+    },
+    {
+        "tag":"collar_tug",
+        "desc":"셔츠의 옷깃을 당기다"
+    },
+    {
+        "tag":"shirt_lift",
+        "desc":"셔츠를 위로 올렸다"
+    },
+    {
+        "tag":"cape_lift",
+        "desc":"망토를 위로 올렸다"
+    },
+    {
+        "tag":"sweater_lift",
+        "desc":"스웨터를 위로 올렸다"
+    },
+    {
+        "tag":"shirt_pull",
+        "desc":"셔츠를 옆으로 당기다"
+    },
+    {
+        "tag":"shirt_slip",
+        "desc":"셔츠를 옆으로 내리다"
+    },
+    {
+        "tag":"shirt_aside",
+        "desc":"셔츠를 옆으로 넘기다"
+    },
+    {
+        "tag":"robe_slip",
+        "desc":"가운을 옆으로 넘겼다"
+    },
+    {
+        "tag":"shirt_tug",
+        "desc":"셔츠를 아래로 당기다"
+    },
+    {
+        "tag":"hood_down",
+        "desc":"후드를 아래로 내리다"
+    },
+    {
+        "tag":"strap_lift",
+        "desc":"셔츠의 끈을 위로 올린다"
+    },
+    {
+        "tag":"strap_slip",
+        "desc":"셔츠의 끈을 아래로 내리다"
+    },
+    {
+        "tag":"sleeves_rolled_up",
+        "desc":"셔츠의 소매를 위로 올렸다"
+    },
+    {
+        "tag":"sleeves_pushed_up",
+        "desc":"셔츠의 끝을 위로 올려 묶다"
+    },
+    {
+        "tag":"one_breast_out",
+        "desc":"셔츠를 내려 가슴 한쪽을 노출하다"
+    },
+    {
+        "tag":"breasts_out",
+        "desc":"셔츠를 내려 가슴 양쪽을 노출하다"
+    },
+    {
+        "tag":"open_pants",
+        "desc":"바지를 풀었다"
+    },
+    {
+        "tag":"pants_pull",
+        "desc":"바지를 아래로 내렸다"
+    },
+    {
+        "tag":"open_shorts",
+        "desc":"반바지를 풀었다"
+    },
+    {
+        "tag":"shorts_pull",
+        "desc":"반바지를 아래로 내리다"
+    },
+    {
+        "tag":"shorts_aside",
+        "desc":"반바지를 옆으로 넘기다"
+    },
+    {
+        "tag":"buruma_pull",
+        "desc":"브루마를 아래로 내렸다"
+    },
+    {
+        "tag":"buruma_aside",
+        "desc":"브루마를 옆으로 넘기다"
+    },
+    {
+        "tag":"hakama_pull",
+        "desc":"하카마를 아래로 내리다"
+    },
+    {
+        "tag":"skirt_grab",
+        "desc":"치마를 잡았다"
+    },
+    {
+        "tag":"open_skirt",
+        "desc":"치마를 풀었다"
+    },
+    {
+        "tag":"skirt_lift",
+        "desc":"치마를 위로 올리다"
+    },
+    {
+        "tag":"upskirt",
+        "desc":"치마를 위로 올라갔다"
+    },
+    {
+        "tag":"skirt_tug",
+        "desc":"치마를 아래로 당기다"
+    },
+    {
+        "tag":"skirt_pull",
+        "desc":"치마를 아래로 내리다"
+    },
+    {
+        "tag":"extended_upskirt",
+        "desc":"치마를 안에서 엿보다"
+    },
+    {
+        "tag":"skirt_around_one_leg",
+        "desc":"치마를 다리에 걸었다"
+    },
+    {
+        "tag":"skirt_around_ankles",
+        "desc":"치마를 발목에 걸었다"
+    },
+    {
+        "tag":"bra_removed",
+        "desc":"브래지어를 벗다"
+    },
+    {
+        "tag":"bra_pull",
+        "desc":"브래지어를 벗었다"
+    },
+    {
+        "tag":"holding_bra",
+        "desc":"브래지어를 들다"
+    },
+    {
+        "tag":"torn_bra",
+        "desc":"브래지어를 찢었다"
+    },
+    {
+        "tag":"adjusting_bra",
+        "desc":"브래지어를 고치다"
+    },
+    {
+        "tag":"open_bra",
+        "desc":"브래지어를 풀었다"
+    },
+    {
+        "tag":"no_bra",
+        "desc":"브래지어를 입지 않다"
+    },
+    {
+        "tag":"bra_lift",
+        "desc":"브래지어를 위로 올리다"
+    },
+    {
+        "tag":"bra_on_head",
+        "desc":"브래지어를 머리에 씌우다"
+    },
+    {
+        "tag":"bra_on_ass",
+        "desc":"브래지어를 엉덩이에 씌우다"
+    },
+    {
+        "tag":"holding_panties",
+        "desc":"팬티를 들다"
+    },
+    {
+        "tag":"adjusting_panties",
+        "desc":"팬티를 고치다"
+    },
+    {
+        "tag":"hand_in_panties",
+        "desc":"팬티를 손대다"
+    },
+    {
+        "tag":"panties_around_ankles",
+        "desc":"팬티를 발목에 걸다"
+    },
+    {
+        "tag":"panties_around_one_leg",
+        "desc":"팬티를 다리에 걸다"
+    },
+    {
+        "tag":"panties_in_mouth",
+        "desc":"팬티를 입 안에 넣다"
+    },
+    {
+        "tag":"panty_lift",
+        "desc":"팬티를 위로 올리다"
+    },
+    {
+        "tag":"panty_pull",
+        "desc":"팬티를 아래로 내리다"
+    },
+    {
+        "tag":"panties_aside",
+        "desc":"팬티를 옆으로 넘기다"
+    },
+    {
+        "tag":"panties_on_breasts",
+        "desc":"팬티를 가슴에 씌우다"
+    },
+    {
+        "tag":"panties_on_head",
+        "desc":"팬티를 머리에 씌우다"
+    },
+    {
+        "tag":"holding_legwear",
+        "desc":"양말을 들다"
+    },
+    {
+        "tag":"putting_on_legwear",
+        "desc":"양말을 입다"
+    },
+    {
+        "tag":"pulling_off_legwear",
+        "desc":"양말을 벗다"
+    },
+    {
+        "tag":"removing_legwear",
+        "desc":"양말을 벗었다"
+    },
+    {
+        "tag":"adjusting_legwear",
+        "desc":"양말을 고치다"
+    },
+    {
+        "tag":"wet_legwear",
+        "desc":"양말이 젖었다"
+    },
+    {
+        "tag":"torn_legwear",
+        "desc":"양말이 찢어졌다"
+    },
+    {
+        "tag":"taut_legwear",
+        "desc":"양말이 팽팽하다"
+    },
+    {
+        "tag":"mismatched_legwear",
+        "desc":"양말이 다른 걸 입다"
+    },
+    {
+        "tag":"pantyhose_pull",
+        "desc":"팬티 스타킹을 내리다"
+    },
+    {
+        "tag":"holding_hat",
+        "desc":"모자를 들다"
+    },
+    {
+        "tag":"hat_removed",
+        "desc":"모자를 벗다"
+    },
+    {
+        "tag":"hat_tip",
+        "desc":"모자를 잡다"
+    },
+    {
+        "tag":"putting_on_headwear",
+        "desc":"모자를 씌우다"
+    },
+    {
+        "tag":"hat_loss",
+        "desc":"모자를 날리다"
+    },
+    {
+        "tag":"torn_hat",
+        "desc":"모자를 찢었다"
+    },
+    {
+        "tag":"tilted_headwear",
+        "desc":"모자를 기울이다"
+    },
+    {
+        "tag":"adjusting_headwear",
+        "desc":"모자를 고치다"
+    },
+    {
+        "tag":"backwards_hat",
+        "desc":"모자를 거꾸로 쓰다"
+    },
+    {
+        "tag":"sideways_hat",
+        "desc":"모자를 옆으로 쓰다"
+    },
+    {
+        "tag":"hand_on_headwear",
+        "desc":"모자를 손으로 잡다"
+    },
+    {
+        "tag":"hat_on_chest",
+        "desc":"모자를 가슴 위에 올리다"
+    },
+    {
+        "tag":"hat_over_one_eye",
+        "desc":"모자를 눈 한쪽 위에 올리다"
+    },
+    {
+        "tag":"hat_over_eyes",
+        "desc":"모자를 눈 양쪽 위에 올리다"
+    },
+    {
+        "tag":"holding_eyewear",
+        "desc":"안경을 잡다"
+    },
+    {
+        "tag":"looking_for_glasses",
+        "desc":"안경을 찾다"
+    },
+    {
+        "tag":"removing_eyewear",
+        "desc":"안경을 벗다"
+    },
+    {
+        "tag":"eyewear_removed",
+        "desc":"안경을 벗었다"
+    },
+    {
+        "tag":"crooked_eyewear",
+        "desc":"안경을 기울이다"
+    },
+    {
+        "tag":"adjusting_eyewear",
+        "desc":"안경을 조정하다"
+    },
+    {
+        "tag":"eyewear_switch",
+        "desc":"안경을 바꿔 끼다"
+    },
+    {
+        "tag":"looking_over_eyewear",
+        "desc":"안경을 끼고 엿본다"
+    },
+    {
+        "tag":"eyewear_view",
+        "desc":"안경을 끼고 본다"
+    },
+    {
+        "tag":"eyewear_hang",
+        "desc":"안경을 옷 위에 걸다"
+    },
+    {
+        "tag":"eyewear_in_mouth",
+        "desc":"안경을 입으로 물다"
+    },
+    {
+        "tag":"hand_on_eyewear",
+        "desc":"안경을 살짝 위로 올린다"
+    },
+    {
+        "tag":"eyewear_on_head",
+        "desc":"안경을 머리 위에 올리다"
+    },
+    {
+        "tag":"eyewear_on_headwear",
+        "desc":"안경을 모자 위에 올리다"
+    },
+    {
+        "tag":"holding_mask",
+        "desc":"마스크를 들다"
+    },
+    {
+        "tag":"removing_mask",
+        "desc":"마스크를 벗다"
+    },
+    {
+        "tag":"mask_removed",
+        "desc":"마스크를 벗었다"
+    },
+    {
+        "tag":"mask_around_neck",
+        "desc":"마스크를 목에 걸다"
+    },
+    {
+        "tag":"mask_lift",
+        "desc":"마스크를 위로 올리다"
+    },
+    {
+        "tag":"mask_pull",
+        "desc":"마스크를 아래로 당기다"
+    },
+    {
+        "tag":"mask_over_one_eye",
+        "desc":"마스크를 눈 위에 올리다"
+    },
+    {
+        "tag":"mask_on_head",
+        "desc":"마스크를 머리 위에 올리다"
+    },
+    {
+        "tag":"necktie_grab",
+        "desc":"넥타이를 잡다"
+    },
+    {
+        "tag":"adjusting_earrings",
+        "desc":"귀걸이를 고치다"
+    }
+]

@@ -1,0 +1,578 @@
+분류1,분류2,이름,태그목록,NSFW
+얼굴,부위,얼굴,face,FALSE
+얼굴,부위,뺨,cheek,FALSE
+얼굴,부위,턱,chin,FALSE
+얼굴,모양,얼굴이 작다,small_face,FALSE
+얼굴,모양,얼굴이 살짝 작다,small_medium_face,FALSE
+얼굴,모양,얼굴이 평범하다,medium_face,FALSE
+얼굴,모양,얼굴이 크다,large_face,FALSE
+얼굴,모양,얼굴이 매우 크다,huge_face,FALSE
+얼굴,모양,얼굴이 날렵하다,sharp_face,FALSE
+얼굴,모양,얼굴이 뾰족하다,pointed_face,FALSE
+얼굴,모양,얼굴이 땅콩형이다,peanut_face,FALSE
+얼굴,모양,얼굴이 타원형이다,round_face,FALSE
+얼굴,모양,얼굴이 계란형이다,egg-shaped_face,FALSE
+얼굴,모양,얼굴이 삼각형이다,triangular_face,FALSE
+얼굴,모양,얼굴이 역삼각형이다,inverted_triangle_of_faces,FALSE
+얼굴,모양,얼굴이 사각형이다,squareface,FALSE
+얼굴,모양,얼굴이 마름모형이다,diamond_face,FALSE
+얼굴,모양,얼굴이 육각형이다,hexagonal_face,FALSE
+얼굴,모양,얼굴이 하트형이다,Heart-shaped_face,FALSE
+얼굴,특징,뺨을 붉혔다,blush,FALSE
+얼굴,특징,울고 있다,crying,FALSE
+얼굴,특징,울면서 슬퍼한다,cried_so_sadly,FALSE
+머리카락,색깔,흰색 머리카락,white hair,FALSE
+머리카락,색깔,갈색 머리카락,brown hair,FALSE
+머리카락,색깔,빨강색 머리카락,red hair,FALSE
+머리카락,색깔,분홍색 머리카락,pink hair,FALSE
+머리카락,색깔,주황색 머리카락,orange hair,FALSE
+머리카락,색깔,노란색 머리카락,yellow hair,FALSE
+머리카락,색깔,황금색 머리카락,Blonde hair,FALSE
+머리카락,색깔,연두색 머리카락,light green hair,FALSE
+머리카락,색깔,초록색 머리카락,green hair,FALSE
+머리카락,색깔,하늘색 머리카락,sky blue hair,FALSE
+머리카락,색깔,파란색 머리카락,blue hair,FALSE
+머리카락,색깔,보라색 머리카락,purple hair,FALSE
+머리카락,색깔,검은색 머리카락,black hair,FALSE
+머리카락,색깔,무지개색 머리카락,rainbow hair,FALSE
+머리카락,색깔,머리카락 색깔이 두 가지다,two-tone hair,FALSE
+머리카락,색깔,머리카락 색깔이 줄무늬다,streaked hair,FALSE
+머리카락,색깔,머리카락 색깔이 층을 이룬다,gradient hair,FALSE
+머리카락,색깔,머리카락 색깔이 절반씩 다르다,split-color hair,FALSE
+머리카락,색깔,머리카락 색깔이 매우 다양하다,multicolored hair,FALSE
+머리카락,색깔,머리카락 안쪽을 염색했다,colored inner hair,FALSE
+머리카락,색깔,머리카락을 아래→위로 염색하다,ombre,FALSE
+머리카락,색깔,머리카락을 위→아래로 염색하다,sombre,FALSE
+머리카락,모양,머리카락이 짧다,short_hair,FALSE
+머리카락,모양,머리카락이 매우 짧다,very_short_hair,FALSE
+머리카락,모양,머리카락이 엄청 짧다,absurdly_short_hair,FALSE
+머리카락,모양,머리카락이 살짝 길다,medium_hair,FALSE
+머리카락,모양,머리카락이 길다,long_hair,FALSE
+머리카락,모양,머리카락이 매우 길다,very_long_hair,FALSE
+머리카락,모양,머리카락이 엄청 길다,absurdly_long_hair,FALSE
+머리카락,모양,머리카락이 곧다,straight_hair,FALSE
+머리카락,모양,머리카락이 곱슬거린다,curly_hair,FALSE
+머리카락,모양,머리카락이 구불댄다,wavy_hair,FALSE
+머리카락,모양,머리카락이 날카롭다,spiked_hair,FALSE
+머리카락,모양,머리카락이 뒤집혔다,flipped_hair,FALSE
+머리카락,모양,머리카락이 뭉툭하다,bluntbangs,FALSE
+머리카락,모양,머리카락이 뾰족하다,pointy_hair,FALSE
+머리카락,모양,머리카락이 헝클어졌다,messy_hair,FALSE
+머리카락,특징,앞머리가 가지런하다,Blunt_bangs,FALSE
+머리카락,특징,앞머리가 양쪽으로 갈라진다,parted_bangs,FALSE
+머리카락,특징,앞머리가 미간에서 교차한다,crossed_bangs,FALSE
+머리카락,특징,앞머리가 한쪽으로 몰렸다,swept_bangs,FALSE
+머리카락,특징,앞머리를 한쪽으로 땋았다,braided_bangs,FALSE
+머리카락,특징,앞머리가 한쪽 눈을 가렸다,hair_over_one_eye,FALSE
+머리카락,특징,앞머리가 양쪽 눈을 가렸다,hair_over_eyes,FALSE
+머리카락,특징,앞머리가 눈 사이를 가린다,hair_between_eyes,FALSE
+머리카락,특징,"앞머리가 한쪽만 길고, 한쪽은 짧다",asymmetrical_bangs,FALSE
+머리카락,스타일,픽시컷,pixie_cut,FALSE
+머리카락,스타일,언더컷,undercut,FALSE
+머리카락,스타일,콘로우,cornrows,FALSE
+머리카락,스타일,드레드,dreadlocks,FALSE
+머리카락,스타일,브레이드,braid,FALSE
+머리카락,스타일,앞머리 브레이드,braided_bangs,FALSE
+머리카락,스타일,앞머리 브레이드,front_braid,FALSE
+머리카락,스타일,사이드 브레이드,side_braid,FALSE
+머리카락,스타일,프렌치 브레이드,french_braid,FALSE
+머리카락,스타일,크라운 브레이드,crown_braid,FALSE
+머리카락,스타일,싱글 브레이드,single_braid,FALSE
+머리카락,스타일,여러 브레이드,multiple_braids,FALSE
+머리카락,스타일,트윈 브레이드,twin_braids,FALSE
+머리카락,스타일,트라이 브레이드,tri_braids,FALSE
+머리카락,스타일,퀴드 브레이드,quad_braids,FALSE
+머리카락,스타일,롤빵,hair_bun,FALSE
+머리카락,스타일,묶은 롤빵,braided_bun,FALSE
+머리카락,스타일,싱글 롤빵,single_hair_bun,FALSE
+머리카락,스타일,더블 롤빵,double_bun,FALSE
+머리카락,스타일,트윈 롤빵,triple_bun,FALSE
+머리카락,스타일,콘헤어 롤빵,cone_hair_bun,FALSE
+머리카락,스타일,도넛헤어 롤빵,doughnut_hair_bun,FALSE
+머리카락,스타일,하트헤어 롤빵,heart_hair_bun,FALSE
+머리카락,스타일,원 사이드 업,one_side_up,FALSE
+머리카락,스타일,투 사이드 업,two_side_up,FALSE
+머리카락,스타일,포니테일,ponytail,FALSE
+머리카락,스타일,접힌 포니테일,folded_ponytail,FALSE
+머리카락,스타일,앞머리 포니테일,front_ponytail,FALSE
+머리카락,스타일,높은 포니테일,high_ponytail,FALSE
+머리카락,스타일,낮은 포니테일,short_ponytail,FALSE
+머리카락,스타일,사이드 포니테일,side_ponytail,FALSE
+머리카락,스타일,스플릿 포니테일,split_ponytail,FALSE
+머리카락,스타일,트윈테일,twintails,FALSE
+머리카락,스타일,낮은 트윈테일,low_twintails,FALSE
+머리카락,스타일,짧은 트윈테일,short_twintails,FALSE
+머리카락,스타일,험한 트윈테일,uneven_twintails,FALSE
+머리카락,스타일,트라티 테일,tri_tails,FALSE
+머리카락,스타일,퀴드 테일,quad_tails,FALSE
+머리카락,스타일,퀸테일,quin_tails,FALSE
+머리카락,스타일,회색 브리지,gray_hair_streak,FALSE
+머리카락,스타일,흰색 브리지,white_hair_streak,FALSE
+머리카락,스타일,갈색 브리지,brown_hair_streak,FALSE
+머리카락,스타일,빨강색 브리지,Red_hair_streak,FALSE
+머리카락,스타일,분홍색 브리지,pink_hair_streak,FALSE
+머리카락,스타일,주황색 브리지,orange_hair_streak,FALSE
+머리카락,스타일,노란색 브리지,yellow_hair_streak,FALSE
+머리카락,스타일,황금색 브리지,Blonde_hair_streak,FALSE
+머리카락,스타일,연두색 브리지,light_green_hair_streak,FALSE
+머리카락,스타일,초록색 브리지,green_hair_streak,FALSE
+머리카락,스타일,하늘색 브리지,sky_blue_hair_streak,FALSE
+머리카락,스타일,파란색 브리지,blue_hair_streak,FALSE
+머리카락,스타일,보라색 브리지,Purple_hair_streak,FALSE
+머리카락,스타일,검은색 브리지,black_hair_streak,FALSE
+머리카락,스타일,무지개색 브리지,rainbow_hair_streak,FALSE
+눈,부위,눈,Eyes,FALSE
+눈,부위,눈썹,Eyebrow,FALSE
+눈,부위,속눈썹,Eyelashes,FALSE
+눈,모양,눈이 작다,short_eyes,FALSE
+눈,크기,눈이 크다,long_eyes,FALSE
+눈,크기,눈썹이 짧다,short_eyebrow,FALSE
+눈,크기,눈썹이 길다,long_eyebrow,FALSE
+눈,크기,눈썹이 가늘다,slender_eyebrow,FALSE
+눈,크기,눈썹이 두껍다,heavy_eyebrow,FALSE
+눈,크기,속눈썹이 짧다,short_eyelashes,FALSE
+눈,크기,속눈썹이 길다,long_eyelashes,FALSE
+눈,크기,속눈썹이 가늘다,slender_eyelashes,FALSE
+눈,크기,속눈썹이 두껍다,heavy_eyelashes,FALSE
+눈,색깔,회색 눈,gray_eyes,FALSE
+눈,색깔,흰색 눈,white_eyes,FALSE
+눈,색깔,갈색 눈,brown_eyes,FALSE
+눈,색깔,빨강색 눈,red_eyes,FALSE
+눈,색깔,분홍색 눈,pink_eyes,FALSE
+눈,색깔,주황색 눈,orange_eyes,FALSE
+눈,색깔,노란색 눈,yellow_eyes,FALSE
+눈,색깔,황금색 눈,golden_eyes,FALSE
+눈,색깔,연두색 눈,light_green_eyes,FALSE
+눈,색깔,초록색 눈,green_eyes,FALSE
+눈,색깔,하늘색 눈,sky_blue_eyes,FALSE
+눈,색깔,파란색 눈,blue_eyes,FALSE
+눈,색깔,보라색 눈,purple_eyes,FALSE
+눈,색깔,검은색 눈,black_eyes,FALSE
+눈,색깔,다름,Odd_Eye,FALSE
+눈,색깔,다중,multicolored_eye,FALSE
+눈,색깔,이색,heterochromia,FALSE
+눈,모양,심볼,symbol-shaped_pupils,FALSE
+눈,모양,하트,heart-shaped_pupils,FALSE
+눈,모양,스페이드,spade-shaped_pupils,FALSE
+눈,모양,클로버,clover-shaped_pupils,FALSE
+눈,모양,다이아몬드,diamond-shaped_pupils,FALSE
+눈,모양,별,star-shaped_pupils,FALSE
+눈,모양,꽃,flower-shaped_pupils,FALSE
+눈,모양,죽은 눈,blanked_eyes,FALSE
+눈,모양,강간당한 눈,empty_eyes,FALSE
+눈,모양,수축된 눈,sconstricted_pupils,FALSE
+눈,모양,확장된 눈,dilated_pupils,FALSE
+눈,모양,충혈된 눈,bloodshot_pupils,FALSE
+눈,모양,발화된 눈,flaming_pupils,FALSE
+눈,모양,발광한 눈,glowing_pupils,FALSE
+눈,특징,눈물이 맺힌다,tears,FALSE
+눈,특징,눈물을 흘린다,crying_eyes,FALSE
+눈,특징,눈물에 화장이 번졌다,mascars_tears,FALSE
+눈,특징,눈꺼풀을 화장하다,eyeshadow,FALSE
+눈,특징,눈꼬리를 화장하다,eyeliner,FALSE
+눈,특징,속눈썹을 화장하다,mascara,FALSE
+눈,특징,눈이 죽었다,blanked_eyes,FALSE
+눈,특징,눈이 수축된다,sconstricted_pupils,FALSE
+눈,특징,눈이 확장된다,dilated_pupils,FALSE
+눈,특징,눈이 충혈된다,bloodshot_pupils,FALSE
+눈,특징,눈이 발화된다,flaming_pupils,FALSE
+눈,특징,눈이 발광한다,glowing_pupils,FALSE
+눈,특징,눈이 빛을 잃었다,empty_eyes,FALSE
+눈,특징,눈을 한쪽만 감았다,one_eye_closed,FALSE
+눈,특징,눈을 양쪽을 감았다,eyes_closed,FALSE
+눈,특징,눈의 초점이 어긋났다,uneven_eyes,FALSE
+입,부위,입,mouth,FALSE
+입,부위,입술,lips,FALSE
+입,부위,혀,tongue,FALSE
+입,모양,입이 작다,small_mouth,FALSE
+입,모양,입이 크다,big_mouth,FALSE
+입,모양,입술이 얇다,thin_lips,FALSE
+입,모양,입술이 두껍다,thick_lips,FALSE
+입,모양,혀가 짧다,short_tongue,FALSE
+입,모양,혀가 길다,long_tongue,FALSE
+입,상태,입을 열다,open_mouth,FALSE
+입,상태,입을 다물다,close_mouth,FALSE
+입,상태,입에서 혀를 내밀다,stick_out_tongue,FALSE
+입,상태,입에서 침을 흘리다,drooling,FALSE
+입,색깔,회색 입술,gray lips,FALSE
+입,색깔,흰색 입술,white lips,FALSE
+입,색깔,갈색 입술,brown lips,FALSE
+입,색깔,빨강색 입술,red lips,FALSE
+입,색깔,분홍색 입술,pink lips,FALSE
+입,색깔,주황색 입술,orange lips,FALSE
+입,색깔,노란색 입술,yellow lips,FALSE
+입,색깔,황금색 입술,golden lips,FALSE
+입,색깔,연두색 입술,light green lips,FALSE
+입,색깔,초록색 입술,green lips,FALSE
+입,색깔,하늘색 입술,sky blue lips,FALSE
+입,색깔,파란색 입술,blue lips,FALSE
+입,색깔,보라색 입술,purple lips,FALSE
+입,색깔,검은색 입술,black lips,FALSE
+입,색깔,회색 혀,gray tongue,FALSE
+입,색깔,흰색 혀,white tongue,FALSE
+입,색깔,갈색 혀,brown tongue,FALSE
+입,색깔,빨강색 혀,red tongue,FALSE
+입,색깔,분홍색 혀,pink tongue,FALSE
+입,색깔,주황색 혀,orange tongue,FALSE
+입,색깔,노란색 혀,yellow tongue,FALSE
+입,색깔,황금색 혀,golden tongue,FALSE
+입,색깔,연두색 혀,light green tongue,FALSE
+입,색깔,초록색 혀,green tongue,FALSE
+입,색깔,하늘색 혀,sky blue tongue,FALSE
+입,색깔,파란색 혀,blue tongue,FALSE
+입,색깔,보라색 혀,purple tongue,FALSE
+입,색깔,검은색 혀,black tongue,FALSE
+귀,부위,귀,ears,FALSE
+귀,부위,귓볼,earlobes,FALSE
+귀,모양,귀가 길다,long_ears,FALSE
+귀,모양,귀가 매우 짧다,very_short_ears,FALSE
+귀,모양,귀가 매우 길다,very_long_ears,FALSE
+귀,모양,귀가 가늘다,slender_ears,FALSE
+귀,모양,귀가 두껍다,heavy_ears,FALSE
+귀,모양,귓불이 짧다,short_earlobes,FALSE
+귀,모양,귓불이 길다,long_earlobes,FALSE
+귀,상태,귀가 뾰족하다,pointy_ears,FALSE
+귀,상태,귀가 짧고 뾰족하다,short_pointy_ears,FALSE
+귀,상태,귀가 길고 뾰족하다,long_pointy_ears,FALSE
+귀,모양,동물귀,animal_ears,FALSE
+귀,모양,가짜 동물귀,fake_animal_ears,FALSE
+귀,모양,강아지 귀,dog_ears,FALSE
+귀,모양,고릴라,Gorilla_ears,FALSE
+귀,모양,고양이 귀,cat_ears,FALSE
+귀,모양,곰 귀,bear_ears,FALSE
+귀,모양,너구리 귀,raccoon_ears,FALSE
+귀,모양,늑대 귀,wolf_ears,FALSE
+귀,모양,다람쥐 귀,squirrel_ears,FALSE
+귀,모양,돼지 귀,pig_ears,FALSE
+귀,모양,말 귀,horse_ears,FALSE
+귀,모양,박쥐 귀,bat_ears,FALSE
+귀,모양,사슴 귀,deer_ears,FALSE
+귀,모양,사자 귀,lion_ears,FALSE
+귀,모양,소 귀,cow_ears,FALSE
+귀,모양,양 귀,sheep_ears,FALSE
+귀,모양,여우 귀,fox_ears,FALSE
+귀,모양,염소 귀,goat_ears,FALSE
+귀,모양,원숭이 귀,monkey_ears,FALSE
+귀,모양,족제비 귀,ferret_ears,FALSE
+귀,모양,쥐 귀,mouse_ears,FALSE
+귀,모양,토끼 귀,rabbit_ears,FALSE
+귀,모양,팬더 귀,panda_ears,FALSE
+귀,모양,호랑이 귀,tiger_ears,FALSE
+코,모양,코가 작다,small_nose,FALSE
+코,모양,코가 길다,long_nose,FALSE
+코,길이,코가 가늘다,slender_nose,FALSE
+코,길이,코가 두껍다,heavy_nose,FALSE
+코,모양,코가 넓적하다,broad_nose,FALSE
+코,모양,코가 끝만 높다,high-end_nose,FALSE
+코,모양,코가 들창코다,wild_boogged_nose,FALSE
+코,모양,코가 메부리코다,aquiline_nose,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE

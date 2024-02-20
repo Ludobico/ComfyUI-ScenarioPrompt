@@ -1,0 +1,494 @@
+분류1,분류2,이름,태그목록,NSFW
+동사,동사 ㄱ,누구를 껴안다,cuddling,FALSE
+동사,동사 ㄱ,누구의 귀를 청소하다,earcleaning,FALSE
+동사,동사 ㄱ,누군가 감동하다,touching,FALSE
+동사,동사 ㄱ,누군가 곧 죽다,dying,FALSE
+동사,동사 ㄱ,누군가 구토하다,vomiting,FALSE
+동사,동사 ㄱ,누군가 귓가에 속삭이다,whispering,FALSE
+동사,동사 ㄱ,누군가 균형잡다,balancing,FALSE
+동사,동사 ㄱ,누군가 기도하다,praying,FALSE
+동사,동사 ㄱ,누군가 기저귀를 갈다,diaperchanging,FALSE
+동사,동사 ㄱ,누군가 꽃에 물을 주다,gardening,FALSE
+동사,동사 ㄱ,누군가 꿈꾸다,dreaming,FALSE
+동사,동사 ㄴ,누군가 날개를 펄럭이다,flapping,FALSE
+동사,동사 ㄴ,누군가 내려오다,landing,FALSE
+동사,동사 ㄴ,누군가 네 발로 걷다,crawling,FALSE
+동사,동사 ㄴ,누군가 노래하다,singing,FALSE
+동사,동사 ㄴ,누군가 노크하다,knocking,FALSE
+동사,동사 ㄴ,누군가 놀다,playing,FALSE
+동사,동사 ㄴ,누군가 눈을 깜빡이다,blinking,FALSE
+동사,동사 ㄷ,누구를 도발하다,trolling,FALSE
+동사,동사 ㄷ,누구를 뒤에서 껴안다,hugfrombehind,FALSE
+동사,동사 ㄷ,누구를 따라하다,imitating,FALSE
+동사,동사 ㄷ,누구를 때리다,hitting,FALSE
+동사,동사 ㄷ,누군가 담배를 피다,smoking,FALSE
+동사,동사 ㄷ,누군가 대기하다,waiting,FALSE
+동사,동사 ㄷ,누군가 도망치다,fleeing,FALSE
+동사,동사 ㄷ,누군가 도주하다,running,FALSE
+동사,동사 ㄷ,누군가 등반하다,climbing,FALSE
+동사,동사 ㄷ,누군가 땅을 파다,digging,FALSE
+동사,동사 ㄹ,누군가 로프를 타고 내려온다,rappelling,FALSE
+동사,동사 ㅁ,누구를 말리다,blocking,FALSE
+동사,동사 ㅁ,누구를 매달다,catching,FALSE
+동사,동사 ㅁ,누구의 마음을 읽다,mindreading,FALSE
+동사,동사 ㅁ,누구의 무릎을 껴안다,sittingonlap,FALSE
+동사,동사 ㅁ,누군가 매다 끈을 풀다,untying,FALSE
+동사,동사 ㅁ,누군가 매다 목도리를 매다,scarftying,FALSE
+동사,동사 ㅁ,누군가 매다 장식을 매다,tying,FALSE
+동사,동사 ㅁ,누군가 매우 저항하다,resisting,FALSE
+동사,동사 ㅁ,누군가 모유를 수유하다,breastfeeding,FALSE
+동사,동사 ㅁ,누군가 목욕하다,bathing,FALSE
+동사,동사 ㅁ,누군가 목욕하며 비누를 쓰다,soap,FALSE
+동사,동사 ㅁ,누군가 목욕하며 거품을 쓰다,shampoo,FALSE
+동사,동사 ㅁ,누군가 목욕을 같이 한다,mixedbathing,FALSE
+동사,동사 ㅁ,누군가 목욕을 함께 한다,sharedbathing,FALSE
+동사,동사 ㅁ,누군가 옷을 입고 목욕하다,clothedbath,FALSE
+동사,동사 ㅁ,누군가 목을 조르다,strangling,FALSE
+동사,동사 ㅁ,누군가 몸을 떨다,trembling,FALSE
+동사,동사 ㅁ,누군가 몸을 말리다,drying,FALSE
+동사,동사 ㅁ,누군가 몸을 웅크리다,cowering,FALSE
+동사,동사 ㅁ,누군가 무릎꿇고 인사하다,bowing,FALSE
+동사,동사 ㅁ,누군가 무릎을 꿇다,kneeing,FALSE
+동사,동사 ㅁ,누군가 문자 메시지를 보내다,textmessaging,FALSE
+동사,동사 ㅁ,누군가 물 속에 다이빙하다,diving=(differentfromdive),FALSE
+동사,동사 ㅁ,누군가 물을 넘어가다,wading,FALSE
+동사,동사 ㅁ,누군가 물을 높게 잔에 붓다,decantering,FALSE
+동사,동사 ㅁ,누군가 물을 분출하다,squirtingliquid,FALSE
+동사,동사 ㅁ,누군가 물을 뿌리다,watering,FALSE
+동사,동사 ㅁ,누군가 물을 잔에 붓다,pouring,FALSE
+동사,동사 ㅁ,누군가 물이 몸에 튀다,splashing,FALSE
+동사,동사 ㅁ,누군가 미끄러지다,slipping,FALSE
+동사,동사 ㅅ,누구와 실수로 부딪힌다,bumping,FALSE
+동사,동사 ㅅ,누군가 사과하다,apologizing,FALSE
+동사,동사 ㅅ,누군가 사람을 쌓다,stacking,FALSE
+동사,동사 ㅅ,누군가 소리를 엿듣다,eavesdropping,FALSE
+동사,동사 ㅅ,누군가 소리를 크게 낸다,screaming,FALSE
+동사,동사 ㅅ,누군가 소리를 크게 외치다,shouting,FALSE
+동사,동사 ㅅ,누군가 술을 마시다,drinking,FALSE
+동사,동사 ㅅ,누군가 숨죽여 웃다,giggling,FALSE
+동사,동사 ㅅ,누군가 슬라이딩하다,sliding,FALSE
+동사,동사 ㅅ,누군가 신음하다,moaning,FALSE
+동사,동사 ㅅ,누군가 싸우다,fighting,FALSE
+동사,동사 ㅅ,누군가 결투하다,duel,FALSE
+동사,동사 ㅅ,누군가 베개로 싸운다,pillow_fight,FALSE
+동사,동사 ㅅ,누군가 눈으로 싸운다,snowball_fight,FALSE
+동사,동사 ㅇ,누구를 위로하다,comforting,FALSE
+동사,동사 ㅇ,누구를 위협하다,roaring,FALSE
+동사,동사 ㅇ,누구를 유혹하다,flirting,FALSE
+동사,동사 ㅇ,누구를 응원하다,cheering,FALSE
+동사,동사 ㅇ,누군가 안절부절하다,_fidgeting,FALSE
+동사,동사 ㅇ,누군가 어리광을 부리다,flailing,FALSE
+동사,동사 ㅇ,누군가 얼굴을 찡그리다,sulking,FALSE
+동사,동사 ㅇ,누군가 엉덩이를 때리다,spanking,FALSE
+동사,동사 ㅇ,누군가 옷을 강제로 입히다,forceddressing,FALSE
+동사,동사 ㅇ,누군가 옷을 벗고 있다,undressing,FALSE
+동사,동사 ㅇ,누군가 옷을 입다,dressing,FALSE
+동사,동사 ㅇ,누군가 옷을 짜내다,wringing,FALSE
+동사,동사 ㅇ,누군가 운전하다,driving,FALSE
+동사,동사 ㅇ,누군가 웃다,laughing,FALSE
+동사,동사 ㅇ,누군가 음식(빵)을 만들다,baking,FALSE
+동사,동사 ㅇ,누군가 음식(초콜렛)을 만들다,chocolatemaking,FALSE
+동사,동사 ㅇ,누군가 음식을 데우다,roasting,FALSE
+동사,동사 ㅇ,누군가 음식을 요리하다,cooking,FALSE
+동사,동사 ㅇ,누군가 음식을 휘젓다,stirring,FALSE
+동사,동사 ㅇ,누군가 일광욕하다,sunbathing,FALSE
+동사,동사 ㅇ,누군가 일하고 있다,working,FALSE
+동사,동사 ㅈ,누구를 조용히 시키다,shushing,FALSE
+동사,동사 ㅈ,누구를 쫓다,chasing,FALSE
+동사,동사 ㅈ,누군가 재채기하다,sneezing,FALSE
+동사,동사 ㅈ,누군가 점프하다,jumping,FALSE
+동사,동사 ㅈ,누군가 강하게 점프하다,pouncing,FALSE
+동사,동사 ㅈ,누군가 약하게 점프하다,hopping,FALSE
+동사,동사 ㅈ,누군가 주위를 둘러본다,searching,FALSE
+동사,동사 ㅈ,누군가 지퍼를 위로 당기다,zipping,FALSE
+동사,동사 ㅈ,누군가 지퍼를 풀고 있다,unzipping,FALSE
+동사,동사 ㅈ,누군가 집중하다,concentrating,FALSE
+동사,동사 ㅊ,누구를 채찍찔하다,whipping,FALSE
+동사,동사 ㅊ,누군가 착륙 준비하다,launching,FALSE
+동사,동사 ㅊ,누군가 책을 읽다,reading,FALSE
+동사,동사 ㅊ,누군가 총을 쏘다,firing,FALSE
+동사,동사 ㅊ,누군가 총을 쏘자 빛나다,muzzleflash,FALSE
+동사,동사 ㅊ,누군가 총을 재장전하다,reloading,FALSE
+동사,동사 ㅊ,누군가 춤추다,dancing,FALSE
+동사,동사 ㅊ,누군가 춤추며 봉을 타다,poledancing,FALSE
+동사,동사 ㅊ,누군가 침을 뱉다,spitting,FALSE
+동사,동사 ㅋ,누군가 코를 파다,nosepicking,FALSE
+동사,동사 ㅌ,누군가 턱을 쓰다듬다,strokingownchin,FALSE
+동사,동사 ㅍ,누구를 팔꿈치로 때리다,elbowing,FALSE
+동사,동사 ㅍ,누군가 팔을 흔들다 인사하다,waving,FALSE
+동사,동사 ㅍ,누군가 펜을 회전하다,penspinning,FALSE
+동사,동사 ㅎ,누군가 하강하다,reaching,FALSE
+동사,동사 ㅎ,누군가 휘파람을 불다,whistling,FALSE
+동사,동사 ㅎ,누군가 휴식하다,resting,FALSE
+동사,동사 ㅎ,누군가 흙먼지를 쓸다,sweeping,FALSE
+동사,동사 ㅎ,누군가를 쓰다듬다,peeing,FALSE
+동사,동사 ㅎ,누군가에게 음식을 권하다,feeding,FALSE
+동명사,동명사 ㄱ,무엇이 가라앉다,sinking,FALSE
+동명사,동명사 ㄱ,무엇이 공중에 떠 있다,floating,FALSE
+동명사,동명사 ㄱ,무엇이 공중을 날다,flying,FALSE
+동명사,동명사 ㄱ,무엇을 가르치다,teaching,FALSE
+동명사,동명사 ㄱ,무엇을 개봉하다,opening,FALSE
+동명사,동명사 ㄱ,무엇을 건너뛰다,skipping,FALSE
+동명사,동명사 ㄱ,무엇을 고치다,repairing,FALSE
+동명사,동명사 ㄱ,무엇을 공부하다,studying,FALSE
+동명사,동명사 ㄱ,무엇을 광택내다,polishing,FALSE
+동명사,동명사 ㄱ,무엇을 구걸하다,begging,FALSE
+동명사,동명사 ㄱ,무엇을 굴리며 이동하다,rolling,FALSE
+동명사,동명사 ㄱ,무엇을 그리다,sketching,FALSE
+동명사,동명사 ㄱ,무엇을 끌고 가다,dragging,FALSE
+동명사,동명사 ㄴ,무엇을 녹이다,melting,FALSE
+동명사,동명사 ㄴ,무엇을 눌러서 터뜨리다,crushing,FALSE
+동명사,동명사 ㄷ,무엇이 떨어지는 걸 잡다,carrying,FALSE
+동명사,동명사 ㄷ,무엇을 당기다,pulling,FALSE
+동명사,동명사 ㄷ,무엇을 던지다,pitching,FALSE
+동명사,동명사 ㄷ,무엇을 던지다,throwing,FALSE
+동명사,동명사 ㄷ,무엇을 들다,holding,FALSE
+동명사,동명사 ㄷ,무엇을 때리다,punching,FALSE
+동명사,동명사 ㄷ,무엇을 때리다 빠르게,rapidpunches,FALSE
+동명사,동명사 ㄷ,무엇을 떨어뜨리다,dropping,FALSE
+동명사,동명사 ㅁ,무엇을 모아 담다,cupping,FALSE
+동명사,동명사 ㅁ,무엇을 무기로 조준하다,pointing_weapon,FALSE
+동명사,동명사 ㅂ,무엇이 부화하다,hatching,FALSE
+동명사,동명사 ㅂ,무엇이 빛난다,glowing,FALSE
+동명사,동명사 ㅂ,무엇을 벗기다,unsheathing,FALSE
+동명사,동명사 ㅂ,무엇을 보호하다,protecting,FALSE
+동명사,동명사 ㅂ,무엇을 빨다,sucking,FALSE
+동명사,동명사 ㅅ,무엇을 사다,shopping,FALSE
+동명사,동명사 ㅅ,무엇을 상상하다,imagining,FALSE
+동명사,동명사 ㅅ,무엇을 상처 입힌다,scratching,FALSE
+동명사,동명사 ㅅ,무엇을 생각하다,thinking,FALSE
+동명사,동명사 ㅅ,무엇을 선물하다,giving,FALSE
+동명사,동명사 ㅅ,무엇을 설거지하다,dishwashing,FALSE
+동명사,동명사 ㅅ,무엇을 소환하다,summoning,FALSE
+동명사,동명사 ㅅ,무엇을 숨기다,hiding,FALSE
+동명사,동명사 ㅅ,무엇을 쓰다듬다,patting,FALSE
+동명사,동명사 ㅇ,무엇이 요동친다,bouncing,FALSE
+동명사,동명사 ㅇ,무엇이 요동친다,bouncingbreasts,FALSE
+동명사,동명사 ㅇ,무엇이 회전하다,spinning,FALSE
+동명사,동명사 ㅇ,무엇을 응시하다,staring,FALSE
+동명사,동명사 ㅈ,무엇을 자르다,cutting,FALSE
+동명사,동명사 ㅈ,무엇을 저글링하다,juggling,FALSE
+동명사,동명사 ㅈ,무엇을 제모하다,shaving,FALSE
+동명사,동명사 ㅈ,무엇을 조준하다,aiming,FALSE
+동명사,동명사 ㅈ,무엇을 찌르다,poking,FALSE
+동명사,동명사 ㅈ,무엇을 찢다,ripping,FALSE
+동명사,동명사 ㅊ,무엇을 청소하다,cleaning,FALSE
+동명사,동명사 ㅊ,무엇을 총구로 조준하다,at_gunpoint,FALSE
+동명사,동명사 ㅊ,무엇을 치유하다,healing,FALSE
+동명사,동명사 ㅌ,무엇을 타다,riding,FALSE
+동명사,동명사 ㅌ,무엇을 테이프로 감다,tapping,FALSE
+동명사,동명사 ㅍ,무엇을 파괴하다,breaking,FALSE
+동명사,동명사 ㅎ,무엇을 한쪽으로 밀다,pushing,FALSE
+동명사,동명사 ㅎ,무엇을 회피하다,dodging,FALSE
+동명사,동명사 ㅎ,무엇을 휘둘러 베다,slashing,FALSE
+동명사,동명사 ㅎ,무엇을 휘젓다,whisking,FALSE
+동명사,동명사 ㅎ,무엇을 흔들다,shaking,FALSE
+동명사,동명사 ㅎ,무엇을 흘리다,spilling,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
+,,,,FALSE
