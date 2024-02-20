@@ -1,6 +1,12 @@
-import re, json
+import re, json, os
 from server import PromptServer
 from aiohttp import web
+@PromptServer.instance.routes.get("/ludobico/autocomplete")
+async def get_autocomplete(request):
+  full_path = os.path.dirname(os.path.realpath(__file__))
+  with open(os.path.join(full_path, 'data', 'template.json'), "r") as f:
+    promptList = json.load(f)
+  return web.json_response(promptList)
 class ScenarioPrompt:
   def __init__(self):
     pass
