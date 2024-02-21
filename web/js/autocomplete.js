@@ -49,8 +49,11 @@ app.registerExtension({
   },
   async nodeCreated(node, app) {
     const searchPrompt = (searchText, promptType, htmlType) => {
+      const searchWords = searchText.split(',');
+      const lastWord = searchWords[searchWords.length - 1].trim();
       let matches = promptType.filter((p) => {
-        const regex = new RegExp(`^\\d*${searchText}`, 'gi');
+        // const regex = new RegExp(`^\\d*${searchText}`, 'gi');
+        const regex = new RegExp(`^\\d*${lastWord}`, 'gi');
         return p.tag.match(regex);
       });
 
@@ -80,26 +83,91 @@ app.registerExtension({
               background-color: ${textareaStyle.backgroundColor};
               border: ${textareaStyle.border};
               padding: ${textareaStyle.padding};
-              width: ${textareaStyle.width};
+              width: 250px;
               height: ${textareaStyle.height};
               z-index: ${900};
-              " class="card-body mb-1">
+              " class="card-body">
               <span>${match.tag}</span>
             </div>`;
             return matchHtml;
           })
           .join('');
         matchList.innerHTML = html;
+        const cardBodyList = document.querySelectorAll('.card-body');
+        cardBodyList.forEach((cardBody) => {
+          cardBody.addEventListener('mouseover', function () {
+            this.style.backgroundColor = '#87CEFA';
+          });
+          cardBody.addEventListener('mouseout', function () {
+            this.style.backgroundColor = textareaStyle.backgroundColor;
+          });
+          cardBody.addEventListener('click', function (e) {
+            const words = htmlType.value.split(',');
+            const lastWord = words.pop();
+            const newWords = words.filter((word) => word !== lastWord);
+            newWords.push(e.target.innerText.trim());
+            htmlType.value = newWords.join(',') + ',';
+            matchList.innerHTML = '';
+          });
+        });
       }
     };
+    /*
+    I hardcoded it because this function wasn't working.
+
+
+    function setupWidget(widgetName, widgetDiv, placeholderText, widgetData) {
+  const widgetP = document.querySelector(`.comfy-multiline-input[placeholder="${placeholderText}"]`);
+  widgetP.parentNode.insertBefore(widgetDiv, widgetP.nextSibling);
+  matchList = document.getElementById('match-list');
+  widgetP.addEventListener('input', () => {
+    searchPrompt(widgetP.value, widgetData, widgetP);
+  });
+}
+    */
     if (node.widgets && node.widgets[0].name === 'Base') {
-      for (let i = 0; i < node.widgets.length - 1; i++) {
-        if (node.widgets[i + 1].name === 'Character') {
+      for (let i = 1; i < node.widgets.length; i++) {
+        if (node.widgets[i].name === 'Character') {
           CharacterP = document.querySelector('.comfy-multiline-input[placeholder="Character"]');
           CharacterP.parentNode.insertBefore(CharacterDiv, CharacterP.nextSibling);
           matchList = document.getElementById('match-list');
           CharacterP.addEventListener('input', () => {
             searchPrompt(CharacterP.value, Character, CharacterP);
+          });
+        } else if (node.widgets[i].name === 'Face') {
+          FaceP = document.querySelector('.comfy-multiline-input[placeholder="Face"]');
+          FaceP.parentNode.insertBefore(FaceDiv, FaceP.nextSibling);
+          matchList = document.getElementById('match-list');
+          FaceP.addEventListener('input', () => {
+            searchPrompt(FaceP.value, Face, FaceP);
+          });
+        } else if (node.widgets[i].name === 'Body_type') {
+          Body_typeP = document.querySelector('.comfy-multiline-input[placeholder="Body_type"]');
+          Body_typeP.parentNode.insertBefore(Body_typeDiv, Body_typeP.nextSibling);
+          matchList = document.getElementById('match-list');
+          Body_typeP.addEventListener('input', () => {
+            searchPrompt(Body_typeP.value, Body_type, Body_typeP);
+          });
+        } else if (node.widgets[i].name === 'Fashion') {
+          FashionP = document.querySelector('.comfy-multiline-input[placeholder="Fashion"]');
+          FashionP.parentNode.insertBefore(FashionDiv, FashionP.nextSibling);
+          matchList = document.getElementById('match-list');
+          FashionP.addEventListener('input', () => {
+            searchPrompt(FashionP.value, Fashion, FashionP);
+          });
+        } else if (node.widgets[i].name === 'Accessory') {
+          AccessoryP = document.querySelector('.comfy-multiline-input[placeholder="Accessory"]');
+          AccessoryP.parentNode.insertBefore(AccessoryDiv, AccessoryP.nextSibling);
+          matchList = document.getElementById('match-list');
+          AccessoryP.addEventListener('input', () => {
+            searchPrompt(AccessoryP.value, Accessory, AccessoryP);
+          });
+        } else if (node.widgets[i].name === 'Action') {
+          ActionP = document.querySelector('.comfy-multiline-input[placeholder="Action"]');
+          ActionP.parentNode.insertBefore(ActionDiv, ActionP.nextSibling);
+          matchList = document.getElementById('match-list');
+          ActionP.addEventListener('input', () => {
+            searchPrompt(ActionP.value, Action, ActionP);
           });
         }
       }
