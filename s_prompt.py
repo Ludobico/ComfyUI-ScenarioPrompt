@@ -1,6 +1,19 @@
 import re, json, os
 from server import PromptServer
 from aiohttp import web
+@PromptServer.instance.routes.get("/ludobico/autocomplete")
+async def get_autocomplete(request):
+  full_path = os.path.dirname(os.path.realpath(__file__))
+  data_path = os.path.join(full_path, 'data')
+  dataset_list = [f for f in os.listdir(data_path) if os.path.isfile(os.path.join(data_path, f))]
+  json_data = {}
+  for data in dataset_list:
+    if data == 'template.json':
+      pass
+    else:
+      with open(os.path.join(data_path, data), "r",encoding='UTF8') as f:
+        json_data[data.split('.')[0]] = json.load(f)
+  return web.json_response(json_data)
 class ScenarioPrompt:
   def __init__(self):
     pass
