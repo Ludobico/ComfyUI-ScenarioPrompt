@@ -1,0 +1,906 @@
+[
+    {
+        "tag":"hairband, headband",
+        "desc":"머리띠"
+    },
+    {
+        "tag":"headdress",
+        "desc":"머리 장식"
+    },
+    {
+        "tag":"hair_ribbon",
+        "desc":"머리 리본"
+    },
+    {
+        "tag":"forehead_protector",
+        "desc":"이마 보호대"
+    },
+    {
+        "tag":"sweatband",
+        "desc":"땀띠"
+    },
+    {
+        "tag":"bandana",
+        "desc":"두건(반다나)"
+    },
+    {
+        "tag":"bow_hairband",
+        "desc":"양갈래 머리띠"
+    },
+    {
+        "tag":"frilled_hairband",
+        "desc":"프릴 머리띠"
+    },
+    {
+        "tag":"lace_hairband",
+        "desc":"레이스 머리띠"
+    },
+    {
+        "tag":"lace-trimmed_hairband",
+        "desc":"레이스 장식 머리띠"
+    },
+    {
+        "tag":"lolita_hairband",
+        "desc":"로리타 머리띠"
+    },
+    {
+        "tag":"spiked_hairband",
+        "desc":"스파이크 머리티"
+    },
+    {
+        "tag":"striped_hairband",
+        "desc":"줄무늬 머리띠"
+    },
+    {
+        "tag":"two-tone_hairband",
+        "desc":"투 톤 머리띠"
+    },
+    {
+        "tag":"winged_hairband",
+        "desc":"날개 달린"
+    },
+    {
+        "tag":"maid_headdress",
+        "desc":"메이드 머리 장식"
+    },
+    {
+        "tag":"beret",
+        "desc":"베레모"
+    },
+    {
+        "tag":"sombrero",
+        "desc":"멕시코 모자"
+    },
+    {
+        "tag":"beanie",
+        "desc":"비니"
+    },
+    {
+        "tag":"fur_hat",
+        "desc":"모피 모자"
+    },
+    {
+        "tag":"nightcap",
+        "desc":"수면 모자"
+    },
+    {
+        "tag":"party_hat",
+        "desc":"파티 모자"
+    },
+    {
+        "tag":"nurse_cap",
+        "desc":"간호사 모자"
+    },
+    {
+        "tag":"jester_cap",
+        "desc":"광대 모자"
+    },
+    {
+        "tag":"kepi",
+        "desc":"군사 모자"
+    },
+    {
+        "tag":"shako_cap",
+        "desc":"군용 모자"
+    },
+    {
+        "tag":"campaign_hat",
+        "desc":"군인(상관) 모자"
+    },
+    {
+        "tag":"tate_eboshi",
+        "desc":"귀족 모자"
+    },
+    {
+        "tag":"witch_hat",
+        "desc":"마녀 모자"
+    },
+    {
+        "tag":"mini_witch_hat",
+        "desc":"작은 마녀 모자"
+    },
+    {
+        "tag":"wizard_hat",
+        "desc":"마법사 모자"
+    },
+    {
+        "tag":"top_hat",
+        "desc":"마술사 모자"
+    },
+    {
+        "tag":"mini_top_hat",
+        "desc":"작은 마술사 모자"
+    },
+    {
+        "tag":"santa_hat",
+        "desc":"산타"
+    },
+    {
+        "tag":"mini_santa_hat",
+        "desc":"미니 산타"
+    },
+    {
+        "tag":"straw_hat",
+        "desc":"밀짚모자"
+    },
+    {
+        "tag":"rice_hat",
+        "desc":"밀짚모자(도사)"
+    },
+    {
+        "tag":"ajirogasa",
+        "desc":"밀짚모자(승려)"
+    },
+    {
+        "tag":"aviator_cap",
+        "desc":"비행사 모자"
+    },
+    {
+        "tag":"mitre",
+        "desc":"사제 모자"
+    },
+    {
+        "tag":"sailor_hat",
+        "desc":"선원 모자"
+    },
+    {
+        "tag":"habit",
+        "desc":"성직자 모자"
+    },
+    {
+        "tag":"baseball_cap",
+        "desc":"야구 모자"
+    },
+    {
+        "tag":"female_service_cap",
+        "desc":"여성 유니폼 모자"
+    },
+    {
+        "tag":"chef_hat",
+        "desc":"요리사 모자"
+    },
+    {
+        "tag":"toque_blanche",
+        "desc":"빵 요리사 모자"
+    },
+    {
+        "tag":"flat_top_chef_hat",
+        "desc":"접힌 요리사 모자"
+    },
+    {
+        "tag":"tsunokakushi",
+        "desc":"일본 결혼식 모자"
+    },
+    {
+        "tag":"mortarboard_collage_graduation_hat",
+        "desc":"졸업 모자"
+    },
+    {
+        "tag":"cowboy_hat",
+        "desc":"카우보이 모자"
+    },
+    {
+        "tag":"deerstalker",
+        "desc":"탐정 모자"
+    },
+    {
+        "tag":"fedora",
+        "desc":"탐정 모자"
+    },
+    {
+        "tag":"pith_helmet",
+        "desc":"탐험가 모자"
+    },
+    {
+        "tag":"tokin_hat",
+        "desc":"텐구 모자"
+    },
+    {
+        "tag":"dixie_cup_hat",
+        "desc":"해군 모자"
+    },
+    {
+        "tag":"bicorne",
+        "desc":"해적 모자"
+    },
+    {
+        "tag":"pirate_hat",
+        "desc":"해적 모자"
+    },
+    {
+        "tag":"cloche_hat",
+        "desc":"동그란 모자"
+    },
+    {
+        "tag":"visor_cap",
+        "desc":"바이저 캡"
+    },
+    {
+        "tag":"peaked_cap",
+        "desc":"뾰족한 모자"
+    },
+    {
+        "tag":"tricorne",
+        "desc":"삼각뿔 모자"
+    },
+    {
+        "tag":"garrison_cap",
+        "desc":"삼각형 모자"
+    },
+    {
+        "tag":"fez_hat",
+        "desc":"원통형 모자"
+    },
+    {
+        "tag":"bowler_hat",
+        "desc":"챙이 작은 모자"
+    },
+    {
+        "tag":"sun_hat",
+        "desc":"챙이 긴 모자"
+    },
+    {
+        "tag":"boater_hat",
+        "desc":"챙이 넓고 납작한 모자"
+    },
+    {
+        "tag":"bucket_hat",
+        "desc":"폭이 넓고 길쭉한 모자"
+    },
+    {
+        "tag":"flat_cap",
+        "desc":"한쪽으로 기울인 모자"
+    },
+    {
+        "tag":"mob_cap",
+        "desc":"머리카락을 덮는 모자"
+    },
+    {
+        "tag":"winged_helmet",
+        "desc":"날개 달린 헬맷"
+    },
+    {
+        "tag":"diving_helmet",
+        "desc":"다이빙 헬맷"
+    },
+    {
+        "tag":"pickelhaube",
+        "desc":"독일군 헬맷"
+    },
+    {
+        "tag":"american_football_helmet",
+        "desc":"미식축구"
+    },
+    {
+        "tag":"horned_helmet",
+        "desc":"뿔 달린 헬맷"
+    },
+    {
+        "tag":"baseball_helmet",
+        "desc":"야구 헬맷"
+    },
+    {
+        "tag":"motorcycle_helmet",
+        "desc":"오토바이 헬멧"
+    },
+    {
+        "tag":"bicycle_helmet",
+        "desc":"자전거 헬맷"
+    },
+    {
+        "tag":"veil",
+        "desc":"베일"
+    },
+    {
+        "tag":"bonnet",
+        "desc":"보닛"
+    },
+    {
+        "tag":"circlet",
+        "desc":"서클릿"
+    },
+    {
+        "tag":"Crowns",
+        "desc":"왕관"
+    },
+    {
+        "tag":"mini_crown",
+        "desc":"작은 왕관"
+    },
+    {
+        "tag":"diadem",
+        "desc":"천 왕관"
+    },
+    {
+        "tag":"tiara",
+        "desc":"티아라"
+    },
+    {
+        "tag":"3d_glasses",
+        "desc":"3D 안경"
+    },
+    {
+        "tag":"goggles",
+        "desc":"고글"
+    },
+    {
+        "tag":"monocle",
+        "desc":"단안경"
+    },
+    {
+        "tag":"opera_glasses",
+        "desc":"오페라 안경"
+    },
+    {
+        "tag":"diving_mask",
+        "desc":"다이빙 안경"
+    },
+    {
+        "tag":"safety_glasses",
+        "desc":"보호 안결"
+    },
+    {
+        "tag":"flight_goggles",
+        "desc":"비행 고글"
+    },
+    {
+        "tag":"aviator_sunglasses",
+        "desc":"비행가 안경"
+    },
+    {
+        "tag":"shooting_glasses",
+        "desc":"사격 안경"
+    },
+    {
+        "tag":"ski_goggles",
+        "desc":"스키 고글"
+    },
+    {
+        "tag":"coke-bottle_glasses",
+        "desc":"연구원 안경"
+    },
+    {
+        "tag":"round_eyewear",
+        "desc":"둥근 모양 안경"
+    },
+    {
+        "tag":"rectangular_eyewear",
+        "desc":"직사각형 안경"
+    },
+    {
+        "tag":"heart-shaped_eyewear",
+        "desc":"하트 모양 안경"
+    },
+    {
+        "tag":"star-shaped_eyewear",
+        "desc":"별 모양 안경"
+    },
+    {
+        "tag":"teardrop-framed_glasses",
+        "desc":"눈물 모양 안경"
+    },
+    {
+        "tag":"funny_glasses",
+        "desc":"재밌는 안경"
+    },
+    {
+        "tag":"triangular_eyewear",
+        "desc":"반투명한 안경"
+    },
+    {
+        "tag":"opaque_glasses",
+        "desc":"불투명한 안경"
+    },
+    {
+        "tag":"lorgnette",
+        "desc":"손으로 잡는 안경"
+    },
+    {
+        "tag":"pince-nez",
+        "desc":"콧대에 지지하는 안경"
+    },
+    {
+        "tag":"eyewear_strap",
+        "desc":"안경끈 달린 안경"
+    },
+    {
+        "tag":"rimless_eyewear",
+        "desc":"안경테가 없는 안경"
+    },
+    {
+        "tag":"over-rim_eyewear",
+        "desc":"안경테가 두꺼운 안경"
+    },
+    {
+        "tag":"under-rim_eyewear",
+        "desc":"안경테가 위쪽만 있는 안경"
+    },
+    {
+        "tag":"teardrop-framed_glasses",
+        "desc":"안경테가 아래쪽만 있는 안경"
+    },
+    {
+        "tag":"semi-rimless_eyewear",
+        "desc":"안경테가 하단만 있는 안경"
+    },
+    {
+        "tag":"clown_mask",
+        "desc":"광대 가면"
+    },
+    {
+        "tag":"ninja_mask",
+        "desc":"닌자 가면"
+    },
+    {
+        "tag":"domino_mask",
+        "desc":"도미노 가면"
+    },
+    {
+        "tag":"wrestling_mask",
+        "desc":"레슬링"
+    },
+    {
+        "tag":"luchador_mask",
+        "desc":"루차도르 가면"
+    },
+    {
+        "tag":"eye_mask",
+        "desc":"안대"
+    },
+    {
+        "tag":"plague_doctor_mask",
+        "desc":"역병의사 가면"
+    },
+    {
+        "tag":"oni_mask",
+        "desc":"오니 마스크"
+    },
+    {
+        "tag":"carnival_mask",
+        "desc":"축제 가면"
+    },
+    {
+        "tag":"character_mask",
+        "desc":"캐릭터 가면"
+    },
+    {
+        "tag":"hockey_mask",
+        "desc":"하키 가면"
+    },
+    {
+        "tag":"skull_mask",
+        "desc":"해골 마스크"
+    },
+    {
+        "tag":"hyottoko_mask",
+        "desc":"효토코 가면"
+    },
+    {
+        "tag":"gas_mask",
+        "desc":"방독면"
+    },
+    {
+        "tag":"diving_mask",
+        "desc":"다이빙 마스크"
+    },
+    {
+        "tag":"oxygen_mask",
+        "desc":"산소 마스크"
+    },
+    {
+        "tag":"sleep_mask",
+        "desc":"수면 마스크"
+    },
+    {
+        "tag":"surgical_mask",
+        "desc":"수술 마스크"
+    },
+    {
+        "tag":"welding_mask",
+        "desc":"용접 마스크"
+    },
+    {
+        "tag":"broken_mask",
+        "desc":"깨진 가면"
+    },
+    {
+        "tag":"half_mask",
+        "desc":"반쪽 가면"
+    },
+    {
+        "tag":"mouth_mask",
+        "desc":"입 가면"
+    },
+    {
+        "tag":"mouth_veil",
+        "desc":"입 베일"
+    },
+    {
+        "tag":"Magatama_earrings",
+        "desc":"곡옥 귀걸이"
+    },
+    {
+        "tag":"Tassel_earrings",
+        "desc":"술이 달린 귀걸이"
+    },
+    {
+        "tag":"Shell_earrings",
+        "desc":"쉘 귀걸이"
+    },
+    {
+        "tag":"Yin_yang_earrings",
+        "desc":"음양사 귀걸이"
+    },
+    {
+        "tag":"Bell_earrings",
+        "desc":"종 귀걸이"
+    },
+    {
+        "tag":"Crescent_earrings",
+        "desc":"초승달 귀걸이"
+    },
+    {
+        "tag":"Pom_pom_earrings",
+        "desc":"털 장식 귀걸이"
+    },
+    {
+        "tag":"Skull_earrings",
+        "desc":"해골 귀걸이"
+    },
+    {
+        "tag":"Flower_earrings",
+        "desc":"꽃 귀걸이"
+    },
+    {
+        "tag":"Crystal_earrings",
+        "desc":"수정 귀걸이"
+    },
+    {
+        "tag":"Snowflake_earrings",
+        "desc":"눈송이 귀걸이"
+    },
+    {
+        "tag":"Strawberry_earrings",
+        "desc":"딸기 귀걸이"
+    },
+    {
+        "tag":"Star_earrings",
+        "desc":"별 귀걸이"
+    },
+    {
+        "tag":"Spade_earrings",
+        "desc":"스페이드 귀걸이"
+    },
+    {
+        "tag":"Cross_earrings",
+        "desc":"십자가 귀걸이"
+    },
+    {
+        "tag":"Pill_earrings",
+        "desc":"알약 귀걸이"
+    },
+    {
+        "tag":"Heart_earrings",
+        "desc":"하트 귀걸이"
+    },
+    {
+        "tag":"Planet_earrings",
+        "desc":"행성 귀걸이"
+    },
+    {
+        "tag":"scarf",
+        "desc":"스카프"
+    },
+    {
+        "tag":"Cravate",
+        "desc":"크라밧"
+    },
+    {
+        "tag":"Jabot",
+        "desc":"자벳"
+    },
+    {
+        "tag":"Ascot_Tie",
+        "desc":"애스콧 타이"
+    },
+    {
+        "tag":"bowtie",
+        "desc":"나비 넥타이"
+    },
+    {
+        "tag":"Stock_Tie",
+        "desc":"스톡 타이"
+    },
+    {
+        "tag":"Bolo_Tie",
+        "desc":"볼로 타이"
+    },
+    {
+        "tag":"neck_ribbon",
+        "desc":"리본 타이"
+    },
+    {
+        "tag":"cross_tie",
+        "desc":"끈 타이"
+    },
+    {
+        "tag":"choker",
+        "desc":"쵸커"
+    },
+    {
+        "tag":"ribbon_choker",
+        "desc":"리본 쵸커"
+    },
+    {
+        "tag":"bell_choker",
+        "desc":"종 쵸커"
+    },
+    {
+        "tag":"necklace",
+        "desc":"목걸이"
+    },
+    {
+        "tag":"locket",
+        "desc":"로켓"
+    },
+    {
+        "tag":"amulet",
+        "desc":"팬던트"
+    },
+    {
+        "tag":"pentacle",
+        "desc":"팬타클"
+    },
+    {
+        "tag":"flower_necklace",
+        "desc":"꽃 목걸이"
+    },
+    {
+        "tag":"pendant",
+        "desc":"진주 목걸이"
+    },
+    {
+        "tag":"chain_necklace",
+        "desc":"체인 목걸이"
+    },
+    {
+        "tag":"magatama",
+        "desc":"마가타마(일본 옥 목걸이)"
+    },
+    {
+        "tag":"goggles_around_neck",
+        "desc":"고글"
+    },
+    {
+        "tag":"neckerchief",
+        "desc":"목도리"
+    },
+    {
+        "tag":"lanyard",
+        "desc":"사원증"
+    },
+    {
+        "tag":"stole",
+        "desc":"스톨"
+    },
+    {
+        "tag":"headphones_around_neck",
+        "desc":"헤드폰"
+    },
+    {
+        "tag":"brass_knuckles",
+        "desc":"너클"
+    },
+    {
+        "tag":"spiked_knuckles",
+        "desc":"뾰족한 너클"
+    },
+    {
+        "tag":"rubber_gloves",
+        "desc":"고무 장갑"
+    },
+    {
+        "tag":"leather_gloves",
+        "desc":"가죽 장갑"
+    },
+    {
+        "tag":"plastic_gloves",
+        "desc":"비닐 장갑"
+    },
+    {
+        "tag":"latex_gloves",
+        "desc":"라텍스 장갑"
+    },
+    {
+        "tag":"martial_arts_gloves",
+        "desc":"격투기 장갑"
+    },
+    {
+        "tag":"goalkeeper_gloves",
+        "desc":"골키퍼 장갑"
+    },
+    {
+        "tag":"golf_gloves",
+        "desc":"골프 장갑"
+    },
+    {
+        "tag":"boxing_club",
+        "desc":"권투 클러브"
+    },
+    {
+        "tag":"billiard_gloves",
+        "desc":"당구 장갑"
+    },
+    {
+        "tag":"climbing_gloves",
+        "desc":"등산용 장갑"
+    },
+    {
+        "tag":"racing_gloves",
+        "desc":"레이싱 글러브"
+    },
+    {
+        "tag":"ice_gloves",
+        "desc":"빙상용 장갑"
+    },
+    {
+        "tag":"ski_gloves",
+        "desc":"스키 장갑"
+    },
+    {
+        "tag":"baseball_glove",
+        "desc":"야구 장갑"
+    },
+    {
+        "tag":"baseball_gloves",
+        "desc":"야구 장갑"
+    },
+    {
+        "tag":"motorcycle_gloves",
+        "desc":"오토바이 장갑"
+    },
+    {
+        "tag":"Health_glove",
+        "desc":"헬스 글러브"
+    },
+    {
+        "tag":"opera_glove",
+        "desc":"오페라 글러브"
+    },
+    {
+        "tag":"ceremonial_cotton_gloves",
+        "desc":"의례용 면장갑"
+    },
+    {
+        "tag":"safety_gloves",
+        "desc":"안전 장갑"
+    },
+    {
+        "tag":"tactical_gloves",
+        "desc":"전술 장갑"
+    },
+    {
+        "tag":"combat_gloves",
+        "desc":"전투용 장갑"
+    },
+    {
+        "tag":"heat-dissipating_gloves",
+        "desc":"방열 장갑"
+    },
+    {
+        "tag":"gas-proof_gloves",
+        "desc":"방검 장갑"
+    },
+    {
+        "tag":"cold_gloves",
+        "desc":"방한 장갑"
+    },
+    {
+        "tag":"wing_ears",
+        "desc":"날개 달린 귀"
+    },
+    {
+        "tag":"wing_ribbon",
+        "desc":"날개 리본"
+    },
+    {
+        "tag":"winged_hat",
+        "desc":"날개 달린 모자"
+    },
+    {
+        "tag":"Winged_footwear",
+        "desc":"날개 달린 신발"
+    },
+    {
+        "tag":"Winged_helmet",
+        "desc":"날개 달린 헬맷"
+    },
+    {
+        "tag":"Winged_bag",
+        "desc":"날개 달린 가방"
+    },
+    {
+        "tag":"Tail_ring",
+        "desc":"꼬리 고리"
+    },
+    {
+        "tag":"Tail_bow",
+        "desc":"꼬리 리본"
+    },
+    {
+        "tag":"Tail_ribbon",
+        "desc":"꼬리 리본"
+    },
+    {
+        "tag":"Tail_ornament",
+        "desc":"꼬리 장식품"
+    },
+    {
+        "tag":"Tail_bell",
+        "desc":"꼬리 종"
+    },
+    {
+        "tag":"Tail_piercing",
+        "desc":"꼬리 피어싱"
+    },
+    {
+        "tag":"Tongue_piercing",
+        "desc":"혀 피어싱"
+    },
+    {
+        "tag":"Nose_piercing",
+        "desc":"코 피어싱"
+    },
+    {
+        "tag":"Ear_piercing",
+        "desc":"귀 피어싱"
+    },
+    {
+        "tag":"Collarbone_piercing",
+        "desc":"배꼽 피어싱"
+    },
+    {
+        "tag":"Single_earring",
+        "desc":"귀걸이 한 개"
+    },
+    {
+        "tag":"Multiple_earrings",
+        "desc":"귀걸이 여러 개"
+    },
+    {
+        "tag":"Industrial_piercing",
+        "desc":"위쪽 귀 두 개 피어싱"
+    },
+    {
+        "tag":"Eyebrow_piercing",
+        "desc":"눈썹 피어싱"
+    },
+    {
+        "tag":"Anti-eyebrow_piercing",
+        "desc":"눈썹 아래 피어싱"
+    },
+    {
+        "tag":"Eyelid_piercing",
+        "desc":"눈꺼풀 피어싱"
+    }
+]

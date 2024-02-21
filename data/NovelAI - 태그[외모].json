@@ -1,0 +1,1070 @@
+[
+    {
+        "tag":"face",
+        "desc":"얼굴"
+    },
+    {
+        "tag":"cheek",
+        "desc":"뺨"
+    },
+    {
+        "tag":"chin",
+        "desc":"턱"
+    },
+    {
+        "tag":"small_face",
+        "desc":"얼굴이 작다"
+    },
+    {
+        "tag":"small_medium_face",
+        "desc":"얼굴이 살짝 작다"
+    },
+    {
+        "tag":"medium_face",
+        "desc":"얼굴이 평범하다"
+    },
+    {
+        "tag":"large_face",
+        "desc":"얼굴이 크다"
+    },
+    {
+        "tag":"huge_face",
+        "desc":"얼굴이 매우 크다"
+    },
+    {
+        "tag":"sharp_face",
+        "desc":"얼굴이 날렵하다"
+    },
+    {
+        "tag":"pointed_face",
+        "desc":"얼굴이 뾰족하다"
+    },
+    {
+        "tag":"peanut_face",
+        "desc":"얼굴이 땅콩형이다"
+    },
+    {
+        "tag":"round_face",
+        "desc":"얼굴이 타원형이다"
+    },
+    {
+        "tag":"egg-shaped_face",
+        "desc":"얼굴이 계란형이다"
+    },
+    {
+        "tag":"triangular_face",
+        "desc":"얼굴이 삼각형이다"
+    },
+    {
+        "tag":"inverted_triangle_of_faces",
+        "desc":"얼굴이 역삼각형이다"
+    },
+    {
+        "tag":"squareface",
+        "desc":"얼굴이 사각형이다"
+    },
+    {
+        "tag":"diamond_face",
+        "desc":"얼굴이 마름모형이다"
+    },
+    {
+        "tag":"hexagonal_face",
+        "desc":"얼굴이 육각형이다"
+    },
+    {
+        "tag":"Heart-shaped_face",
+        "desc":"얼굴이 하트형이다"
+    },
+    {
+        "tag":"blush",
+        "desc":"뺨을 붉혔다"
+    },
+    {
+        "tag":"crying",
+        "desc":"울고 있다"
+    },
+    {
+        "tag":"cried_so_sadly",
+        "desc":"울면서 슬퍼한다"
+    },
+    {
+        "tag":"white hair",
+        "desc":"흰색 머리카락"
+    },
+    {
+        "tag":"brown hair",
+        "desc":"갈색 머리카락"
+    },
+    {
+        "tag":"red hair",
+        "desc":"빨강색 머리카락"
+    },
+    {
+        "tag":"pink hair",
+        "desc":"분홍색 머리카락"
+    },
+    {
+        "tag":"orange hair",
+        "desc":"주황색 머리카락"
+    },
+    {
+        "tag":"yellow hair",
+        "desc":"노란색 머리카락"
+    },
+    {
+        "tag":"Blonde hair",
+        "desc":"황금색 머리카락"
+    },
+    {
+        "tag":"light green hair",
+        "desc":"연두색 머리카락"
+    },
+    {
+        "tag":"green hair",
+        "desc":"초록색 머리카락"
+    },
+    {
+        "tag":"sky blue hair",
+        "desc":"하늘색 머리카락"
+    },
+    {
+        "tag":"blue hair",
+        "desc":"파란색 머리카락"
+    },
+    {
+        "tag":"purple hair",
+        "desc":"보라색 머리카락"
+    },
+    {
+        "tag":"black hair",
+        "desc":"검은색 머리카락"
+    },
+    {
+        "tag":"rainbow hair",
+        "desc":"무지개색 머리카락"
+    },
+    {
+        "tag":"two-tone hair",
+        "desc":"머리카락 색깔이 두 가지다"
+    },
+    {
+        "tag":"streaked hair",
+        "desc":"머리카락 색깔이 줄무늬다"
+    },
+    {
+        "tag":"gradient hair",
+        "desc":"머리카락 색깔이 층을 이룬다"
+    },
+    {
+        "tag":"split-color hair",
+        "desc":"머리카락 색깔이 절반씩 다르다"
+    },
+    {
+        "tag":"multicolored hair",
+        "desc":"머리카락 색깔이 매우 다양하다"
+    },
+    {
+        "tag":"colored inner hair",
+        "desc":"머리카락 안쪽을 염색했다"
+    },
+    {
+        "tag":"ombre",
+        "desc":"머리카락을 아래→위로 염색하다"
+    },
+    {
+        "tag":"sombre",
+        "desc":"머리카락을 위→아래로 염색하다"
+    },
+    {
+        "tag":"short_hair",
+        "desc":"머리카락이 짧다"
+    },
+    {
+        "tag":"very_short_hair",
+        "desc":"머리카락이 매우 짧다"
+    },
+    {
+        "tag":"absurdly_short_hair",
+        "desc":"머리카락이 엄청 짧다"
+    },
+    {
+        "tag":"medium_hair",
+        "desc":"머리카락이 살짝 길다"
+    },
+    {
+        "tag":"long_hair",
+        "desc":"머리카락이 길다"
+    },
+    {
+        "tag":"very_long_hair",
+        "desc":"머리카락이 매우 길다"
+    },
+    {
+        "tag":"absurdly_long_hair",
+        "desc":"머리카락이 엄청 길다"
+    },
+    {
+        "tag":"straight_hair",
+        "desc":"머리카락이 곧다"
+    },
+    {
+        "tag":"curly_hair",
+        "desc":"머리카락이 곱슬거린다"
+    },
+    {
+        "tag":"wavy_hair",
+        "desc":"머리카락이 구불댄다"
+    },
+    {
+        "tag":"spiked_hair",
+        "desc":"머리카락이 날카롭다"
+    },
+    {
+        "tag":"flipped_hair",
+        "desc":"머리카락이 뒤집혔다"
+    },
+    {
+        "tag":"bluntbangs",
+        "desc":"머리카락이 뭉툭하다"
+    },
+    {
+        "tag":"pointy_hair",
+        "desc":"머리카락이 뾰족하다"
+    },
+    {
+        "tag":"messy_hair",
+        "desc":"머리카락이 헝클어졌다"
+    },
+    {
+        "tag":"Blunt_bangs",
+        "desc":"앞머리가 가지런하다"
+    },
+    {
+        "tag":"parted_bangs",
+        "desc":"앞머리가 양쪽으로 갈라진다"
+    },
+    {
+        "tag":"crossed_bangs",
+        "desc":"앞머리가 미간에서 교차한다"
+    },
+    {
+        "tag":"swept_bangs",
+        "desc":"앞머리가 한쪽으로 몰렸다"
+    },
+    {
+        "tag":"braided_bangs",
+        "desc":"앞머리를 한쪽으로 땋았다"
+    },
+    {
+        "tag":"hair_over_one_eye",
+        "desc":"앞머리가 한쪽 눈을 가렸다"
+    },
+    {
+        "tag":"hair_over_eyes",
+        "desc":"앞머리가 양쪽 눈을 가렸다"
+    },
+    {
+        "tag":"hair_between_eyes",
+        "desc":"앞머리가 눈 사이를 가린다"
+    },
+    {
+        "tag":"asymmetrical_bangs",
+        "desc":"앞머리가 한쪽만 길고, 한쪽은 짧다"
+    },
+    {
+        "tag":"pixie_cut",
+        "desc":"픽시컷"
+    },
+    {
+        "tag":"undercut",
+        "desc":"언더컷"
+    },
+    {
+        "tag":"cornrows",
+        "desc":"콘로우"
+    },
+    {
+        "tag":"dreadlocks",
+        "desc":"드레드"
+    },
+    {
+        "tag":"braid",
+        "desc":"브레이드"
+    },
+    {
+        "tag":"braided_bangs",
+        "desc":"앞머리 브레이드"
+    },
+    {
+        "tag":"front_braid",
+        "desc":"앞머리 브레이드"
+    },
+    {
+        "tag":"side_braid",
+        "desc":"사이드 브레이드"
+    },
+    {
+        "tag":"french_braid",
+        "desc":"프렌치 브레이드"
+    },
+    {
+        "tag":"crown_braid",
+        "desc":"크라운 브레이드"
+    },
+    {
+        "tag":"single_braid",
+        "desc":"싱글 브레이드"
+    },
+    {
+        "tag":"multiple_braids",
+        "desc":"여러 브레이드"
+    },
+    {
+        "tag":"twin_braids",
+        "desc":"트윈 브레이드"
+    },
+    {
+        "tag":"tri_braids",
+        "desc":"트라이 브레이드"
+    },
+    {
+        "tag":"quad_braids",
+        "desc":"퀴드 브레이드"
+    },
+    {
+        "tag":"hair_bun",
+        "desc":"롤빵"
+    },
+    {
+        "tag":"braided_bun",
+        "desc":"묶은 롤빵"
+    },
+    {
+        "tag":"single_hair_bun",
+        "desc":"싱글 롤빵"
+    },
+    {
+        "tag":"double_bun",
+        "desc":"더블 롤빵"
+    },
+    {
+        "tag":"triple_bun",
+        "desc":"트윈 롤빵"
+    },
+    {
+        "tag":"cone_hair_bun",
+        "desc":"콘헤어 롤빵"
+    },
+    {
+        "tag":"doughnut_hair_bun",
+        "desc":"도넛헤어 롤빵"
+    },
+    {
+        "tag":"heart_hair_bun",
+        "desc":"하트헤어 롤빵"
+    },
+    {
+        "tag":"one_side_up",
+        "desc":"원 사이드 업"
+    },
+    {
+        "tag":"two_side_up",
+        "desc":"투 사이드 업"
+    },
+    {
+        "tag":"ponytail",
+        "desc":"포니테일"
+    },
+    {
+        "tag":"folded_ponytail",
+        "desc":"접힌 포니테일"
+    },
+    {
+        "tag":"front_ponytail",
+        "desc":"앞머리 포니테일"
+    },
+    {
+        "tag":"high_ponytail",
+        "desc":"높은 포니테일"
+    },
+    {
+        "tag":"short_ponytail",
+        "desc":"낮은 포니테일"
+    },
+    {
+        "tag":"side_ponytail",
+        "desc":"사이드 포니테일"
+    },
+    {
+        "tag":"split_ponytail",
+        "desc":"스플릿 포니테일"
+    },
+    {
+        "tag":"twintails",
+        "desc":"트윈테일"
+    },
+    {
+        "tag":"low_twintails",
+        "desc":"낮은 트윈테일"
+    },
+    {
+        "tag":"short_twintails",
+        "desc":"짧은 트윈테일"
+    },
+    {
+        "tag":"uneven_twintails",
+        "desc":"험한 트윈테일"
+    },
+    {
+        "tag":"tri_tails",
+        "desc":"트라티 테일"
+    },
+    {
+        "tag":"quad_tails",
+        "desc":"퀴드 테일"
+    },
+    {
+        "tag":"quin_tails",
+        "desc":"퀸테일"
+    },
+    {
+        "tag":"gray_hair_streak",
+        "desc":"회색 브리지"
+    },
+    {
+        "tag":"white_hair_streak",
+        "desc":"흰색 브리지"
+    },
+    {
+        "tag":"brown_hair_streak",
+        "desc":"갈색 브리지"
+    },
+    {
+        "tag":"Red_hair_streak",
+        "desc":"빨강색 브리지"
+    },
+    {
+        "tag":"pink_hair_streak",
+        "desc":"분홍색 브리지"
+    },
+    {
+        "tag":"orange_hair_streak",
+        "desc":"주황색 브리지"
+    },
+    {
+        "tag":"yellow_hair_streak",
+        "desc":"노란색 브리지"
+    },
+    {
+        "tag":"Blonde_hair_streak",
+        "desc":"황금색 브리지"
+    },
+    {
+        "tag":"light_green_hair_streak",
+        "desc":"연두색 브리지"
+    },
+    {
+        "tag":"green_hair_streak",
+        "desc":"초록색 브리지"
+    },
+    {
+        "tag":"sky_blue_hair_streak",
+        "desc":"하늘색 브리지"
+    },
+    {
+        "tag":"blue_hair_streak",
+        "desc":"파란색 브리지"
+    },
+    {
+        "tag":"Purple_hair_streak",
+        "desc":"보라색 브리지"
+    },
+    {
+        "tag":"black_hair_streak",
+        "desc":"검은색 브리지"
+    },
+    {
+        "tag":"rainbow_hair_streak",
+        "desc":"무지개색 브리지"
+    },
+    {
+        "tag":"Eyes",
+        "desc":"눈"
+    },
+    {
+        "tag":"Eyebrow",
+        "desc":"눈썹"
+    },
+    {
+        "tag":"Eyelashes",
+        "desc":"속눈썹"
+    },
+    {
+        "tag":"short_eyes",
+        "desc":"눈이 작다"
+    },
+    {
+        "tag":"long_eyes",
+        "desc":"눈이 크다"
+    },
+    {
+        "tag":"short_eyebrow",
+        "desc":"눈썹이 짧다"
+    },
+    {
+        "tag":"long_eyebrow",
+        "desc":"눈썹이 길다"
+    },
+    {
+        "tag":"slender_eyebrow",
+        "desc":"눈썹이 가늘다"
+    },
+    {
+        "tag":"heavy_eyebrow",
+        "desc":"눈썹이 두껍다"
+    },
+    {
+        "tag":"short_eyelashes",
+        "desc":"속눈썹이 짧다"
+    },
+    {
+        "tag":"long_eyelashes",
+        "desc":"속눈썹이 길다"
+    },
+    {
+        "tag":"slender_eyelashes",
+        "desc":"속눈썹이 가늘다"
+    },
+    {
+        "tag":"heavy_eyelashes",
+        "desc":"속눈썹이 두껍다"
+    },
+    {
+        "tag":"gray_eyes",
+        "desc":"회색 눈"
+    },
+    {
+        "tag":"white_eyes",
+        "desc":"흰색 눈"
+    },
+    {
+        "tag":"brown_eyes",
+        "desc":"갈색 눈"
+    },
+    {
+        "tag":"red_eyes",
+        "desc":"빨강색 눈"
+    },
+    {
+        "tag":"pink_eyes",
+        "desc":"분홍색 눈"
+    },
+    {
+        "tag":"orange_eyes",
+        "desc":"주황색 눈"
+    },
+    {
+        "tag":"yellow_eyes",
+        "desc":"노란색 눈"
+    },
+    {
+        "tag":"golden_eyes",
+        "desc":"황금색 눈"
+    },
+    {
+        "tag":"light_green_eyes",
+        "desc":"연두색 눈"
+    },
+    {
+        "tag":"green_eyes",
+        "desc":"초록색 눈"
+    },
+    {
+        "tag":"sky_blue_eyes",
+        "desc":"하늘색 눈"
+    },
+    {
+        "tag":"blue_eyes",
+        "desc":"파란색 눈"
+    },
+    {
+        "tag":"purple_eyes",
+        "desc":"보라색 눈"
+    },
+    {
+        "tag":"black_eyes",
+        "desc":"검은색 눈"
+    },
+    {
+        "tag":"Odd_Eye",
+        "desc":"다름"
+    },
+    {
+        "tag":"multicolored_eye",
+        "desc":"다중"
+    },
+    {
+        "tag":"heterochromia",
+        "desc":"이색"
+    },
+    {
+        "tag":"symbol-shaped_pupils",
+        "desc":"심볼"
+    },
+    {
+        "tag":"heart-shaped_pupils",
+        "desc":"하트"
+    },
+    {
+        "tag":"spade-shaped_pupils",
+        "desc":"스페이드"
+    },
+    {
+        "tag":"clover-shaped_pupils",
+        "desc":"클로버"
+    },
+    {
+        "tag":"diamond-shaped_pupils",
+        "desc":"다이아몬드"
+    },
+    {
+        "tag":"star-shaped_pupils",
+        "desc":"별"
+    },
+    {
+        "tag":"flower-shaped_pupils",
+        "desc":"꽃"
+    },
+    {
+        "tag":"blanked_eyes",
+        "desc":"죽은 눈"
+    },
+    {
+        "tag":"empty_eyes",
+        "desc":"강간당한 눈"
+    },
+    {
+        "tag":"sconstricted_pupils",
+        "desc":"수축된 눈"
+    },
+    {
+        "tag":"dilated_pupils",
+        "desc":"확장된 눈"
+    },
+    {
+        "tag":"bloodshot_pupils",
+        "desc":"충혈된 눈"
+    },
+    {
+        "tag":"flaming_pupils",
+        "desc":"발화된 눈"
+    },
+    {
+        "tag":"glowing_pupils",
+        "desc":"발광한 눈"
+    },
+    {
+        "tag":"tears",
+        "desc":"눈물이 맺힌다"
+    },
+    {
+        "tag":"crying_eyes",
+        "desc":"눈물을 흘린다"
+    },
+    {
+        "tag":"mascars_tears",
+        "desc":"눈물에 화장이 번졌다"
+    },
+    {
+        "tag":"eyeshadow",
+        "desc":"눈꺼풀을 화장하다"
+    },
+    {
+        "tag":"eyeliner",
+        "desc":"눈꼬리를 화장하다"
+    },
+    {
+        "tag":"mascara",
+        "desc":"속눈썹을 화장하다"
+    },
+    {
+        "tag":"blanked_eyes",
+        "desc":"눈이 죽었다"
+    },
+    {
+        "tag":"sconstricted_pupils",
+        "desc":"눈이 수축된다"
+    },
+    {
+        "tag":"dilated_pupils",
+        "desc":"눈이 확장된다"
+    },
+    {
+        "tag":"bloodshot_pupils",
+        "desc":"눈이 충혈된다"
+    },
+    {
+        "tag":"flaming_pupils",
+        "desc":"눈이 발화된다"
+    },
+    {
+        "tag":"glowing_pupils",
+        "desc":"눈이 발광한다"
+    },
+    {
+        "tag":"empty_eyes",
+        "desc":"눈이 빛을 잃었다"
+    },
+    {
+        "tag":"one_eye_closed",
+        "desc":"눈을 한쪽만 감았다"
+    },
+    {
+        "tag":"eyes_closed",
+        "desc":"눈을 양쪽을 감았다"
+    },
+    {
+        "tag":"uneven_eyes",
+        "desc":"눈의 초점이 어긋났다"
+    },
+    {
+        "tag":"mouth",
+        "desc":"입"
+    },
+    {
+        "tag":"lips",
+        "desc":"입술"
+    },
+    {
+        "tag":"tongue",
+        "desc":"혀"
+    },
+    {
+        "tag":"small_mouth",
+        "desc":"입이 작다"
+    },
+    {
+        "tag":"big_mouth",
+        "desc":"입이 크다"
+    },
+    {
+        "tag":"thin_lips",
+        "desc":"입술이 얇다"
+    },
+    {
+        "tag":"thick_lips",
+        "desc":"입술이 두껍다"
+    },
+    {
+        "tag":"short_tongue",
+        "desc":"혀가 짧다"
+    },
+    {
+        "tag":"long_tongue",
+        "desc":"혀가 길다"
+    },
+    {
+        "tag":"open_mouth",
+        "desc":"입을 열다"
+    },
+    {
+        "tag":"close_mouth",
+        "desc":"입을 다물다"
+    },
+    {
+        "tag":"stick_out_tongue",
+        "desc":"입에서 혀를 내밀다"
+    },
+    {
+        "tag":"drooling",
+        "desc":"입에서 침을 흘리다"
+    },
+    {
+        "tag":"gray lips",
+        "desc":"회색 입술"
+    },
+    {
+        "tag":"white lips",
+        "desc":"흰색 입술"
+    },
+    {
+        "tag":"brown lips",
+        "desc":"갈색 입술"
+    },
+    {
+        "tag":"red lips",
+        "desc":"빨강색 입술"
+    },
+    {
+        "tag":"pink lips",
+        "desc":"분홍색 입술"
+    },
+    {
+        "tag":"orange lips",
+        "desc":"주황색 입술"
+    },
+    {
+        "tag":"yellow lips",
+        "desc":"노란색 입술"
+    },
+    {
+        "tag":"golden lips",
+        "desc":"황금색 입술"
+    },
+    {
+        "tag":"light green lips",
+        "desc":"연두색 입술"
+    },
+    {
+        "tag":"green lips",
+        "desc":"초록색 입술"
+    },
+    {
+        "tag":"sky blue lips",
+        "desc":"하늘색 입술"
+    },
+    {
+        "tag":"blue lips",
+        "desc":"파란색 입술"
+    },
+    {
+        "tag":"purple lips",
+        "desc":"보라색 입술"
+    },
+    {
+        "tag":"black lips",
+        "desc":"검은색 입술"
+    },
+    {
+        "tag":"gray tongue",
+        "desc":"회색 혀"
+    },
+    {
+        "tag":"white tongue",
+        "desc":"흰색 혀"
+    },
+    {
+        "tag":"brown tongue",
+        "desc":"갈색 혀"
+    },
+    {
+        "tag":"red tongue",
+        "desc":"빨강색 혀"
+    },
+    {
+        "tag":"pink tongue",
+        "desc":"분홍색 혀"
+    },
+    {
+        "tag":"orange tongue",
+        "desc":"주황색 혀"
+    },
+    {
+        "tag":"yellow tongue",
+        "desc":"노란색 혀"
+    },
+    {
+        "tag":"golden tongue",
+        "desc":"황금색 혀"
+    },
+    {
+        "tag":"light green tongue",
+        "desc":"연두색 혀"
+    },
+    {
+        "tag":"green tongue",
+        "desc":"초록색 혀"
+    },
+    {
+        "tag":"sky blue tongue",
+        "desc":"하늘색 혀"
+    },
+    {
+        "tag":"blue tongue",
+        "desc":"파란색 혀"
+    },
+    {
+        "tag":"purple tongue",
+        "desc":"보라색 혀"
+    },
+    {
+        "tag":"black tongue",
+        "desc":"검은색 혀"
+    },
+    {
+        "tag":"ears",
+        "desc":"귀"
+    },
+    {
+        "tag":"earlobes",
+        "desc":"귓볼"
+    },
+    {
+        "tag":"long_ears",
+        "desc":"귀가 길다"
+    },
+    {
+        "tag":"very_short_ears",
+        "desc":"귀가 매우 짧다"
+    },
+    {
+        "tag":"very_long_ears",
+        "desc":"귀가 매우 길다"
+    },
+    {
+        "tag":"slender_ears",
+        "desc":"귀가 가늘다"
+    },
+    {
+        "tag":"heavy_ears",
+        "desc":"귀가 두껍다"
+    },
+    {
+        "tag":"short_earlobes",
+        "desc":"귓불이 짧다"
+    },
+    {
+        "tag":"long_earlobes",
+        "desc":"귓불이 길다"
+    },
+    {
+        "tag":"pointy_ears",
+        "desc":"귀가 뾰족하다"
+    },
+    {
+        "tag":"short_pointy_ears",
+        "desc":"귀가 짧고 뾰족하다"
+    },
+    {
+        "tag":"long_pointy_ears",
+        "desc":"귀가 길고 뾰족하다"
+    },
+    {
+        "tag":"animal_ears",
+        "desc":"동물귀"
+    },
+    {
+        "tag":"fake_animal_ears",
+        "desc":"가짜 동물귀"
+    },
+    {
+        "tag":"dog_ears",
+        "desc":"강아지 귀"
+    },
+    {
+        "tag":"Gorilla_ears",
+        "desc":"고릴라"
+    },
+    {
+        "tag":"cat_ears",
+        "desc":"고양이 귀"
+    },
+    {
+        "tag":"bear_ears",
+        "desc":"곰 귀"
+    },
+    {
+        "tag":"raccoon_ears",
+        "desc":"너구리 귀"
+    },
+    {
+        "tag":"wolf_ears",
+        "desc":"늑대 귀"
+    },
+    {
+        "tag":"squirrel_ears",
+        "desc":"다람쥐 귀"
+    },
+    {
+        "tag":"pig_ears",
+        "desc":"돼지 귀"
+    },
+    {
+        "tag":"horse_ears",
+        "desc":"말 귀"
+    },
+    {
+        "tag":"bat_ears",
+        "desc":"박쥐 귀"
+    },
+    {
+        "tag":"deer_ears",
+        "desc":"사슴 귀"
+    },
+    {
+        "tag":"lion_ears",
+        "desc":"사자 귀"
+    },
+    {
+        "tag":"cow_ears",
+        "desc":"소 귀"
+    },
+    {
+        "tag":"sheep_ears",
+        "desc":"양 귀"
+    },
+    {
+        "tag":"fox_ears",
+        "desc":"여우 귀"
+    },
+    {
+        "tag":"goat_ears",
+        "desc":"염소 귀"
+    },
+    {
+        "tag":"monkey_ears",
+        "desc":"원숭이 귀"
+    },
+    {
+        "tag":"ferret_ears",
+        "desc":"족제비 귀"
+    },
+    {
+        "tag":"mouse_ears",
+        "desc":"쥐 귀"
+    },
+    {
+        "tag":"rabbit_ears",
+        "desc":"토끼 귀"
+    },
+    {
+        "tag":"panda_ears",
+        "desc":"팬더 귀"
+    },
+    {
+        "tag":"tiger_ears",
+        "desc":"호랑이 귀"
+    },
+    {
+        "tag":"small_nose",
+        "desc":"코가 작다"
+    },
+    {
+        "tag":"long_nose",
+        "desc":"코가 길다"
+    },
+    {
+        "tag":"slender_nose",
+        "desc":"코가 가늘다"
+    },
+    {
+        "tag":"heavy_nose",
+        "desc":"코가 두껍다"
+    },
+    {
+        "tag":"broad_nose",
+        "desc":"코가 넓적하다"
+    },
+    {
+        "tag":"high-end_nose",
+        "desc":"코가 끝만 높다"
+    },
+    {
+        "tag":"wild_boogged_nose",
+        "desc":"코가 들창코다"
+    },
+    {
+        "tag":"aquiline_nose",
+        "desc":"코가 메부리코다"
+    }
+]

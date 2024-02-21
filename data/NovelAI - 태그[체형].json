@@ -1,0 +1,698 @@
+[
+    {
+        "tag":"male",
+        "desc":"남성"
+    },
+    {
+        "tag":"female",
+        "desc":"여성"
+    },
+    {
+        "tag":"Trans_man",
+        "desc":"트랜스 남성"
+    },
+    {
+        "tag":"Trans_woman",
+        "desc":"트랜스 여성"
+    },
+    {
+        "tag":"boy, shota",
+        "desc":"소년"
+    },
+    {
+        "tag":"girl, loli",
+        "desc":"소녀"
+    },
+    {
+        "tag":"teenboy",
+        "desc":"청년 남성"
+    },
+    {
+        "tag":"teengirl",
+        "desc":"청년 여성"
+    },
+    {
+        "tag":"mature_male",
+        "desc":"중년 남성"
+    },
+    {
+        "tag":"mature_female, milf",
+        "desc":"중년 여성"
+    },
+    {
+        "tag":"short",
+        "desc":"키가 작다"
+    },
+    {
+        "tag":"littleshort",
+        "desc":"키가 살짝 작다"
+    },
+    {
+        "tag":"averageheight",
+        "desc":"키가 평범하다"
+    },
+    {
+        "tag":"tall",
+        "desc":"키가 크다"
+    },
+    {
+        "tag":"verytall",
+        "desc":"키가 매우 크다"
+    },
+    {
+        "tag":"upper_body",
+        "desc":"상체"
+    },
+    {
+        "tag":"lower_body",
+        "desc":"하체"
+    },
+    {
+        "tag":"skinny",
+        "desc":"몸이 말랐다"
+    },
+    {
+        "tag":"slender",
+        "desc":"몸이 날씬하다"
+    },
+    {
+        "tag":"glamorous",
+        "desc":"몸이 매혹적이다"
+    },
+    {
+        "tag":"busty",
+        "desc":"몸이 통통하다"
+    },
+    {
+        "tag":"curvy",
+        "desc":"몸이 살짝 통통하다"
+    },
+    {
+        "tag":"fat",
+        "desc":"몸이 뚱뚱하다"
+    },
+    {
+        "tag":"chubby",
+        "desc":"몸이 살짝 뚱뚱하다"
+    },
+    {
+        "tag":"thin_stomach",
+        "desc":"배가 말랐다"
+    },
+    {
+        "tag":"slender_stomach",
+        "desc":"배가 가늘다"
+    },
+    {
+        "tag":"heavy_stomach",
+        "desc":"배가 통통하다"
+    },
+    {
+        "tag":"chubby_stomach",
+        "desc":"배가 뚱뚱하다"
+    },
+    {
+        "tag":"skinny_abs",
+        "desc":"복근이 가늘다"
+    },
+    {
+        "tag":"thick_abs",
+        "desc":"복근이 두껍다"
+    },
+    {
+        "tag":"chubby_abs",
+        "desc":"복근이 통통하다"
+    },
+    {
+        "tag":"11_line_abs",
+        "desc":"복근이 매끈하다"
+    },
+    {
+        "tag":"thinwaist",
+        "desc":"허리가 얇다"
+    },
+    {
+        "tag":"slenderwaist",
+        "desc":"허리가 가늘다"
+    },
+    {
+        "tag":"thickwaist",
+        "desc":"허리가 두껍다"
+    },
+    {
+        "tag":"chubbywaist",
+        "desc":"허리가 통통하다"
+    },
+    {
+        "tag":"small_ass",
+        "desc":"엉덩이가 작다"
+    },
+    {
+        "tag":"small_medium_ass",
+        "desc":"엉덩이가 살짝 작다"
+    },
+    {
+        "tag":"flat_ass",
+        "desc":"엉덩이가 평평하다"
+    },
+    {
+        "tag":"medium_ass",
+        "desc":"엉덩이가 평범하다"
+    },
+    {
+        "tag":"large_ass",
+        "desc":"엉덩이가 크다"
+    },
+    {
+        "tag":"huge_ass",
+        "desc":"엉덩이가 매우 크다"
+    },
+    {
+        "tag":"gigantic_ass",
+        "desc":"엉덩이가 엄청 크다"
+    },
+    {
+        "tag":"white_skin",
+        "desc":"몸이 하얗다"
+    },
+    {
+        "tag":"dark_skin",
+        "desc":"몸이 어둡다"
+    },
+    {
+        "tag":"tanned_skin",
+        "desc":"몸이 구릿빛이다"
+    },
+    {
+        "tag":"completely_nude",
+        "desc":"몸이 알몸이다"
+    },
+    {
+        "tag":"sweat",
+        "desc":"땀을 흘린다"
+    },
+    {
+        "tag":"sweating_profusely",
+        "desc":"땀을 흘린다"
+    },
+    {
+        "tag":"steamsweat",
+        "desc":"땀을 뻘뻘 흘린다"
+    },
+    {
+        "tag":"wet",
+        "desc":"몸이 젖었다"
+    },
+    {
+        "tag":"soggywet,soggysweat",
+        "desc":"몸이 푹 젖었다"
+    },
+    {
+        "tag":"oiledwet",
+        "desc":"몸에 오일에 젖었다"
+    },
+    {
+        "tag":"flat_chest",
+        "desc":"가슴이 평평하다"
+    },
+    {
+        "tag":"small_breasts",
+        "desc":"가슴이 작다"
+    },
+    {
+        "tag":"small_medium_breasts",
+        "desc":"가슴이 살짝 작다"
+    },
+    {
+        "tag":"medium_breasts",
+        "desc":"가슴이 평범하다"
+    },
+    {
+        "tag":"large_breasts",
+        "desc":"가슴이 크다"
+    },
+    {
+        "tag":"huge_breasts",
+        "desc":"가슴이 매우 크다"
+    },
+    {
+        "tag":"gigantic_breasts",
+        "desc":"가슴이 엄청 크다"
+    },
+    {
+        "tag":"small_areolae",
+        "desc":"유륜이 작다"
+    },
+    {
+        "tag":"large_areolae",
+        "desc":"유륜이 크다"
+    },
+    {
+        "tag":"small_nipples",
+        "desc":"젖꼭지가 작다"
+    },
+    {
+        "tag":"long_nipples",
+        "desc":"젖꼭지가 길다"
+    },
+    {
+        "tag":"sagging_breasts",
+        "desc":"가슴이 늘어졌다"
+    },
+    {
+        "tag":"veiny_breasts",
+        "desc":"가슴이 풍선같다"
+    },
+    {
+        "tag":"pointy_breasts",
+        "desc":"가슴이 뾰족하다"
+    },
+    {
+        "tag":"asymmetrical_breasts",
+        "desc":"가슴이 비대칭이다"
+    },
+    {
+        "tag":"light_areolae",
+        "desc":"유륜이 밝다"
+    },
+    {
+        "tag":"dark_areolae",
+        "desc":"유륜이 어둡다"
+    },
+    {
+        "tag":"light_nipples",
+        "desc":"젖꼭지가 밝다"
+    },
+    {
+        "tag":"dark_nipples",
+        "desc":"젖꼭지가 어둡다"
+    },
+    {
+        "tag":"short_arm",
+        "desc":"팔이 짧다"
+    },
+    {
+        "tag":"long_arm",
+        "desc":"팔이 길다"
+    },
+    {
+        "tag":"slender_arm",
+        "desc":"팔이 가늘다"
+    },
+    {
+        "tag":"heavy_arm",
+        "desc":"팔이 두껍다"
+    },
+    {
+        "tag":"thin_forearm",
+        "desc":"팔뚝이 얇다"
+    },
+    {
+        "tag":"slender_forearm",
+        "desc":"팔뚝이 가늘다"
+    },
+    {
+        "tag":"heavy_arm",
+        "desc":"팔뚝이 두껍다"
+    },
+    {
+        "tag":"chubby_forearm",
+        "desc":"팔뚝이 통통하다"
+    },
+    {
+        "tag":"round_elbow",
+        "desc":"팔꿈치가 둥글다"
+    },
+    {
+        "tag":"blunt_elbow",
+        "desc":"팔꿈치가 뭉툭하다"
+    },
+    {
+        "tag":"pointed_elbow",
+        "desc":"팔꿈치가 뾰족하다"
+    },
+    {
+        "tag":"light_armpit",
+        "desc":"겨드랑이가 밝다"
+    },
+    {
+        "tag":"dark_armpit",
+        "desc":"겨드랑이가 어둡다"
+    },
+    {
+        "tag":"short_hand",
+        "desc":"손이 짧다"
+    },
+    {
+        "tag":"long_hand",
+        "desc":"손이 길다"
+    },
+    {
+        "tag":"slender_hand",
+        "desc":"손이 가늘다"
+    },
+    {
+        "tag":"heavy_hand",
+        "desc":"손이 두껍다"
+    },
+    {
+        "tag":"thin_wrist",
+        "desc":"손목이 얇다"
+    },
+    {
+        "tag":"slender_wrist",
+        "desc":"손목이 가늘다"
+    },
+    {
+        "tag":"thick_wrist",
+        "desc":"손목이 두껍다"
+    },
+    {
+        "tag":"short_fingers",
+        "desc":"손가락이 짧다"
+    },
+    {
+        "tag":"long_fingers",
+        "desc":"손가락이 길다"
+    },
+    {
+        "tag":"slender_fingers",
+        "desc":"손가락이 가늘다"
+    },
+    {
+        "tag":"thick_fingers",
+        "desc":"손가락이 두껍다"
+    },
+    {
+        "tag":"short_nail",
+        "desc":"손톱이 짧다"
+    },
+    {
+        "tag":"long_nail",
+        "desc":"손톱이 길다"
+    },
+    {
+        "tag":"short_leg",
+        "desc":"다리가 짧다"
+    },
+    {
+        "tag":"long_leg",
+        "desc":"다리가 길다"
+    },
+    {
+        "tag":"slender_leg",
+        "desc":"다리가 가늘다"
+    },
+    {
+        "tag":"thick_leg",
+        "desc":"다리가 두껍다"
+    },
+    {
+        "tag":"thin_thighs",
+        "desc":"허벅지가 얇다"
+    },
+    {
+        "tag":"slender_thighs",
+        "desc":"허벅지가 가늘다"
+    },
+    {
+        "tag":"thick_thigh",
+        "desc":"허벅지가 두껍다"
+    },
+    {
+        "tag":"chubby_thighs",
+        "desc":"허벅지가 통통하다"
+    },
+    {
+        "tag":"thin_calf",
+        "desc":"종아리가 얇다"
+    },
+    {
+        "tag":"slender_calf",
+        "desc":"종아리가 가늘다"
+    },
+    {
+        "tag":"thick_calf",
+        "desc":"종아리가 두껍다"
+    },
+    {
+        "tag":"chubby_calf",
+        "desc":"종아리가 통통하다"
+    },
+    {
+        "tag":"short_foot",
+        "desc":"발이 짧다"
+    },
+    {
+        "tag":"long_foot",
+        "desc":"발이 길다"
+    },
+    {
+        "tag":"slender_foot",
+        "desc":"발이 가늘다_"
+    },
+    {
+        "tag":"thick_foot",
+        "desc":"발이 두껍다"
+    },
+    {
+        "tag":"short_toe",
+        "desc":"발가락이 짧다"
+    },
+    {
+        "tag":"long_toe",
+        "desc":"발가락이 길다"
+    },
+    {
+        "tag":"short_toenail",
+        "desc":"발톱이 짧다"
+    },
+    {
+        "tag":"long_toenail",
+        "desc":"발톱이 길다"
+    },
+    {
+        "tag":"thin_ankle",
+        "desc":"발목이 얇다"
+    },
+    {
+        "tag":"slender_ankle",
+        "desc":"발목이 가늘다"
+    },
+    {
+        "tag":"thick_ankle",
+        "desc":"발목이 두껍다"
+    },
+    {
+        "tag":"head_wings",
+        "desc":"날개가 머리에 있다"
+    },
+    {
+        "tag":"hair_wings",
+        "desc":"날개가 머리카락에 있다"
+    },
+    {
+        "tag":"leg_wings",
+        "desc":"날개가 다리에 있다"
+    },
+    {
+        "tag":"low_wings",
+        "desc":"날개가 등에 있다"
+    },
+    {
+        "tag":"ankle_wings",
+        "desc":"날개가 발목에 있다"
+    },
+    {
+        "tag":"mini_wings",
+        "desc":"날개가 작다"
+    },
+    {
+        "tag":"large_wings",
+        "desc":"날개가 크다"
+    },
+    {
+        "tag":"wingle_wing",
+        "desc":"날개가 한쪽만 있다"
+    },
+    {
+        "tag":"multiplewings",
+        "desc":"날개가 매우 많다"
+    },
+    {
+        "tag":"Fake_wings",
+        "desc":"가짜 날개"
+    },
+    {
+        "tag":"metal_wings",
+        "desc":"금속 날개"
+    },
+    {
+        "tag":"Mechanical_wings",
+        "desc":"기계 날개"
+    },
+    {
+        "tag":"Plant_wings",
+        "desc":"식물 날개"
+    },
+    {
+        "tag":"light_hawk_wings",
+        "desc":"얇은 천 날개"
+    },
+    {
+        "tag":"artificial_wings",
+        "desc":"인공 날개"
+    },
+    {
+        "tag":"feathered_wings",
+        "desc":"깃털 날개"
+    },
+    {
+        "tag":"insect_wings",
+        "desc":"곤충 날개"
+    },
+    {
+        "tag":"moth_wings",
+        "desc":"나방 날개"
+    },
+    {
+        "tag":"Butterfly_wings",
+        "desc":"나비 날개"
+    },
+    {
+        "tag":"ladybug_wings",
+        "desc":"무당벌레 날개"
+    },
+    {
+        "tag":"Bat_wings",
+        "desc":"박쥐 날개"
+    },
+    {
+        "tag":"Angel_wings",
+        "desc":"천사 날개"
+    },
+    {
+        "tag":"Demon_wings",
+        "desc":"악마 날개"
+    },
+    {
+        "tag":"Fairy_wings",
+        "desc":"요정 날개"
+    },
+    {
+        "tag":"Dragon_wings",
+        "desc":"용의 날개"
+    },
+    {
+        "tag":"Fiery_wings",
+        "desc":"불꽃 날개"
+    },
+    {
+        "tag":"liquid_wings",
+        "desc":"액체 날개"
+    },
+    {
+        "tag":"Ice_wings",
+        "desc":"얼음 날개"
+    },
+    {
+        "tag":"energy_wings",
+        "desc":"에너지 날개"
+    },
+    {
+        "tag":"Heart_wings",
+        "desc":"하트 모양 날개"
+    },
+    {
+        "tag":"short_tail",
+        "desc":"꼬리가 짧다"
+    },
+    {
+        "tag":"long_tail",
+        "desc":"꼬리가 길다"
+    },
+    {
+        "tag":"slender_tail",
+        "desc":"꼬리가 가늘다"
+    },
+    {
+        "tag":"thick_tail",
+        "desc":"꼬리가 두껍다"
+    },
+    {
+        "tag":"dog_tail",
+        "desc":"강아지 꼬리"
+    },
+    {
+        "tag":"gorilla_tail",
+        "desc":"고릴라 꼬리"
+    },
+    {
+        "tag":"cat_tail",
+        "desc":"고양이 꼬리"
+    },
+    {
+        "tag":"bear_tail",
+        "desc":"곰 꼬리"
+    },
+    {
+        "tag":"wolf_tail",
+        "desc":"늑대 꼬리"
+    },
+    {
+        "tag":"squirrel_tail",
+        "desc":"다람쥐 꼬리"
+    },
+    {
+        "tag":"pig_tail",
+        "desc":"돼지 꼬리"
+    },
+    {
+        "tag":"horse_tail",
+        "desc":"말 꼬리"
+    },
+    {
+        "tag":"deer_tail",
+        "desc":"사슴 꼬리"
+    },
+    {
+        "tag":"lion_tail",
+        "desc":"사자 꼬리"
+    },
+    {
+        "tag":"cow_tail",
+        "desc":"소 꼬리"
+    },
+    {
+        "tag":"sheep_tail",
+        "desc":"양 꼬리"
+    },
+    {
+        "tag":"fox_tail",
+        "desc":"여우 꼬리"
+    },
+    {
+        "tag":"monkey_tail",
+        "desc":"원숭이 꼬리"
+    },
+    {
+        "tag":"ermine_tail",
+        "desc":"족제비 꼬리"
+    },
+    {
+        "tag":"mouse_tail",
+        "desc":"쥐 꼬리"
+    },
+    {
+        "tag":"rabbit_tail",
+        "desc":"토끼 꼬리"
+    },
+    {
+        "tag":"leopard_tail",
+        "desc":"표범 꼬리"
+    },
+    {
+        "tag":"tiger_tail",
+        "desc":"호랑이 꼬리"
+    }
+]

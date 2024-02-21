@@ -1,0 +1,1722 @@
+[
+    {
+        "tag":"arm_cutout",
+        "desc":"옷의 팔을 노출하다"
+    },
+    {
+        "tag":"armpit_cutout",
+        "desc":"옷의 겨드랑이를 노출하다"
+    },
+    {
+        "tag":"bare_shoulders",
+        "desc":"옷의 어깨를 노출하다"
+    },
+    {
+        "tag":"shoulder_cutout",
+        "desc":"옷의 어깨를 살짝 노출하다"
+    },
+    {
+        "tag":"low-cut_armhole",
+        "desc":"옷의 옆구리를 노출하다"
+    },
+    {
+        "tag":"high-waist_sideboob",
+        "desc":"옷의 옆구리 위쪽을 노출하다"
+    },
+    {
+        "tag":"sideless_outfit",
+        "desc":"옷의 옆구리를 전부 노출하다"
+    },
+    {
+        "tag":"bare_back",
+        "desc":"옷의 등을 노출하다"
+    },
+    {
+        "tag":"backless_outfit",
+        "desc":"옷의 등을 숨기지 않는다"
+    },
+    {
+        "tag":"breast_slip",
+        "desc":"옷의 가슴을 노출하다"
+    },
+    {
+        "tag":"cleavage_cutout",
+        "desc":"옷의 가슴골을 노출하다"
+    },
+    {
+        "tag":"center_opening",
+        "desc":"옷의 가슴 사이를 노출하다"
+    },
+    {
+        "tag":"breastless_clothes",
+        "desc":"옷의 가슴을 전부 노출하다"
+    },
+    {
+        "tag":"sideboob",
+        "desc":"옷의 옆가슴을 노출하다"
+    },
+    {
+        "tag":"backboob",
+        "desc":"옷의 뒷가슴을 노출하다"
+    },
+    {
+        "tag":"underboob",
+        "desc":"옷의 밑가슴을 노출하다"
+    },
+    {
+        "tag":"underboob_cutout",
+        "desc":"옷의 밑가슴 사이를 노출하다"
+    },
+    {
+        "tag":"nipple_slip",
+        "desc":"옷의 젖꼭지를 노출하다"
+    },
+    {
+        "tag":"areola_slip",
+        "desc":"옷의 유륜을 노출하다"
+    },
+    {
+        "tag":"midriff",
+        "desc":"옷의 배를 노출하다"
+    },
+    {
+        "tag":"stomach_cutout",
+        "desc":"옷의 배를 노출하다"
+    },
+    {
+        "tag":"navel_cutout",
+        "desc":"옷의 배꼽을 노출하다"
+    },
+    {
+        "tag":"side_slit",
+        "desc":"옷의 다리가 노출되다"
+    },
+    {
+        "tag":"zettai_ryouiki",
+        "desc":"옷의 허벅지를 노출하다"
+    },
+    {
+        "tag":"crotch_cutout",
+        "desc":"옷의 가랑이를 노출하다"
+    },
+    {
+        "tag":"hip_vent",
+        "desc":"옷의 골반을 노출하다"
+    },
+    {
+        "tag":"ass_cutout",
+        "desc":"옷의 엉덩이를 노출하다"
+    },
+    {
+        "tag":"butt_crack",
+        "desc":"옷의 엉덩이를 노출하다"
+    },
+    {
+        "tag":"sleeveless",
+        "desc":"옷의 소매가 없다"
+    },
+    {
+        "tag":"unbuttoned_shirt",
+        "desc":"옷의 단추가 없다"
+    },
+    {
+        "tag":"see-through",
+        "desc":"옷이 비쳐 보인다"
+    },
+    {
+        "tag":"revealing_clothes",
+        "desc":"옷의 노출이 심하다"
+    },
+    {
+        "tag":"cross-laced_clothes",
+        "desc":"옷의 선을 X자로 묶었다"
+    },
+    {
+        "tag":"cross-laced_cutout",
+        "desc":"옷의 선을 X자로 묶어 노출하다"
+    },
+    {
+        "tag":"naked_tabard",
+        "desc":"알몸 가슴천막"
+    },
+    {
+        "tag":"naked_robe",
+        "desc":"알몸 가운"
+    },
+    {
+        "tag":"naked_ribbon",
+        "desc":"알몸 리본"
+    },
+    {
+        "tag":"naked_cape",
+        "desc":"알몸 망토"
+    },
+    {
+        "tag":"naked_cloak",
+        "desc":"알몸 망토"
+    },
+    {
+        "tag":"naked_suspenders",
+        "desc":"알몸 멜빵"
+    },
+    {
+        "tag":"naked_bandage",
+        "desc":"알몸 붕대"
+    },
+    {
+        "tag":"naked_shirt",
+        "desc":"알몸 셔츠"
+    },
+    {
+        "tag":"underwear_only",
+        "desc":"알몸 속옷"
+    },
+    {
+        "tag":"naked_scarf",
+        "desc":"알몸 스카프"
+    },
+    {
+        "tag":"naked_sheet",
+        "desc":"알몸 이불"
+    },
+    {
+        "tag":"naked_overalls",
+        "desc":"알몸 작업복"
+    },
+    {
+        "tag":"naked_jacket",
+        "desc":"알몸 재킷"
+    },
+    {
+        "tag":"naked_chocolate",
+        "desc":"알몸 초콜릿"
+    },
+    {
+        "tag":"naked_coat",
+        "desc":"알몸 코트"
+    },
+    {
+        "tag":"naked_towel",
+        "desc":"알몸 타올"
+    },
+    {
+        "tag":"naked_hoodie",
+        "desc":"알몸 후드"
+    },
+    {
+        "tag":"naked_capelet",
+        "desc":"알몸 후드 망토"
+    },
+    {
+        "tag":"naked_apron",
+        "desc":"알몸 에이프런"
+    },
+    {
+        "tag":"nearly_naked_apron",
+        "desc":"알몸 에이프런"
+    },
+    {
+        "tag":"gakuran",
+        "desc":"가쿠란"
+    },
+    {
+        "tag":"school_uniform",
+        "desc":"교복"
+    },
+    {
+        "tag":"military_uniform",
+        "desc":"군복"
+    },
+    {
+        "tag":"meiji_schoolgirl_uniform",
+        "desc":"메이지 여학생 교복"
+    },
+    {
+        "tag":"tutu",
+        "desc":"발레복"
+    },
+    {
+        "tag":"hazmat_suit",
+        "desc":"방호복"
+    },
+    {
+        "tag":"band_uniform",
+        "desc":"밴드복"
+    },
+    {
+        "tag":"harem_outfit",
+        "desc":"벨리댄서"
+    },
+    {
+        "tag":"hev_suit",
+        "desc":"보호복"
+    },
+    {
+        "tag":"cassock",
+        "desc":"사제복"
+    },
+    {
+        "tag":"habit",
+        "desc":"사제복"
+    },
+    {
+        "tag":"sailor_(naval_uniform)",
+        "desc":"선원복"
+    },
+    {
+        "tag":"serafuku_(sailor_uniform)",
+        "desc":"세일러복"
+    },
+    {
+        "tag":"loincloth",
+        "desc":"원시 의복"
+    },
+    {
+        "tag":"overalls",
+        "desc":"작업복"
+    },
+    {
+        "tag":"pajamas",
+        "desc":"잠옷"
+    },
+    {
+        "tag":"waitress clothes",
+        "desc":"여성 점원"
+    },
+    {
+        "tag":"cheerleader",
+        "desc":"치어리더"
+    },
+    {
+        "tag":"suit",
+        "desc":"정장(남성)"
+    },
+    {
+        "tag":"skirtsuit",
+        "desc":"정장(여성)"
+    },
+    {
+        "tag":"business_suit",
+        "desc":"신사복"
+    },
+    {
+        "tag":"pant_suit",
+        "desc":"정장 바지"
+    },
+    {
+        "tag":"skirt_suit",
+        "desc":"정장 치마"
+    },
+    {
+        "tag":"tuxedo",
+        "desc":"턱시도"
+    },
+    {
+        "tag":"bikesuit",
+        "desc":"자전거 슈트"
+    },
+    {
+        "tag":"racing_suit",
+        "desc":"레이싱 슈트"
+    },
+    {
+        "tag":"pilot_suit",
+        "desc":"파일럿 슈트"
+    },
+    {
+        "tag":"plugsuit",
+        "desc":"플러그 슈트"
+    },
+    {
+        "tag":"bodysuit",
+        "desc":"바디슈트"
+    },
+    {
+        "tag":"jumpsuit",
+        "desc":"점프슈트"
+    },
+    {
+        "tag":"short_jumpsuit",
+        "desc":"짧은 점프 슈트"
+    },
+    {
+        "tag":"sweatpants",
+        "desc":"운동복"
+    },
+    {
+        "tag":"track_suit",
+        "desc":"운동복"
+    },
+    {
+        "tag":"gym_uniform",
+        "desc":"체육복"
+    },
+    {
+        "tag":"football_uniform",
+        "desc":"축구복"
+    },
+    {
+        "tag":"basketball_uniform",
+        "desc":"농구복"
+    },
+    {
+        "tag":"baseball_uniform",
+        "desc":"야구복"
+    },
+    {
+        "tag":"volleyball_uniform",
+        "desc":"배구복"
+    },
+    {
+        "tag":"golf_uniform",
+        "desc":"골프복"
+    },
+    {
+        "tag":"running_uniform",
+        "desc":"육상복"
+    },
+    {
+        "tag":"tennis_uniform",
+        "desc":"테니스복"
+    },
+    {
+        "tag":"leotard",
+        "desc":"레오타드"
+    },
+    {
+        "tag":"strapless_leotard",
+        "desc":"끈 없는 레오타드"
+    },
+    {
+        "tag":"santa_dress",
+        "desc":"산타 드레스"
+    },
+    {
+        "tag":"santa_costume",
+        "desc":"산타 복장"
+    },
+    {
+        "tag":"cowboy_western",
+        "desc":"카우보이"
+    },
+    {
+        "tag":"dog_costume",
+        "desc":"강아지 코스튬"
+    },
+    {
+        "tag":"Gorilla_costume",
+        "desc":"고릴라 코스튬"
+    },
+    {
+        "tag":"cat_costume",
+        "desc":"고양이 코스튬"
+    },
+    {
+        "tag":"bear_costume",
+        "desc":"곰 코스튬"
+    },
+    {
+        "tag":"raccoon_costume",
+        "desc":"너구리 코스튬"
+    },
+    {
+        "tag":"wolf_costume",
+        "desc":"늑대 코스튬"
+    },
+    {
+        "tag":"squirrel_costume",
+        "desc":"다람쥐 코스튬"
+    },
+    {
+        "tag":"pig_costume",
+        "desc":"돼지 코스튬"
+    },
+    {
+        "tag":"horse_costume",
+        "desc":"말 코스튬"
+    },
+    {
+        "tag":"bat_costume",
+        "desc":"박쥐 코스튬"
+    },
+    {
+        "tag":"deer_costume",
+        "desc":"사슴 코스튬"
+    },
+    {
+        "tag":"lion_costume",
+        "desc":"사자 코스튬"
+    },
+    {
+        "tag":"cow_costume",
+        "desc":"소 코스튬"
+    },
+    {
+        "tag":"sheep_costume",
+        "desc":"양 코스튬"
+    },
+    {
+        "tag":"fox_costume",
+        "desc":"여우 코스튬"
+    },
+    {
+        "tag":"goat_costume",
+        "desc":"염소 코스튬"
+    },
+    {
+        "tag":"monkey_costume",
+        "desc":"원숭이 코스튬"
+    },
+    {
+        "tag":"ferret_costume",
+        "desc":"족제비 코스튬"
+    },
+    {
+        "tag":"mouse_costume",
+        "desc":"쥐 코스튬"
+    },
+    {
+        "tag":"rabbit_costume",
+        "desc":"토끼 코스튬"
+    },
+    {
+        "tag":"panda_costume",
+        "desc":"팬더 코스튬"
+    },
+    {
+        "tag":"tiger_costume",
+        "desc":"호랑이 코스튬"
+    },
+    {
+        "tag":"Nuss_maid_costume",
+        "desc":"너스 메이드복"
+    },
+    {
+        "tag":"Ladies_maid_costume",
+        "desc":"레이디스 메이드복"
+    },
+    {
+        "tag":"Military_maid_costume",
+        "desc":"밀리터리 메이드복"
+    },
+    {
+        "tag":"Victoria_Maid_costume",
+        "desc":"빅토리아 메이드복"
+    },
+    {
+        "tag":"Cybermaid_costume",
+        "desc":"사이버 메이드복"
+    },
+    {
+        "tag":"Steampunk_maid_costume",
+        "desc":"스팀펑크 메이드복"
+    },
+    {
+        "tag":"Japanese-style_maid_costume",
+        "desc":"일본풍 메이드복"
+    },
+    {
+        "tag":"China-style_maid_costume",
+        "desc":"차이나 메이드복"
+    },
+    {
+        "tag":"Classic_maid_costume",
+        "desc":"클래식 메이드복"
+    },
+    {
+        "tag":"Kitchen_maid_costume",
+        "desc":"키친 메이드복"
+    },
+    {
+        "tag":"Faller_maid_costume",
+        "desc":"팔러 메이드복"
+    },
+    {
+        "tag":"French_maid_costume",
+        "desc":"프렌치 메이드복"
+    },
+    {
+        "tag":"House_maid_costume",
+        "desc":"하우스 메이드복"
+    },
+    {
+        "tag":"Housekeeper_costume",
+        "desc":"하우스키퍼"
+    },
+    {
+        "tag":"gown",
+        "desc":"가운"
+    },
+    {
+        "tag":"negligee",
+        "desc":"네글리제"
+    },
+    {
+        "tag":"wedding_dress",
+        "desc":"웨딩 드레스"
+    },
+    {
+        "tag":"tennis_dress",
+        "desc":"테니스 드레스"
+    },
+    {
+        "tag":"evening_gown",
+        "desc":"이브닝 드레스"
+    },
+    {
+        "tag":"nightgown",
+        "desc":"잠옷 드레스"
+    },
+    {
+        "tag":"funeral_dress",
+        "desc":"장례식 드레스"
+    },
+    {
+        "tag":"cocktail_dress",
+        "desc":"칵테일 드레스"
+    },
+    {
+        "tag":"coat_dress",
+        "desc":"코트 드레스"
+    },
+    {
+        "tag":"frilled_dress",
+        "desc":"프릴 드레스"
+    },
+    {
+        "tag":"latex_dress",
+        "desc":"라텍스 드레스"
+    },
+    {
+        "tag":"collared_dress",
+        "desc":"칼라 드레스"
+    },
+    {
+        "tag":"fur-trimmed_dress",
+        "desc":"모피 장식 드레스"
+    },
+    {
+        "tag":"lace-trimmed_dress",
+        "desc":"레이스 장식 드레스"
+    },
+    {
+        "tag":"ribbon-trimmed_dress",
+        "desc":"리본 장식 드레스"
+    },
+    {
+        "tag":"layered_dress",
+        "desc":"천이 여러 겹인 드레스"
+    },
+    {
+        "tag":"sundress",
+        "desc":"여름용 드레스"
+    },
+    {
+        "tag":"taut_dress",
+        "desc":"팽팽한 드레스"
+    },
+    {
+        "tag":"trapeze_dress",
+        "desc":"밑단이 넓은 드레스"
+    },
+    {
+        "tag":"see-through_dress",
+        "desc":"비쳐 보이는 드레스"
+    },
+    {
+        "tag":"flowing_dress",
+        "desc":"흐르는 듯한 드레스"
+    },
+    {
+        "tag":"long_dress",
+        "desc":"긴 드레스"
+    },
+    {
+        "tag":"highleg_dress",
+        "desc":"다리노출 긴 드레스"
+    },
+    {
+        "tag":"high-low_dress",
+        "desc":"매우 짧은 드레스"
+    },
+    {
+        "tag":"short_dress",
+        "desc":"짧은 드레스"
+    },
+    {
+        "tag":"strapless_dress",
+        "desc":"끈 없는 드레스"
+    },
+    {
+        "tag":"tube_dress",
+        "desc":"끈 없이 밀착한 드레스"
+    },
+    {
+        "tag":"backless_dress",
+        "desc":"등이 노출된 드레스"
+    },
+    {
+        "tag":"halter_dress",
+        "desc":"목과 연결된 드레스"
+    },
+    {
+        "tag":"pencil_dress",
+        "desc":"몸에 꼭 맞는 드레스"
+    },
+    {
+        "tag":"sleeveless_dress",
+        "desc":"소매 없는 드레스"
+    },
+    {
+        "tag":"hobble_dress",
+        "desc":"발목까지 내려오는 드레스"
+    },
+    {
+        "tag":"plunging_neckline_dress",
+        "desc":"길게 V자로 갈라진 드레스"
+    },
+    {
+        "tag":"pleated_dress",
+        "desc":"세로로 주름진 드레스"
+    },
+    {
+        "tag":"off-shoulder_dress",
+        "desc":"어깨가 보이는드레스"
+    },
+    {
+        "tag":"half-dress",
+        "desc":"절반으로 나뉜 드레스"
+    },
+    {
+        "tag":"skin_tight_dress",
+        "desc":"피부가 꽉 조이는 드레스"
+    },
+    {
+        "tag":"side_slit_dress",
+        "desc":"허벅지가 갈라진 드레스"
+    },
+    {
+        "tag":"bikini",
+        "desc":"비키니"
+    },
+    {
+        "tag":"slingshot_swimsuit",
+        "desc":"슬링샷"
+    },
+    {
+        "tag":"rash_guard_(swim_shirt)",
+        "desc":"레쉬 가드"
+    },
+    {
+        "tag":"bikini_skirt",
+        "desc":"비키니 스커트"
+    },
+    {
+        "tag":"sports_bikini",
+        "desc":"스포츠 비키니"
+    },
+    {
+        "tag":"old-fashioned_swimsuit",
+        "desc":"옛날 수영복"
+    },
+    {
+        "tag":"sukumizu",
+        "desc":"학교 수영복"
+    },
+    {
+        "tag":"school_swimsuit",
+        "desc":"학생용 수영복"
+    },
+    {
+        "tag":"competition_swimsuit",
+        "desc":"선수용 수영복"
+    },
+    {
+        "tag":"one-piece_swimsuit",
+        "desc":"원피스 수영복"
+    },
+    {
+        "tag":"dress_swimsuit",
+        "desc":"드레스 수영복"
+    },
+    {
+        "tag":"casual_one-piece_swimsuit",
+        "desc":"캐주얼 원피스 수영복"
+    },
+    {
+        "tag":"lowleg_bikini",
+        "desc":"살짝 짧은 비키니"
+    },
+    {
+        "tag":"micro_bikini",
+        "desc":"매우 짧은 비키니"
+    },
+    {
+        "tag":"tankini",
+        "desc":"짧은 상의와 연결된 비키니"
+    },
+    {
+        "tag":"impossible_swimsuit",
+        "desc":"몸에 밀착한 수영복"
+    },
+    {
+        "tag":"thong_bikini",
+        "desc":"끈이 많은 비키니"
+    },
+    {
+        "tag":"side-tie_bikini_bottom",
+        "desc":"끈으로 묶인 비키니"
+    },
+    {
+        "tag":"string_bikini",
+        "desc":"끈으로 가슴만 연결한 비키니"
+    },
+    {
+        "tag":"o-ring_bikini",
+        "desc":"고리가 달린 비키니"
+    },
+    {
+        "tag":"o-ring_top",
+        "desc":"고리가 위쪽과 연결한 비키니"
+    },
+    {
+        "tag":"o-ring_bottom",
+        "desc":"고리가 아래쪽과 연결한 비키니"
+    },
+    {
+        "tag":"tangzhuang",
+        "desc":"탕좡"
+    },
+    {
+        "tag":"changpao",
+        "desc":"치파오"
+    },
+    {
+        "tag":"china_dress",
+        "desc":"차이나 드레스"
+    },
+    {
+        "tag":"dirndl",
+        "desc":"디른들"
+    },
+    {
+        "tag":"vietnamese_dress",
+        "desc":"베트남 드레스"
+    },
+    {
+        "tag":"fundoshi",
+        "desc":"훈도시"
+    },
+    {
+        "tag":"yamakasa",
+        "desc":"야마카사"
+    },
+    {
+        "tag":"hakama",
+        "desc":"하카마"
+    },
+    {
+        "tag":"hakama_pants",
+        "desc":"하카마 바지"
+    },
+    {
+        "tag":"hakama_skirt",
+        "desc":"하카마 치마"
+    },
+    {
+        "tag":"hakama_short_skirt",
+        "desc":"하카마 짧은 치마"
+    },
+    {
+        "tag":"kimono",
+        "desc":"기모노"
+    },
+    {
+        "tag":"furisode",
+        "desc":"후리소데"
+    },
+    {
+        "tag":"yukata",
+        "desc":"유카타"
+    },
+    {
+        "tag":"uchikake=(wedding_kimono)",
+        "desc":"우치카케"
+    },
+    {
+        "tag":"short_kimono",
+        "desc":"짧은 기모노"
+    },
+    {
+        "tag":"kimono_skirt",
+        "desc":"기모노 스커트"
+    },
+    {
+        "tag":"layered_kimono",
+        "desc":"몇 겹 겹친 기모노"
+    },
+    {
+        "tag":"haori",
+        "desc":"하오리"
+    },
+    {
+        "tag":"happi",
+        "desc":"반소매 하오리"
+    },
+    {
+        "tag":"chanchanko",
+        "desc":"긴 하오리"
+    },
+    {
+        "tag":"dotera",
+        "desc":"도테라"
+    },
+    {
+        "tag":"hanten",
+        "desc":"한텐"
+    },
+    {
+        "tag":"miko",
+        "desc":"무녀복"
+    },
+    {
+        "tag":"miko",
+        "desc":"개조한 무녀복nontraditional"
+    },
+    {
+        "tag":"sarashi",
+        "desc":"사라시"
+    },
+    {
+        "tag":"Midriff_sarashi",
+        "desc":"복부 사라시"
+    },
+    {
+        "tag":"Chest_sarashi",
+        "desc":"가슴 사라시"
+    },
+    {
+        "tag":"Budget_sarashi",
+        "desc":"몸통 사라시"
+    },
+    {
+        "tag":"Undone_sarashi",
+        "desc":"풀린 사라시"
+    },
+    {
+        "tag":"tasuki",
+        "desc":"기모노 끈"
+    },
+    {
+        "tag":"shirt",
+        "desc":"셔츠"
+    },
+    {
+        "tag":"t-shirt",
+        "desc":"티셔츠"
+    },
+    {
+        "tag":"frilled_shirt",
+        "desc":"프릴 셔츠"
+    },
+    {
+        "tag":"collared_shirt",
+        "desc":"칼라 셔츠"
+    },
+    {
+        "tag":"dress_shirt",
+        "desc":"드레스 셔츠"
+    },
+    {
+        "tag":"striped_shirt",
+        "desc":"줄무늬 셔츠"
+    },
+    {
+        "tag":"sleeveless_shirt",
+        "desc":"민소매 셔츠"
+    },
+    {
+        "tag":"compression_shirt",
+        "desc":"밀착한 셔츠"
+    },
+    {
+        "tag":"off-shoulder_shirt",
+        "desc":"오픈숄더 셔츠"
+    },
+    {
+        "tag":"unbuttoned_white_shirt",
+        "desc":"버튼을 반만 푼 셔츠"
+    },
+    {
+        "tag":"tank_top",
+        "desc":"탱크탑"
+    },
+    {
+        "tag":"tube_top",
+        "desc":"튜브탑"
+    },
+    {
+        "tag":"crop_top",
+        "desc":"배꼽티"
+    },
+    {
+        "tag":"blouse",
+        "desc":"블라우스"
+    },
+    {
+        "tag":"downblouse",
+        "desc":"어깨가 보이는 블라우스"
+    },
+    {
+        "tag":"halterneck",
+        "desc":"홀터넥"
+    },
+    {
+        "tag":"sweater",
+        "desc":"스웨터"
+    },
+    {
+        "tag":"pullover",
+        "desc":"풀오버"
+    },
+    {
+        "tag":"turtleneck",
+        "desc":"터틀넥"
+    },
+    {
+        "tag":"sweater_vest",
+        "desc":"스웨터 조끼"
+    },
+    {
+        "tag":"sweater_dress",
+        "desc":"스웨터 드레스"
+    },
+    {
+        "tag":"ribbed_sweater",
+        "desc":"선 그인 스웨터"
+    },
+    {
+        "tag":"aran_sweater",
+        "desc":"털 있는 스웨터"
+    },
+    {
+        "tag":"sleeveless_turtleneck",
+        "desc":"민소매 터틀넥"
+    },
+    {
+        "tag":"jacket",
+        "desc":"재킷"
+    },
+    {
+        "tag":"blazer",
+        "desc":"블레이저"
+    },
+    {
+        "tag":"cropped_jacket",
+        "desc":"크롭 재킷"
+    },
+    {
+        "tag":"letterman_jacket",
+        "desc":"레터맨 재킷"
+    },
+    {
+        "tag":"safari_jacket",
+        "desc":"사파리 재킷"
+    },
+    {
+        "tag":"suit_jacket",
+        "desc":"정장 재킷"
+    },
+    {
+        "tag":"sukajan",
+        "desc":"스카잔(일본 불량배)"
+    },
+    {
+        "tag":"coat",
+        "desc":"코트"
+    },
+    {
+        "tag":"overcoat",
+        "desc":"외투"
+    },
+    {
+        "tag":"raincoat",
+        "desc":"우비"
+    },
+    {
+        "tag":"tailcoat",
+        "desc":"연미복"
+    },
+    {
+        "tag":"duffel_coat",
+        "desc":"더플 코트"
+    },
+    {
+        "tag":"long_coat",
+        "desc":"롱코트"
+    },
+    {
+        "tag":"peacoat",
+        "desc":"피코트"
+    },
+    {
+        "tag":"trench_coat",
+        "desc":"트레치 코트"
+    },
+    {
+        "tag":"fur_coat",
+        "desc":"모피 코트"
+    },
+    {
+        "tag":"fur-trimmed_coat",
+        "desc":"모피 장식 코트"
+    },
+    {
+        "tag":"hoodie",
+        "desc":"후드"
+    },
+    {
+        "tag":"cropped_hoodie",
+        "desc":"배꼽 보이는 후드"
+    },
+    {
+        "tag":"polka_dot_hoodie",
+        "desc":"폴카 무늬"
+    },
+    {
+        "tag":"print_hoodie",
+        "desc":"인쇄한 후드"
+    },
+    {
+        "tag":"sleeveless_hoodie",
+        "desc":"민소매 후드"
+    },
+    {
+        "tag":"striped_hoodie",
+        "desc":"줄무늬 후드"
+    },
+    {
+        "tag":"robe",
+        "desc":"로브"
+    },
+    {
+        "tag":"bathrobe",
+        "desc":"목욕 가운"
+    },
+    {
+        "tag":"apron",
+        "desc":"앞치마"
+    },
+    {
+        "tag":"waistcoat",
+        "desc":"양복 조끼"
+    },
+    {
+        "tag":"shoulder_cape",
+        "desc":"어깨 망토"
+    },
+    {
+        "tag":"cape",
+        "desc":"어깨를 덮는 망토"
+    },
+    {
+        "tag":"capelet",
+        "desc":"어깨만 덮는 작은 망토"
+    },
+    {
+        "tag":"open_robe",
+        "desc":"열린 로브"
+    },
+    {
+        "tag":"vest",
+        "desc":"조끼"
+    },
+    {
+        "tag":"cardigan",
+        "desc":"카디건"
+    },
+    {
+        "tag":"cardigan_vest",
+        "desc":"카디건 조끼"
+    },
+    {
+        "tag":"jeans",
+        "desc":"청바지"
+    },
+    {
+        "tag":"cutoff_jeans",
+        "desc":"청반바지"
+    },
+    {
+        "tag":"chaps",
+        "desc":"카우보이 바지"
+    },
+    {
+        "tag":"tight_pants",
+        "desc":"몸에 꽉 끼는 바지"
+    },
+    {
+        "tag":"bell-bottoms",
+        "desc":"무릎 아래가 넓은 바지"
+    },
+    {
+        "tag":"capri_pants",
+        "desc":"발목 위까지 오는 바지"
+    },
+    {
+        "tag":"downpants",
+        "desc":"엉덩이 골이 보이는 바지"
+    },
+    {
+        "tag":"lowleg_pants",
+        "desc":"엉덩이와 허벅지에 꽉 끼는 바지"
+    },
+    {
+        "tag":"pants_rolled_up",
+        "desc":"발목과 무릎 사이가 접힌 바지"
+    },
+    {
+        "tag":"shorts",
+        "desc":"반바지"
+    },
+    {
+        "tag":"denim_shorts",
+        "desc":"데님 반바지"
+    },
+    {
+        "tag":"bike_shorts",
+        "desc":"자전거 반바지"
+    },
+    {
+        "tag":"gym_shorts",
+        "desc":"체육복 반바지"
+    },
+    {
+        "tag":"buruma",
+        "desc":"부루마"
+    },
+    {
+        "tag":"bloomers",
+        "desc":"블루머"
+    },
+    {
+        "tag":"dolphin_shorts",
+        "desc":"돌핀 팬츠"
+    },
+    {
+        "tag":"short_shorts",
+        "desc":"짧은 반바지"
+    },
+    {
+        "tag":"lowleg_shorts",
+        "desc":"살짝 짧은 반바지"
+    },
+    {
+        "tag":"micro_shorts",
+        "desc":"매우 짧은 반바지"
+    },
+    {
+        "tag":"shorts_under_skirt",
+        "desc":"치마 아래 반바지"
+    },
+    {
+        "tag":"Long_skirt",
+        "desc":"긴 치마"
+    },
+    {
+        "tag":"miniskirt",
+        "desc":"짧은 치마"
+    },
+    {
+        "tag":"lowleg_skirt",
+        "desc":"살짝 짧은 치마"
+    },
+    {
+        "tag":"micro_skirt",
+        "desc":"매우 짦은 치마"
+    },
+    {
+        "tag":"high-waist_skirt",
+        "desc":"매우 넓은 치마"
+    },
+    {
+        "tag":"high-low_skirt",
+        "desc":"매우 좁은 치마"
+    },
+    {
+        "tag":"wrap_skirt",
+        "desc":"랩 스커트"
+    },
+    {
+        "tag":"layered_skirt",
+        "desc":"레이어드 스커트"
+    },
+    {
+        "tag":"mermaid_skirt",
+        "desc":"머메이드 스커트"
+    },
+    {
+        "tag":"overall_skirt",
+        "desc":"멜빵 치마"
+    },
+    {
+        "tag":"overall_skirt",
+        "desc":"멜빵과 연결된 치마"
+    },
+    {
+        "tag":"suspender_skirt",
+        "desc":"멜빵이 잡는 치마"
+    },
+    {
+        "tag":"skirt_pants",
+        "desc":"치마 바지"
+    },
+    {
+        "tag":"tight_skirt",
+        "desc":"타이트 스커트"
+    },
+    {
+        "tag":"tulip_skirt",
+        "desc":"튤립 스커트"
+    },
+    {
+        "tag":"pannier_skirt",
+        "desc":"파니에 스커트"
+    },
+    {
+        "tag":"flared_skirt",
+        "desc":"플레어 스커트"
+    },
+    {
+        "tag":"pleated_skirt",
+        "desc":"플리츠 스커트"
+    },
+    {
+        "tag":"pinapo_dress",
+        "desc":"피나포 드레스"
+    },
+    {
+        "tag":"bandeau",
+        "desc":"가슴 가리개"
+    },
+    {
+        "tag":"bustier",
+        "desc":"뷔스티에"
+    },
+    {
+        "tag":"camisole",
+        "desc":"캐미솔"
+    },
+    {
+        "tag":"corset",
+        "desc":"코르셋"
+    },
+    {
+        "tag":"bra_strap",
+        "desc":"브래지어 끈"
+    },
+    {
+        "tag":"adhesive_bra",
+        "desc":"접착 브래지어"
+    },
+    {
+        "tag":"beltbra",
+        "desc":"벨트 브래지어"
+    },
+    {
+        "tag":"frilled_bra",
+        "desc":"프릴 브래지어"
+    },
+    {
+        "tag":"bow_bra",
+        "desc":"리본 브래지어"
+    },
+    {
+        "tag":"sports_bra",
+        "desc":"스포츠 브래지어"
+    },
+    {
+        "tag":"training_bra",
+        "desc":"트레이닝 브래지어"
+    },
+    {
+        "tag":"cupless_bra",
+        "desc":"노출된 브래지어"
+    },
+    {
+        "tag":"shelf_bra",
+        "desc":"노출된 브래지어"
+    },
+    {
+        "tag":"strapless_bra",
+        "desc":"끈이 없는 브래지어"
+    },
+    {
+        "tag":"front-tie_bra",
+        "desc":"앞에서 묶는 브래지어"
+    },
+    {
+        "tag":"front-hook_bra",
+        "desc":"앞으로 잠그는 브래지어"
+    },
+    {
+        "tag":"bow_panties",
+        "desc":"삼각형 팬티"
+    },
+    {
+        "tag":"side-tie_panties",
+        "desc":"끈(양쪽) 팬티"
+    },
+    {
+        "tag":"string_panties",
+        "desc":"끈 팬티"
+    },
+    {
+        "tag":"crotchless_panties",
+        "desc":"가랑이가 노출된 팬티"
+    },
+    {
+        "tag":"crotch_seam",
+        "desc":"가랑이가 보이는 팬티"
+    },
+    {
+        "tag":"strapless_bottom",
+        "desc":"가랑이만 노출된 팬티"
+    },
+    {
+        "tag":"backless_panties",
+        "desc":"엉덩이만 노출된 팬티"
+    },
+    {
+        "tag":"frilled_panties",
+        "desc":"주름 있는 팬티"
+    },
+    {
+        "tag":"loose_panties",
+        "desc":"느슨한 팬티"
+    },
+    {
+        "tag":"micro_panties",
+        "desc":"매우 작은 팬티"
+    },
+    {
+        "tag":"lowleg_panties",
+        "desc":"매우 짧은 팬티"
+    },
+    {
+        "tag":"highleg_panties",
+        "desc":"짧고 긴 팬티"
+    },
+    {
+        "tag":"Sizes_of_panties",
+        "desc":"매우 큰 팬티"
+    },
+    {
+        "tag":"socks",
+        "desc":"양말"
+    },
+    {
+        "tag":"tabi",
+        "desc":"버선"
+    },
+    {
+        "tag":"ankle_socks",
+        "desc":"발목 양말"
+    },
+    {
+        "tag":"bobby_socks",
+        "desc":"바비 양말"
+    },
+    {
+        "tag":"loose_socks",
+        "desc":"헐랑한 양말"
+    },
+    {
+        "tag":"toe_socks",
+        "desc":"발가략 양말"
+    },
+    {
+        "tag":"tube_socks",
+        "desc":"튜브 양말"
+    },
+    {
+        "tag":"Stocking",
+        "desc":"스타킹"
+    },
+    {
+        "tag":"leggings",
+        "desc":"레깅스"
+    },
+    {
+        "tag":"High_Legs",
+        "desc":"하이레그"
+    },
+    {
+        "tag":"detached_leggings",
+        "desc":"분리된 레깅스"
+    },
+    {
+        "tag":"pantyhose",
+        "desc":"팬티 스타킹"
+    },
+    {
+        "tag":"kneehighs",
+        "desc":"니 삭스(무릎)"
+    },
+    {
+        "tag":"over-kneehighs",
+        "desc":"오버 니 삭스(무릎 위)"
+    },
+    {
+        "tag":"thighhighs",
+        "desc":"하이 식스(허벅지)"
+    },
+    {
+        "tag":"Thigh_High_Socks",
+        "desc":"사이 하이 삭스(허벅지)"
+    },
+    {
+        "tag":"thigh_strap",
+        "desc":"허벅지 끈"
+    },
+    {
+        "tag":"garter_belt",
+        "desc":"가터벨트"
+    },
+    {
+        "tag":"garter_straps",
+        "desc":"가터 스트랩"
+    },
+    {
+        "tag":"legwear_garter",
+        "desc":"레그웨어 가터"
+    },
+    {
+        "tag":"shiny_legwear",
+        "desc":"반짝이는 양말"
+    },
+    {
+        "tag":"armored_legwear",
+        "desc":"보호하는 양말"
+    },
+    {
+        "tag":"lace-up_legwear",
+        "desc":"위로 올리는 양말"
+    },
+    {
+        "tag":"see-through_legwear",
+        "desc":"비쳐 보이는 양말"
+    },
+    {
+        "tag":"toeless_legwear",
+        "desc":"발가락만 보이는 양말"
+    },
+    {
+        "tag":"bridal_legwear",
+        "desc":"발가락이 보이는 양말"
+    },
+    {
+        "tag":"seamed_legwear",
+        "desc":"선이 있는 양말"
+    },
+    {
+        "tag":"front-seamed_legwear",
+        "desc":"앞에 선 있는 양말"
+    },
+    {
+        "tag":"back-seamed_legwear",
+        "desc":"뒤에 선 있는 양말"
+    },
+    {
+        "tag":"side-seamed_legwear",
+        "desc":"옆에 선 있는 양말"
+    },
+    {
+        "tag":"side-tie_legwear",
+        "desc":"끈(한쪽)이 달린 양말"
+    },
+    {
+        "tag":"stirrup_legwear",
+        "desc":"등자가 달린 양말"
+    },
+    {
+        "tag":"spiked_legwear",
+        "desc":"스파이크 달린 양말"
+    },
+    {
+        "tag":"zipper_legwear",
+        "desc":"지퍼 달린 양말"
+    },
+    {
+        "tag":"studded_legwear",
+        "desc":"징이 박힌 양말"
+    },
+    {
+        "tag":"cross-laced_legwear",
+        "desc":"끈(십자형) 장식 달린 양말"
+    },
+    {
+        "tag":"lace-trimmed_legwear",
+        "desc":"레이스 장식 달린 양말"
+    },
+    {
+        "tag":"ribbon-trimmed_legwear",
+        "desc":"리본 장식 다린 양말"
+    },
+    {
+        "tag":"ribbon_legwear",
+        "desc":"리본이 달린 양말"
+    },
+    {
+        "tag":"fur-trimmed_legwear",
+        "desc":"모피 장식 달린 양말"
+    },
+    {
+        "tag":"o-ring_legwear",
+        "desc":"고리 장식 달린 양말"
+    },
+    {
+        "tag":"legwear_bell",
+        "desc":"종 장식이 달린 양말"
+    },
+    {
+        "tag":"sneakers",
+        "desc":"운동화"
+    },
+    {
+        "tag":"converse",
+        "desc":"운동화"
+    },
+    {
+        "tag":"high_tops",
+        "desc":"하이탑"
+    },
+    {
+        "tag":"loafers",
+        "desc":"교복 신발"
+    },
+    {
+        "tag":"pumps",
+        "desc":"정장 신발"
+    },
+    {
+        "tag":"flats",
+        "desc":"중국 신발"
+    },
+    {
+        "tag":"mary_janes",
+        "desc":"영국 신발"
+    },
+    {
+        "tag":"uwabaki",
+        "desc":"학교 실내화"
+    },
+    {
+        "tag":"pointy_footwear",
+        "desc":"뾰족한 신발"
+    },
+    {
+        "tag":"kiltie_loafers",
+        "desc":"끈 달린 교복 신발"
+    },
+    {
+        "tag":"footwear_ribbon",
+        "desc":"리본 달린 신발"
+    },
+    {
+        "tag":"cross-laced_footwear",
+        "desc":"끈이 달린 신발"
+    },
+    {
+        "tag":"platform_footwear",
+        "desc":"두꺼운 굽 있는 신발"
+    },
+    {
+        "tag":"toeless_footwear",
+        "desc":"발가락이 보이는 신발"
+    },
+    {
+        "tag":"winged_footwear",
+        "desc":"발꿈치에 날개 달린 신발"
+    },
+    {
+        "tag":"high_heels",
+        "desc":"하이힐"
+    },
+    {
+        "tag":"wedge_heels",
+        "desc":"웨지힐"
+    },
+    {
+        "tag":"boots",
+        "desc":"부츠"
+    },
+    {
+        "tag":"knee_boots",
+        "desc":"무릎 부츠"
+    },
+    {
+        "tag":"ankle_boots",
+        "desc":"발목 부츠"
+    },
+    {
+        "tag":"lace-up_boots",
+        "desc":"발목 위 부츠"
+    },
+    {
+        "tag":"thigh_boots",
+        "desc":"허벅지 부츠"
+    },
+    {
+        "tag":"armored_boots",
+        "desc":"보호 부츠"
+    },
+    {
+        "tag":"high_heel_boots",
+        "desc":"하이힐 부츠"
+    },
+    {
+        "tag":"rubber_boots",
+        "desc":"고무 장화"
+    },
+    {
+        "tag":"cowboy_boots",
+        "desc":"카우보이 부츠"
+    },
+    {
+        "tag":"sandals",
+        "desc":"샌들"
+    },
+    {
+        "tag":"clog_sandals",
+        "desc":"나막신 샌들"
+    },
+    {
+        "tag":"gladiator_sandals",
+        "desc":"검투사 샌들"
+    },
+    {
+        "tag":"cross-laced_sandals",
+        "desc":"끈이 얽힌 샌들"
+    },
+    {
+        "tag":"flip-flops",
+        "desc":"발목이 고정되지 않는 샌들"
+    },
+    {
+        "tag":"geta",
+        "desc":"게다(일본 나무 샌들)"
+    },
+    {
+        "tag":"okobo",
+        "desc":"오코보(일본 게이샤 샌들)"
+    },
+    {
+        "tag":"waraji",
+        "desc":"와자지(일본 짚신)"
+    },
+    {
+        "tag":"zouri",
+        "desc":"조리(일본 샌들)"
+    }
+]

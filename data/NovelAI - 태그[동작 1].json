@@ -1,0 +1,2286 @@
+[
+    {
+        "tag":"crawling",
+        "desc":"네 발로 걷다"
+    },
+    {
+        "tag":"all_fours",
+        "desc":"네 발로 서다"
+    },
+    {
+        "tag":"top-down_bottom-up",
+        "desc":"네 발로 서서 엉덩이를 들다"
+    },
+    {
+        "tag":"prostration",
+        "desc":"네 발을 들고 복종하다"
+    },
+    {
+        "tag":"walking",
+        "desc":"두 발로 걷다"
+    },
+    {
+        "tag":"running",
+        "desc":"두 발로 달리다"
+    },
+    {
+        "tag":"jumping",
+        "desc":"두 발로 점프하다"
+    },
+    {
+        "tag":"handstand",
+        "desc":"물구나무서다"
+    },
+    {
+        "tag":"battoujutsu_stance",
+        "desc":"발도 자세를 잡는다"
+    },
+    {
+        "tag":"upside-down",
+        "desc":"상하반전"
+    },
+    {
+        "tag":"balancing",
+        "desc":"서서 균형을 잡다"
+    },
+    {
+        "tag":"wallwalking",
+        "desc":"손으로 벽을 타다"
+    },
+    {
+        "tag":"superhero_landing",
+        "desc":"슈퍼 히어로 랜딩"
+    },
+    {
+        "tag":"stretching",
+        "desc":"스트레칭"
+    },
+    {
+        "tag":"fighting_stance",
+        "desc":"싸울 자세를 잡는다"
+    },
+    {
+        "tag":"standing",
+        "desc":"양쪽 다리로 서다"
+    },
+    {
+        "tag":"faceplant",
+        "desc":"얼굴로 떨어지다"
+    },
+    {
+        "tag":"full_scorpion",
+        "desc":"전갈 자세를 잡는다"
+    },
+    {
+        "tag":"standing_on_one_leg",
+        "desc":"한쪽 다리로 서다"
+    },
+    {
+        "tag":"sitting",
+        "desc":"앉다"
+    },
+    {
+        "tag":"butterfly_sitting",
+        "desc":"나비처럼 앉다"
+    },
+    {
+        "tag":"seiza",
+        "desc":"일본식으로 앉다"
+    },
+    {
+        "tag":"sitting_on_lap",
+        "desc":"무릎 위에 앉다"
+    },
+    {
+        "tag":"sitting_on_person",
+        "desc":"사람 위에 앉다"
+    },
+    {
+        "tag":"squatting",
+        "desc":"쪼그려 앉다"
+    },
+    {
+        "tag":"wariza",
+        "desc":"양쪽으로 앉다"
+    },
+    {
+        "tag":"yokozuwari",
+        "desc":"한쪽으로 앉다"
+    },
+    {
+        "tag":"lying",
+        "desc":"눕다"
+    },
+    {
+        "tag":"crossed_legs",
+        "desc":"누워서 다리를 꼬다"
+    },
+    {
+        "tag":"fetal_position",
+        "desc":"누워서 웅크리다"
+    },
+    {
+        "tag":"on_back",
+        "desc":"뒤로 눕다"
+    },
+    {
+        "tag":"on_side",
+        "desc":"옆으로 눕다"
+    },
+    {
+        "tag":"on_stomach",
+        "desc":"엎드려 눕다"
+    },
+    {
+        "tag":"reclining",
+        "desc":"기대다"
+    },
+    {
+        "tag":"leaning",
+        "desc":"몸을 기대다"
+    },
+    {
+        "tag":"leaning_forward",
+        "desc":"몸을 앞으로 기대다"
+    },
+    {
+        "tag":"leaning_back",
+        "desc":"몸을 뒤로 기대다"
+    },
+    {
+        "tag":"leaning_on_person",
+        "desc":"몸을 사람에게 기대다"
+    },
+    {
+        "tag":"leaning_on_object",
+        "desc":"몸을 물건에 기대다"
+    },
+    {
+        "tag":"against_wall",
+        "desc":"몸을 벽에 기대다"
+    },
+    {
+        "tag":"against_tree",
+        "desc":"몸을 나무에 기대다"
+    },
+    {
+        "tag":"against_glass",
+        "desc":"몸을 펜스에 기대다"
+    },
+    {
+        "tag":"leaning_against_car",
+        "desc":"몸을 차량에 기대다"
+    },
+    {
+        "tag":"leaning_against_motorcycle",
+        "desc":"몸을 오토바이에 기대다"
+    },
+    {
+        "tag":"leaning_against_vehicle",
+        "desc":"몸을 옆으로 기대다"
+    },
+    {
+        "tag":"hug",
+        "desc":"껴안다"
+    },
+    {
+        "tag":"Hugging",
+        "desc":"껴안다"
+    },
+    {
+        "tag":"tail_hug",
+        "desc":"꼬리로 껴안다"
+    },
+    {
+        "tag":"wing_hug",
+        "desc":"날개로 껴안다"
+    },
+    {
+        "tag":"hugging_own_legs",
+        "desc":"다리를 껴안다"
+    },
+    {
+        "tag":"hug_from_behind",
+        "desc":"뒤에서 껴안다"
+    },
+    {
+        "tag":"object_hug",
+        "desc":"물건을 껴안다"
+    },
+    {
+        "tag":"arm_hug",
+        "desc":"팔로 껴안다"
+    },
+    {
+        "tag":"waist_hug",
+        "desc":"허리를 껴안다"
+    },
+    {
+        "tag":"Hugging_doable_by_one_or_more_characters",
+        "desc":"1명 이상을 껴안다"
+    },
+    {
+        "tag":"2Posture_of_at_least_two_characters",
+        "desc":"2명 이상을 껴안다"
+    },
+    {
+        "tag":"2Hugging_doable_by_two_or_more_characters",
+        "desc":"2명 이상을 포옹하다"
+    },
+    {
+        "tag":"Torso_inclination",
+        "desc":"등을 기울이다"
+    },
+    {
+        "tag":"slouching",
+        "desc":"등이 구부정하다"
+    },
+    {
+        "tag":"twisted_torso",
+        "desc":"등을 뒤틀다"
+    },
+    {
+        "tag":"arched_back",
+        "desc":"등이 휘었다"
+    },
+    {
+        "tag":"bent_over",
+        "desc":"등을 구부렸다"
+    },
+    {
+        "tag":"carried_breast_rest",
+        "desc":"가슴을 들다"
+    },
+    {
+        "tag":"carrying_under_arm",
+        "desc":"겨드랑이에 끼고 들다"
+    },
+    {
+        "tag":"princess_carry",
+        "desc":"공주님 안기"
+    },
+    {
+        "tag":"carrying",
+        "desc":"들쳐매다"
+    },
+    {
+        "tag":"piggyback",
+        "desc":"등에 엎고 나르다"
+    },
+    {
+        "tag":"Carrying_someone",
+        "desc":"사람을 들쳐매다"
+    },
+    {
+        "tag":"fireman's_carry",
+        "desc":"소방관처럼 들다"
+    },
+    {
+        "tag":"baby_carry",
+        "desc":"아기를 안다"
+    },
+    {
+        "tag":"child_carry",
+        "desc":"아이를 들다"
+    },
+    {
+        "tag":"carrying_over_shoulder",
+        "desc":"어깨 위로 들쳐매다"
+    },
+    {
+        "tag":"standing_on_shoulder",
+        "desc":"어깨 위에 서다"
+    },
+    {
+        "tag":"sitting_on_shoulder",
+        "desc":"어깨 위에 앉다"
+    },
+    {
+        "tag":"shoulder_carry",
+        "desc":"어깨로 부축하다"
+    },
+    {
+        "tag":"frogtie",
+        "desc":"개구리처럼 묶다"
+    },
+    {
+        "tag":"bound_legs",
+        "desc":"다리를 묶다"
+    },
+    {
+        "tag":"separated_legs",
+        "desc":"다리를 묶어 떨어뜨리다"
+    },
+    {
+        "tag":"bound_torso",
+        "desc":"몸을 묶다"
+    },
+    {
+        "tag":"bound_knees",
+        "desc":"무릎을 묶다"
+    },
+    {
+        "tag":"bound_feet",
+        "desc":"발을 묶다"
+    },
+    {
+        "tag":"suspension",
+        "desc":"사람을 묶어 매달았다"
+    },
+    {
+        "tag":"strappado",
+        "desc":"사람을 묶어 장식한다"
+    },
+    {
+        "tag":"bound_wrists",
+        "desc":"손목을 묶다"
+    },
+    {
+        "tag":"separated_wrists",
+        "desc":"손목을 묶어 떨어뜨리다"
+    },
+    {
+        "tag":"crucifixion",
+        "desc":"온몸이 묶이다"
+    },
+    {
+        "tag":"bound_calves",
+        "desc":"종아리를 묶다"
+    },
+    {
+        "tag":"hogtie",
+        "desc":"팔과 다리를 뒤로 묶다"
+    },
+    {
+        "tag":"box_tie",
+        "desc":"팔을 뒤로 묶다"
+    },
+    {
+        "tag":"bound_arms",
+        "desc":"팔을 묶다"
+    },
+    {
+        "tag":"separated_arms",
+        "desc":"팔을 묶어 떨어뜨리다"
+    },
+    {
+        "tag":"bound_thighs",
+        "desc":"허벅지를 묶다"
+    },
+    {
+        "tag":"straddling",
+        "desc":"사람을 올리다"
+    },
+    {
+        "tag":"thigh_straddling",
+        "desc":"사람을 허벅지에 올리다"
+    },
+    {
+        "tag":"upright_straddle",
+        "desc":"사람을 마주보며 올리다"
+    },
+    {
+        "tag":"eyecontact",
+        "desc":"눈을 맞추다"
+    },
+    {
+        "tag":"leglock",
+        "desc":"다리를 잡는다"
+    },
+    {
+        "tag":"back-to-back",
+        "desc":"등을 맞대다"
+    },
+    {
+        "tag":"cheek-to-cheek",
+        "desc":"뺨을 맞대다"
+    },
+    {
+        "tag":"holding_hands",
+        "desc":"손을 잡는다"
+    },
+    {
+        "tag":"head+stogether",
+        "desc":"머리를 맞대다"
+    },
+    {
+        "tag":"forehead-to-forehead",
+        "desc":"이마를 맞대다"
+    },
+    {
+        "tag":"Light_face",
+        "desc":"가벼운 표정"
+    },
+    {
+        "tag":"touched_face",
+        "desc":"감동한 표정"
+    },
+    {
+        "tag":"Happy_face",
+        "desc":"기쁜 표정"
+    },
+    {
+        "tag":"surprised_face",
+        "desc":"놀란 표정"
+    },
+    {
+        "tag":"easygoing_face",
+        "desc":"느긋한 표정"
+    },
+    {
+        "tag":"Giddy_face",
+        "desc":"들뜬 표정"
+    },
+    {
+        "tag":"Shameful_face",
+        "desc":"부끄러운 표정"
+    },
+    {
+        "tag":"envious_face",
+        "desc":"부러운 표정"
+    },
+    {
+        "tag":"gentle_face",
+        "desc":"상냥한 표정"
+    },
+    {
+        "tag":"sacred_face",
+        "desc":"신성한 표정"
+    },
+    {
+        "tag":"smiling_face",
+        "desc":"웃는 표정"
+    },
+    {
+        "tag":"benevolent_face",
+        "desc":"자비로운 표정"
+    },
+    {
+        "tag":"pretentious_face",
+        "desc":"잘난척한 표정"
+    },
+    {
+        "tag":"joyful_face",
+        "desc":"즐거운 표정"
+    },
+    {
+        "tag":"frightened_face",
+        "desc":"질겁한표정"
+    },
+    {
+        "tag":"bright_face",
+        "desc":"해맑은 표정"
+    },
+    {
+        "tag":"Happy_face",
+        "desc":"행복한 표정"
+    },
+    {
+        "tag":"desired_face",
+        "desc":"희망한 표정"
+    },
+    {
+        "tag":"earnest_face",
+        "desc":"간절한 표정"
+    },
+    {
+        "tag":"worried_face",
+        "desc":"걱정한 표정"
+    },
+    {
+        "tag":"scornful_face",
+        "desc":"경멸한 표정"
+    },
+    {
+        "tag":"distressed_face",
+        "desc":"괴로운 표정"
+    },
+    {
+        "tag":"determined_face",
+        "desc":"단호한 표정"
+    },
+    {
+        "tag":"Embarrassed_face",
+        "desc":"당황한 표정"
+    },
+    {
+        "tag":"Scary_face",
+        "desc":"무서운 표정"
+    },
+    {
+        "tag":"expression_face",
+        "desc":"무표정한 표정"
+    },
+    {
+        "tag":"Crazy_face",
+        "desc":"미친 표정"
+    },
+    {
+        "tag":"outraged_face",
+        "desc":"분노한 표정"
+    },
+    {
+        "tag":"Unstable_face",
+        "desc":"불안한 표정"
+    },
+    {
+        "tag":"unfortunate_face",
+        "desc":"불행한 표정"
+    },
+    {
+        "tag":"turnred_face",
+        "desc":"붉히는 표정"
+    },
+    {
+        "tag":"scoffing_face",
+        "desc":"비웃는 표정"
+    },
+    {
+        "tag":"miserable_face",
+        "desc":"비참한 표정"
+    },
+    {
+        "tag":"evil_face",
+        "desc":"사악한 표정"
+    },
+    {
+        "tag":"idea_face",
+        "desc":"생각한 표정"
+    },
+    {
+        "tag":"Upset_face",
+        "desc":"속상한 표정"
+    },
+    {
+        "tag":"Sad_face",
+        "desc":"슬픈 표정"
+    },
+    {
+        "tag":"Disappointed_face",
+        "desc":"실망한 표정"
+    },
+    {
+        "tag":"Serious_face",
+        "desc":"심각한 표정"
+    },
+    {
+        "tag":"Gloomy_face",
+        "desc":"암울한 표정"
+    },
+    {
+        "tag":"sorrowful_face",
+        "desc":"애달픈 표정"
+    },
+    {
+        "tag":"suppressed_face",
+        "desc":"억눌린 표정"
+    },
+    {
+        "tag":"unfair_face",
+        "desc":"억울한 표정"
+    },
+    {
+        "tag":"Withdistaste_face",
+        "desc":"억지 부리는 표정"
+    },
+    {
+        "tag":"arrogant_face",
+        "desc":"오만한 표정"
+    },
+    {
+        "tag":"Lonely_face",
+        "desc":"외로운 표정"
+    },
+    {
+        "tag":"crying_face",
+        "desc":"우는 표정"
+    },
+    {
+        "tag":"Gloomy_face",
+        "desc":"우울한 표정"
+    },
+    {
+        "tag":"tearful_face",
+        "desc":"울먹이는 표정"
+    },
+    {
+        "tag":"suspicious_face",
+        "desc":"의심한 표정"
+    },
+    {
+        "tag":"despair_face",
+        "desc":"절망한 표정"
+    },
+    {
+        "tag":"Sleepy_face",
+        "desc":"졸린 표정"
+    },
+    {
+        "tag":"frustrated_face",
+        "desc":"좌절한 표정"
+    },
+    {
+        "tag":"Boring_face",
+        "desc":"지루한 표정"
+    },
+    {
+        "tag":"irritating_face",
+        "desc":"짜증난 표정"
+    },
+    {
+        "tag":"pale_face",
+        "desc":"창백한 표정"
+    },
+    {
+        "tag":"Nervous_face",
+        "desc":"초조한 표정"
+    },
+    {
+        "tag":"Tired_face",
+        "desc":"피곤한 표정"
+    },
+    {
+        "tag":"Angry_face",
+        "desc":"화난 표정"
+    },
+    {
+        "tag":"pathetic_face",
+        "desc":"한심한 표정"
+    },
+    {
+        "tag":"lamented_face",
+        "desc":"한탄한 표정"
+    },
+    {
+        "tag":"confused_face",
+        "desc":"혼란한 표정"
+    },
+    {
+        "tag":"charmed_face",
+        "desc":"매혹한 표정"
+    },
+    {
+        "tag":"seduced_face",
+        "desc":"유혹한 표정"
+    },
+    {
+        "tag":"drunk_face",
+        "desc":"취한 표정"
+    },
+    {
+        "tag":"ecstasy_face",
+        "desc":"황홀한 표정"
+    },
+    {
+        "tag":"aroused_face",
+        "desc":"흥분한 표정"
+    },
+    {
+        "tag":"applying_makeup",
+        "desc":"화장하다"
+    },
+    {
+        "tag":"eyeshadow",
+        "desc":"눈꺼풀을 화장하다"
+    },
+    {
+        "tag":"eyeliner",
+        "desc":"눈꼬리를 화장하다"
+    },
+    {
+        "tag":"mascara",
+        "desc":"속눈썹을 화장하다"
+    },
+    {
+        "tag":"rouge=(makeup)",
+        "desc":"뺨(볼)을 화장하다"
+    },
+    {
+        "tag":"lipstick",
+        "desc":"입술을 화장하다"
+    },
+    {
+        "tag":"lipgloss",
+        "desc":"입술을 광택나게 화장하다"
+    },
+    {
+        "tag":"lip_balm",
+        "desc":"입술을 부드럽게 화장하다"
+    },
+    {
+        "tag":"body_writing",
+        "desc":"몸에 낙서하다"
+    },
+    {
+        "tag":"face_paint",
+        "desc":"얼굴에 낙서하다"
+    },
+    {
+        "tag":"paint_splatteron_face",
+        "desc":"얼굴에 페인트가 튀다"
+    },
+    {
+        "tag":"drawing_on_another's_face",
+        "desc":"다른 사람 얼굴에 낙서하다"
+    },
+    {
+        "tag":"hair_twirling",
+        "desc":"머리를 돌리다"
+    },
+    {
+        "tag":"hair_tucking",
+        "desc":"머리를 묶다"
+    },
+    {
+        "tag":"brushing_hair",
+        "desc":"머리를 빗다"
+    },
+    {
+        "tag":"hairdressing",
+        "desc":"머리를 이발하다"
+    },
+    {
+        "tag":"arm_around_neck",
+        "desc":"목에 한쪽 팔을 감다"
+    },
+    {
+        "tag":"arms_around_neck",
+        "desc":"목에 양쪽 팔을 감다"
+    },
+    {
+        "tag":"hand_on_own_neck",
+        "desc":"내 목에 손을 대다"
+    },
+    {
+        "tag":"hand_on_another's_neck",
+        "desc":"남의 목에 손을 대다"
+    },
+    {
+        "tag":"neck_biting",
+        "desc":"목을 물어 뜯다"
+    },
+    {
+        "tag":"necking",
+        "desc":"목을 빨다"
+    },
+    {
+        "tag":"kissing_neck",
+        "desc":"목에 키스하다"
+    },
+    {
+        "tag":"glaring",
+        "desc":"눈을 가늘게 뜰다"
+    },
+    {
+        "tag":"squinting",
+        "desc":"눈으로 곁눈질하다"
+    },
+    {
+        "tag":"half-closed_eyes",
+        "desc":"눈을 반쯤 가다"
+    },
+    {
+        "tag":"shading_eyes",
+        "desc":"눈 위를 손으로 가리다"
+    },
+    {
+        "tag":"crying",
+        "desc":"눈물을 흘리다"
+    },
+    {
+        "tag":"sobbing",
+        "desc":"눈물을 흘리며 흐느끼다"
+    },
+    {
+        "tag":"peeking",
+        "desc":"엿보다"
+    },
+    {
+        "tag":"peephole",
+        "desc":"구멍을 엿보다"
+    },
+    {
+        "tag":"peeking_out",
+        "desc":"숨어서 엿보다"
+    },
+    {
+        "tag":"peeking_through_fingers",
+        "desc":"손가락 사이로 엿보다"
+    },
+    {
+        "tag":"Closed_mouth",
+        "desc":"입을 다물다"
+    },
+    {
+        "tag":"Licking_lips",
+        "desc":"입술을 핥다"
+    },
+    {
+        "tag":"Pursed_lips",
+        "desc":"입술을 내밀다"
+    },
+    {
+        "tag":"Open_mouth",
+        "desc":"입을 벌리다"
+    },
+    {
+        "tag":"Spread_lips",
+        "desc":"입술을 벌리다"
+    },
+    {
+        "tag":"Puckered_lips",
+        "desc":"입술을 오므리다"
+    },
+    {
+        "tag":"Parted_lips",
+        "desc":"입술이 갈라지다"
+    },
+    {
+        "tag":"breathing",
+        "desc":"숨쉬다"
+    },
+    {
+        "tag":"heavy_breathing_(panting)",
+        "desc":"거칠게 숨쉬다"
+    },
+    {
+        "tag":"coughing",
+        "desc":"기침한다"
+    },
+    {
+        "tag":"bubble_blowing",
+        "desc":"거품을 풀다"
+    },
+    {
+        "tag":"drooling",
+        "desc":"침을 흘리다"
+    },
+    {
+        "tag":"eating",
+        "desc":"먹다"
+    },
+    {
+        "tag":"chewing",
+        "desc":"씹다"
+    },
+    {
+        "tag":"swallowing",
+        "desc":"삼키다"
+    },
+    {
+        "tag":"tasting",
+        "desc":"시식하다"
+    },
+    {
+        "tag":"blood_sucking",
+        "desc":"피를 빨다"
+    },
+    {
+        "tag":"sucking_tail",
+        "desc":"꼬리를 빨다"
+    },
+    {
+        "tag":"popsicle_in_mouth",
+        "desc":"아이스크림을 빨다"
+    },
+    {
+        "tag":"breast_sucking",
+        "desc":"입으로 가슴을 빨다"
+    },
+    {
+        "tag":"breast_sucking_through_clothes",
+        "desc":"입으로 옷 위의 가슴을 빨다"
+    },
+    {
+        "tag":"mutual_breast_sucking",
+        "desc":"입으로 서로 가슴을 빨다"
+    },
+    {
+        "tag":"sucking_both_nipples",
+        "desc":"입으로 양쪽 젖꽂지를 빨다"
+    },
+    {
+        "tag":"sucking_on_multiple_breasts",
+        "desc":"입으로 가슴을 혼자서 다 빨다"
+    },
+    {
+        "tag":"double_breast_sucking",
+        "desc":"입으로 가슴을 양쪽에서 빨다"
+    },
+    {
+        "tag":"testicle_sucking",
+        "desc":"입으로 고환을 빨다"
+    },
+    {
+        "tag":"finger_sucking",
+        "desc":"입으로 손가락을 빨다"
+    },
+    {
+        "tag":"toe_sucking",
+        "desc":"입으로 발가락을 빨다"
+    },
+    {
+        "tag":"biting",
+        "desc":"이빨로 깨물다"
+    },
+    {
+        "tag":"ear_biting",
+        "desc":"이빨로 귀를 깨물다"
+    },
+    {
+        "tag":"cheek_biting",
+        "desc":"이빨로 뺨을 깨물다"
+    },
+    {
+        "tag":"head_biting",
+        "desc":"이빨로 머리를 깨물다"
+    },
+    {
+        "tag":"hand_biting",
+        "desc":"이빨로 손을 깨물다"
+    },
+    {
+        "tag":"nail_biting",
+        "desc":"이빨로 손톱을 깨물다"
+    },
+    {
+        "tag":"finger_biting",
+        "desc":"이빨로 손가락을 깨물다"
+    },
+    {
+        "tag":"thumb_biting",
+        "desc":"이빨로 엄지를 깨물다"
+    },
+    {
+        "tag":"glove_biting",
+        "desc":"이빨로 장갑을 깨물다"
+    },
+    {
+        "tag":"lip_biting",
+        "desc":"이빨로 입술을 깨물다"
+    },
+    {
+        "tag":"biting_tongue",
+        "desc":"이빨로 혀를 깨물다"
+    },
+    {
+        "tag":"tail_biting",
+        "desc":"이빨로 꼬리를 깨물다"
+    },
+    {
+        "tag":"breast_biting",
+        "desc":"이빨로 가슴을 깨물다"
+    },
+    {
+        "tag":"penis_biting",
+        "desc":"이빨로 자지를 깨물다"
+    },
+    {
+        "tag":"foreskin_biting",
+        "desc":"이빨로 포피를 깨물다"
+    },
+    {
+        "tag":"ass_biting",
+        "desc":"이빨로 엉덩이를 깨물다"
+    },
+    {
+        "tag":"Bird_Kiss",
+        "desc":"가볍게 키스한다"
+    },
+    {
+        "tag":"Cross_Kiss",
+        "desc":"입술을 교차해 키스한다"
+    },
+    {
+        "tag":"Sliding_Kiss",
+        "desc":"입술을 밀착해 키스한다"
+    },
+    {
+        "tag":"French_Kiss",
+        "desc":"입술을 벌린 채 키스한다"
+    },
+    {
+        "tag":"Hamburger_Kiss",
+        "desc":"입술을 깨물며 키스한다"
+    },
+    {
+        "tag":"Wide_Space_Kiss",
+        "desc":"입술 전체를 덮어 키스한다"
+    },
+    {
+        "tag":"Eating_Kiss",
+        "desc":"혀를 깨물며 키스한다"
+    },
+    {
+        "tag":"Inside_Kiss",
+        "desc":"혀를 받아들여 키스한다"
+    },
+    {
+        "tag":"Wrestler_Kiss",
+        "desc":"혀를 비비며 키스한다"
+    },
+    {
+        "tag":"Tongue_Training_Kiss",
+        "desc":"혀를 엮으며 키스한다"
+    },
+    {
+        "tag":"Deep_Kiss",
+        "desc":"혀를 깊숙히 넣어 키스한다"
+    },
+    {
+        "tag":"Air_Cleaning_Kiss",
+        "desc":"입에 공기를 넣으며 키스한다"
+    },
+    {
+        "tag":"lipstick_mark_on_neck",
+        "desc":"립스틱 자국을 목에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_arm",
+        "desc":"립스틱 자국을 팔에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_shoulder",
+        "desc":"립스틱 자국을 어깨에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_chest",
+        "desc":"립스틱 자국을 가슴에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_breast",
+        "desc":"립스틱 자국을 가슴에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_nipple",
+        "desc":"립스틱 자국을 젖꼭지에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_areola",
+        "desc":"립스틱 자국을 유륜에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_stomach",
+        "desc":"립스틱 자국을 배에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_crotch",
+        "desc":"립스틱 자국을 가랑이에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_leg",
+        "desc":"립스틱 자국을 다리에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_thighs",
+        "desc":"립스틱 자국을 허벅지에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_ass",
+        "desc":"립스틱 자국을 엉덩이에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_penis",
+        "desc":"립스틱 자국을 자지에 새긴다"
+    },
+    {
+        "tag":"lipstick_mark_on_testicles",
+        "desc":"립스틱 자국을 고환에 새긴다"
+    },
+    {
+        "tag":"lipstick_mark_on_pussy",
+        "desc":"립스틱 자국을 보지에 새기다"
+    },
+    {
+        "tag":"lipstick_mark_on_anus",
+        "desc":"립스틱 자국을 항문에 새기다"
+    },
+    {
+        "tag":"tongue_grab",
+        "desc":"혀를 잡다"
+    },
+    {
+        "tag":"tongue_out",
+        "desc":"혀를 내밀다"
+    },
+    {
+        "tag":"licking_stomach",
+        "desc":"혀로 핥아먹다"
+    },
+    {
+        "tag":"licking",
+        "desc":"혀로 핥다"
+    },
+    {
+        "tag":"licking_ear",
+        "desc":"혀로 귀를 핥다"
+    },
+    {
+        "tag":"licking_neck",
+        "desc":"혀로 목을 핥다"
+    },
+    {
+        "tag":"licking_cheek",
+        "desc":"혀로 뺨을 핥다"
+    },
+    {
+        "tag":"licking_lips",
+        "desc":"혀로 입술을 핥다"
+    },
+    {
+        "tag":"licking_face",
+        "desc":"혀로 얼굴을 핥다"
+    },
+    {
+        "tag":"licking_hand",
+        "desc":"혀로 손을 핥다"
+    },
+    {
+        "tag":"licking_foot",
+        "desc":"혀로 발을 핥다"
+    },
+    {
+        "tag":"licking_arm",
+        "desc":"혀로 팔을 핥다"
+    },
+    {
+        "tag":"licking_leg",
+        "desc":"혀로 다리를 핥다"
+    },
+    {
+        "tag":"licking_finger",
+        "desc":"혀로 손가락을 핥다"
+    },
+    {
+        "tag":"licking_toe",
+        "desc":"혀로 발가락을 핥다"
+    },
+    {
+        "tag":"licking_collarbone",
+        "desc":"혀로 쇄골을 핥다"
+    },
+    {
+        "tag":"licking_breast",
+        "desc":"혀로 가슴을 핥다"
+    },
+    {
+        "tag":"licking_nipple",
+        "desc":"혀로 젖꼭지를 핥다"
+    },
+    {
+        "tag":"licking_armpit",
+        "desc":"혀로 겨드랑이를 핥다"
+    },
+    {
+        "tag":"licking_belly",
+        "desc":"혀로 배를 핥다"
+    },
+    {
+        "tag":"licking_navel",
+        "desc":"혀로 배꼽을 핥다"
+    },
+    {
+        "tag":"licking_thigh",
+        "desc":"혀로 허벅지를 핥다"
+    },
+    {
+        "tag":"licking_ass",
+        "desc":"혀로 엉덩이를 핥다"
+    },
+    {
+        "tag":"licking_hip",
+        "desc":"혀로 엉덩이를 핥다"
+    },
+    {
+        "tag":"licking_penis",
+        "desc":"혀로 자지를 핥다"
+    },
+    {
+        "tag":"licking_testicle",
+        "desc":"혀로 고환을 핥다"
+    },
+    {
+        "tag":"covering_ears",
+        "desc":"귀를 덮다"
+    },
+    {
+        "tag":"ear_biting",
+        "desc":"귀를 물다"
+    },
+    {
+        "tag":"ear_grab",
+        "desc":"귀를 잡다"
+    },
+    {
+        "tag":"ear_pull",
+        "desc":"귀를 당긴다"
+    },
+    {
+        "tag":"ear_wiggle",
+        "desc":"귀를 흔든다"
+    },
+    {
+        "tag":"hand_on_ear",
+        "desc":"귀를 만진다"
+    },
+    {
+        "tag":"holding_ears",
+        "desc":"귀를 잡는다"
+    },
+    {
+        "tag":"smelling",
+        "desc":"냄새를 맡다"
+    },
+    {
+        "tag":"smelling_clothes",
+        "desc":"옷의 냄새를 맡다"
+    },
+    {
+        "tag":"smelling_underwear",
+        "desc":"속옷의 냄새를 맡다"
+    },
+    {
+        "tag":"smelling_pantyhose",
+        "desc":"팬티스타킹의 냄새를 맡다"
+    },
+    {
+        "tag":"breast_suppress",
+        "desc":"가슴을 가린다"
+    },
+    {
+        "tag":"breast_awe",
+        "desc":"가슴을 경외한다"
+    },
+    {
+        "tag":"breast_press",
+        "desc":"가슴을 누른다"
+    },
+    {
+        "tag":"breast_pull",
+        "desc":"가슴을 당긴다"
+    },
+    {
+        "tag":"groping",
+        "desc":"가슴을 더듬다"
+    },
+    {
+        "tag":"breast_lift",
+        "desc":"가슴을 들어 올리다"
+    },
+    {
+        "tag":"breast_slap",
+        "desc":"가슴을 따귀로 때리다"
+    },
+    {
+        "tag":"breast_punch",
+        "desc":"가슴을 때리다"
+    },
+    {
+        "tag":"hanging_breasts",
+        "desc":"가슴을 매달다"
+    },
+    {
+        "tag":"weighing_breasts",
+        "desc":"가슴을 무거워한다"
+    },
+    {
+        "tag":"breast_biting",
+        "desc":"가슴을 물다"
+    },
+    {
+        "tag":"floating_breasts",
+        "desc":"가슴을 물에 띄우다"
+    },
+    {
+        "tag":"perky_breasts",
+        "desc":"가슴을 바짝 세우다"
+    },
+    {
+        "tag":"convenient_breasts",
+        "desc":"가슴을 받침대처럼 쓴다"
+    },
+    {
+        "tag":"breasts_apart",
+        "desc":"가슴을 벌리다"
+    },
+    {
+        "tag":"inconvenient_breasts",
+        "desc":"가슴을 불편해한다"
+    },
+    {
+        "tag":"breast_sucking",
+        "desc":"가슴을 빨다"
+    },
+    {
+        "tag":"breast_conscious",
+        "desc":"가슴을 의식한다"
+    },
+    {
+        "tag":"breast_envy",
+        "desc":"가슴을 질투한다"
+    },
+    {
+        "tag":"flat_envy",
+        "desc":"가슴을 질투한다"
+    },
+    {
+        "tag":"breast_reduction",
+        "desc":"가슴을 축소한다"
+    },
+    {
+        "tag":"unaligned_breasts",
+        "desc":"가슴을 출렁인다"
+    },
+    {
+        "tag":"bust_measuring",
+        "desc":"가슴을 측정한다"
+    },
+    {
+        "tag":"bouncing_breasts",
+        "desc":"가슴을 튕기다"
+    },
+    {
+        "tag":"flying_button",
+        "desc":"가슴을 팽창한다"
+    },
+    {
+        "tag":"breast_expansion",
+        "desc":"가슴을 확장한다"
+    },
+    {
+        "tag":"strap_between_breasts",
+        "desc":"가슴 사이에 끈을 끼우다"
+    },
+    {
+        "tag":"neckwear_between_breasts",
+        "desc":"가슴 사이에 목장식을 끼우다"
+    },
+    {
+        "tag":"head_between_breasts",
+        "desc":"가슴 사이에 머리를 끼우다"
+    },
+    {
+        "tag":"person_between_breasts",
+        "desc":"가슴 사이에 사람을 끼우다"
+    },
+    {
+        "tag":"clothes_between_breasts",
+        "desc":"가슴 사이에 옷을 끼우다"
+    },
+    {
+        "tag":"food_between_breasts",
+        "desc":"가슴 사이에 음식을 끼우다"
+    },
+    {
+        "tag":"card_between_breasts",
+        "desc":"가슴 사이에 카드를 키우다"
+    },
+    {
+        "tag":"arm_between_breasts",
+        "desc":"가슴 사이에 팔을 끼우다"
+    },
+    {
+        "tag":"breastfeeding",
+        "desc":"가슴을 수유하다"
+    },
+    {
+        "tag":"breast_grab",
+        "desc":"가슴을 잡다"
+    },
+    {
+        "tag":"guided_breast_grab",
+        "desc":"가슴을 쥐게 하다"
+    },
+    {
+        "tag":"breast_hold",
+        "desc":"가슴을 쥐다"
+    },
+    {
+        "tag":"breast_squeeze",
+        "desc":"가슴을 짜내다"
+    },
+    {
+        "tag":"breast_poke",
+        "desc":"가슴을 찌르다"
+    },
+    {
+        "tag":"self_breast_sucking",
+        "desc":"내 가슴을 빨다"
+    },
+    {
+        "tag":"mutual_breast_sucking",
+        "desc":"남의 가슴을 빨다"
+    },
+    {
+        "tag":"covered_nipples",
+        "desc":"젖꼭지를 덮다"
+    },
+    {
+        "tag":"nipple_press",
+        "desc":"젖꼭지를 누른다"
+    },
+    {
+        "tag":"nipple_pull",
+        "desc":"젖꼭지를 당기다"
+    },
+    {
+        "tag":"nipple_flick",
+        "desc":"젖꼭지를 만진다"
+    },
+    {
+        "tag":"nipple_rub",
+        "desc":"젖꼭지를 문지르다"
+    },
+    {
+        "tag":"puffy_nipples",
+        "desc":"젖꼭지를 부풀리다"
+    },
+    {
+        "tag":"nipple_tweak",
+        "desc":"젖꼭지를 비틀다"
+    },
+    {
+        "tag":"nipple_slip",
+        "desc":"젖꼭지를 옷 밖으로 빼내다"
+    },
+    {
+        "tag":"nipple_push",
+        "desc":"젖꼭지를 찌르다"
+    },
+    {
+        "tag":"ass_grab",
+        "desc":"엉덩이를 잡다"
+    },
+    {
+        "tag":"covering_ass",
+        "desc":"엉덩이를 덮다"
+    },
+    {
+        "tag":"groping",
+        "desc":"엉덩이를 더듬다"
+    },
+    {
+        "tag":"ass_biting",
+        "desc":"엉덩이를 물다"
+    },
+    {
+        "tag":"ass_shake",
+        "desc":"엉덩이를 흔들다"
+    },
+    {
+        "tag":"ass_expansion",
+        "desc":"엉덩이가 커지다"
+    },
+    {
+        "tag":"arm_up",
+        "desc":"팔을 위로 들다"
+    },
+    {
+        "tag":"arm_behind_back",
+        "desc":"팔 한쪽을 뒤로 들다"
+    },
+    {
+        "tag":"arms_behind_back",
+        "desc":"팔 양쪽을 뒤로 들다"
+    },
+    {
+        "tag":"arm_behind_head",
+        "desc":"팔을 머리 위로 들다"
+    },
+    {
+        "tag":"heart_arms",
+        "desc":"팔로 하트를 그리다"
+    },
+    {
+        "tag":"struggling",
+        "desc":"팔로 강제로 잡는다"
+    },
+    {
+        "tag":"Arm_grab",
+        "desc":"강제로 팔을 뒤로 잡는다"
+    },
+    {
+        "tag":"Leg_grab",
+        "desc":"강제로 다리를 잡는다"
+    },
+    {
+        "tag":"Tied_up",
+        "desc":"강제로 끈으로 묶는다"
+    },
+    {
+        "tag":"holding_another's_wrist",
+        "desc":"강제로 손목을 잡다"
+    },
+    {
+        "tag":"Choke_hold",
+        "desc":"강제로 목을 조르다"
+    },
+    {
+        "tag":"triangle_choke",
+        "desc":"강제로 다리로 목을 조르다"
+    },
+    {
+        "tag":"rear_naked_choke",
+        "desc":"강제로 등 뒤에서 목을 조르다"
+    },
+    {
+        "tag":"triangle_choke",
+        "desc":"강제로 팔로 목을 조르다"
+    },
+    {
+        "tag":"air_quotes",
+        "desc":"손으로 강조한다"
+    },
+    {
+        "tag":"salute",
+        "desc":"손으로 경례한다"
+    },
+    {
+        "tag":"noogie",
+        "desc":"손으로 누르다"
+    },
+    {
+        "tag":"cupping_hands",
+        "desc":"손으로 담는다"
+    },
+    {
+        "tag":"hat_tip",
+        "desc":"손으로 모자를잡다"
+    },
+    {
+        "tag":"steepled_fingers",
+        "desc":"손으로 세우다"
+    },
+    {
+        "tag":"pinky_swear",
+        "desc":"손으로 약속하다"
+    },
+    {
+        "tag":"facepalm",
+        "desc":"손으로 얼굴을 덮다"
+    },
+    {
+        "tag":"palm-fist_greeting",
+        "desc":"손으로 인사하다"
+    },
+    {
+        "tag":"fist_bump",
+        "desc":"손으로 주먹을 부딪힌다"
+    },
+    {
+        "tag":"fig_sign",
+        "desc":"손으로 주먹쥐다"
+    },
+    {
+        "tag":"power_fist",
+        "desc":"손으로 주먹쥐다"
+    },
+    {
+        "tag":"palm-fist_tap",
+        "desc":"손으로 탭하다"
+    },
+    {
+        "tag":"high_five",
+        "desc":"손으로 하이파이브"
+    },
+    {
+        "tag":"own_hands_together",
+        "desc":"손을 겹치다"
+    },
+    {
+        "tag":"Whole_closed_hand",
+        "desc":"손을 닫다"
+    },
+    {
+        "tag":"interlocked_fingers",
+        "desc":"손을 맞물리다"
+    },
+    {
+        "tag":"carry_me",
+        "desc":"손을 뻗다"
+    },
+    {
+        "tag":"raised_fist",
+        "desc":"손을 뻗다"
+    },
+    {
+        "tag":"fidgeting",
+        "desc":"손을 안절부절하다"
+    },
+    {
+        "tag":"own_hands_clasped",
+        "desc":"손을 얽는다"
+    },
+    {
+        "tag":"shushing",
+        "desc":"손을 올려 침묵시킨다"
+    },
+    {
+        "tag":"clenched_hands",
+        "desc":"손을 움켜쥔다"
+    },
+    {
+        "tag":"clenched_hand",
+        "desc":"손을 쥐다"
+    },
+    {
+        "tag":"waving",
+        "desc":"손을 흔들다"
+    },
+    {
+        "tag":"hand_on_ear",
+        "desc":"손을 귀에 올리다"
+    },
+    {
+        "tag":"hand_mouth",
+        "desc":"손을 입에 올리다"
+    },
+    {
+        "tag":"hand_on_own_head",
+        "desc":"손을 내 머리에 올리다"
+    },
+    {
+        "tag":"hand_on_another's_head",
+        "desc":"손을 남의 머리에 올리다"
+    },
+    {
+        "tag":"hand_on_own_face",
+        "desc":"손을 내 얼굴에 올리다"
+    },
+    {
+        "tag":"hand_on_another's_face",
+        "desc":"손을 남의 얼굴에 올리다"
+    },
+    {
+        "tag":"hand_on_own_chin",
+        "desc":"손을 내 턱에 올리다"
+    },
+    {
+        "tag":"hand_on_another's_chin",
+        "desc":"손을 남의 턱에 올리다"
+    },
+    {
+        "tag":"hand_on_own_forehead",
+        "desc":"손을 이마에 올리다"
+    },
+    {
+        "tag":"hand_on_own_cheek",
+        "desc":"손을 내 뺨에 올리다"
+    },
+    {
+        "tag":"hand_on_another's_cheek",
+        "desc":"손을 남의 뺨에 올리다"
+    },
+    {
+        "tag":"hand_on_own_shoulder",
+        "desc":"손을 내 어깨에 올리다"
+    },
+    {
+        "tag":"hand_on_another's_shoulder",
+        "desc":"손을 남의 어깨에 올리다"
+    },
+    {
+        "tag":"holding_hands",
+        "desc":"손을 손에 올리다"
+    },
+    {
+        "tag":"hand_on_another's_hand",
+        "desc":"손을 남의 손에 올리다"
+    },
+    {
+        "tag":"hands_on_feet",
+        "desc":"손을 발에 올리다"
+    },
+    {
+        "tag":"hand_on_own_knee",
+        "desc":"손을 무릎(한쪽)에 올리다"
+    },
+    {
+        "tag":"hands_on_own_knees",
+        "desc":"손을 무릎(양쪽)에 올리다"
+    },
+    {
+        "tag":"hand_on_own_chest",
+        "desc":"손을 내 가슴에 올리다"
+    },
+    {
+        "tag":"hand_on_another's_chest",
+        "desc":"손을 남의 가슴에 올리다"
+    },
+    {
+        "tag":"hand_between_legs",
+        "desc":"손을 다리에 올리다"
+    },
+    {
+        "tag":"hands_on_hips",
+        "desc":"손을 엉덩이에 올리다"
+    },
+    {
+        "tag":"hand_on_own_ass",
+        "desc":"손을 엉덩이(양쪽)에 올리다"
+    },
+    {
+        "tag":"hands_on_ass",
+        "desc":"손을 엉덩이(한쪽)에 올리다"
+    },
+    {
+        "tag":"hand_on_headwear",
+        "desc":"손을 모자에 올리다"
+    },
+    {
+        "tag":"adjusting_eyewear",
+        "desc":"손을 안경에 올리다"
+    },
+    {
+        "tag":"hand_in_pocket",
+        "desc":"손을 주머니 한쪽에 넣다"
+    },
+    {
+        "tag":"hands_in_pockets",
+        "desc":"손을 주머니 양쪽에 넣다"
+    },
+    {
+        "tag":"fist_in_hand",
+        "desc":"손에 주먹을 넣다"
+    },
+    {
+        "tag":"tickling",
+        "desc":"손으로 간지럽히다"
+    },
+    {
+        "tag":"foot_tickling",
+        "desc":"손으로 간지럽히다"
+    },
+    {
+        "tag":"tickle_torture",
+        "desc":"손으로 간지럽혀 고문하다"
+    },
+    {
+        "tag":"dual_wielding",
+        "desc":"양손에 무기를 들다"
+    },
+    {
+        "tag":"triple_wielding",
+        "desc":"양손에 세 개를 휘두르다"
+    },
+    {
+        "tag":"quadruple_wielding",
+        "desc":"양손에 네 개를 휘두르다"
+    },
+    {
+        "tag":"punching",
+        "desc":"주먹으로 때리다"
+    },
+    {
+        "tag":"face_punch",
+        "desc":"주먹으로 얼굴을 때리다"
+    },
+    {
+        "tag":"stomach_punch",
+        "desc":"주먹으로 배를 때리다"
+    },
+    {
+        "tag":"incoming_punch",
+        "desc":"주먹으로 때리려한다"
+    },
+    {
+        "tag":"lifting",
+        "desc":"손으로 들어올리다"
+    },
+    {
+        "tag":"lifted_by_self",
+        "desc":"손으로 자기 옷을 들다"
+    },
+    {
+        "tag":"lifted_by_another",
+        "desc":"손으로 다른 사람의 옷을 들다"
+    },
+    {
+        "tag":"leg_lift",
+        "desc":"손으로 다리를 들어올리다"
+    },
+    {
+        "tag":"lifting_person",
+        "desc":"손으로 사람을 들어올리다"
+    },
+    {
+        "tag":"lifting_covers",
+        "desc":"손으로 이불을 들어올리다"
+    },
+    {
+        "tag":"covering",
+        "desc":"손으로 숨기다"
+    },
+    {
+        "tag":"covering_ears",
+        "desc":"손으로 귀를 숨기다"
+    },
+    {
+        "tag":"covering_eyes",
+        "desc":"손으로 눈을 숨기다"
+    },
+    {
+        "tag":"covering_mouth",
+        "desc":"손으로 입을 가리다"
+    },
+    {
+        "tag":"overing_face",
+        "desc":"손으로 얼굴을 숨기다"
+    },
+    {
+        "tag":"nude_cover",
+        "desc":"손으로 알몸을 숨기다"
+    },
+    {
+        "tag":"covering_breasts",
+        "desc":"손으로 가슴을 숨기다"
+    },
+    {
+        "tag":"covering_nipple",
+        "desc":"손으로 젖꼭지를 숨기다"
+    },
+    {
+        "tag":"covering_crotch",
+        "desc":"손으로 가랑이를 숨기다"
+    },
+    {
+        "tag":"covering_ass",
+        "desc":"손으로 엉덩이를 숨기다"
+    },
+    {
+        "tag":"beckoning",
+        "desc":"손짓하다"
+    },
+    {
+        "tag":"come_at_me_bro",
+        "desc":"손짓하며 도발하다"
+    },
+    {
+        "tag":"come_hither",
+        "desc":"손짓하며 유혹하다"
+    },
+    {
+        "tag":"outstretched_hand",
+        "desc":"아래를 향해 손짓하다"
+    },
+    {
+        "tag":"reaching_out",
+        "desc":"화면 밖을 향해 손짓하다"
+    },
+    {
+        "tag":"grabbing",
+        "desc":"손으로 잡다"
+    },
+    {
+        "tag":"grabbing_another's_ass",
+        "desc":"손으로 남의 엉덩를 잡다"
+    },
+    {
+        "tag":"breast_grab",
+        "desc":"손으로 가슴을 잡다"
+    },
+    {
+        "tag":"guided_breast_grab",
+        "desc":"손으로 가슴을 잡게 유도하다"
+    },
+    {
+        "tag":"torso_grab",
+        "desc":"손으로 몸통을 잡다"
+    },
+    {
+        "tag":"squeezing",
+        "desc":"손으로 강하게 짜내다"
+    },
+    {
+        "tag":"breast_squeeze",
+        "desc":"손으로 가슴을 짜내다"
+    },
+    {
+        "tag":"squeezing_testicles",
+        "desc":"손으로 고환을 짜내다"
+    },
+    {
+        "tag":"measuring",
+        "desc":"손으로 측정하다"
+    },
+    {
+        "tag":"bust_measuring",
+        "desc":"손으로 가슴을 측정하다"
+    },
+    {
+        "tag":"penis_measuring",
+        "desc":"손으로 자지를 측정하다"
+    },
+    {
+        "tag":"waist_measuring",
+        "desc":"손으로 허리를 측정하다"
+    },
+    {
+        "tag":"fainting",
+        "desc":"손으로 부채질하다"
+    },
+    {
+        "tag":"falling",
+        "desc":"손으로 부채질하며 말하다"
+    },
+    {
+        "tag":"fanning_crotch",
+        "desc":"손으로 부채질해 가랑이를 식히다"
+    },
+    {
+        "tag":"fanning_face",
+        "desc":"손으로 부채질해 얼굴을 식히다"
+    },
+    {
+        "tag":"breast_hold",
+        "desc":"손으로 가슴을 쥐다"
+    },
+    {
+        "tag":"breast_grab",
+        "desc":"손으로 가슴을 잡다"
+    },
+    {
+        "tag":"breast_lift",
+        "desc":"손으로 가슴을 들다"
+    },
+    {
+        "tag":"breast_poke",
+        "desc":"손으로 가슴을 찌르다"
+    },
+    {
+        "tag":"breast_press",
+        "desc":"손으로 가슴을 누르다"
+    },
+    {
+        "tag":"breast_squeeze",
+        "desc":"손으로 가슴을 짜낸다"
+    },
+    {
+        "tag":"breast_suppress",
+        "desc":"손으로 가슴을 올린다"
+    },
+    {
+        "tag":"groping",
+        "desc":"손으로 가슴을 더듬다"
+    },
+    {
+        "tag":"One_open_finger",
+        "desc":"손가락 하나를 올리다"
+    },
+    {
+        "tag":"pinky_out",
+        "desc":"새끼 손가락을 올리다"
+    },
+    {
+        "tag":"middle_finger",
+        "desc":"가운데 손가락를 올리다"
+    },
+    {
+        "tag":"index_finger_raised(formerly_fgsfds)",
+        "desc":"검지 손가락 올리다"
+    },
+    {
+        "tag":"thumbs_up",
+        "desc":"엄지 손가락을 들다"
+    },
+    {
+        "tag":"thumbs_down",
+        "desc":"엄지 손가락을 내리다"
+    },
+    {
+        "tag":"Two_open_fingers",
+        "desc":"손가락 두개를 올리다"
+    },
+    {
+        "tag":"shaka_sign",
+        "desc":"엄지와 새끼를 올리다"
+    },
+    {
+        "tag":"v_sign",
+        "desc":"V 사인을 한다"
+    },
+    {
+        "tag":"inward_v",
+        "desc":"V 사인을 뒤집어 한다"
+    },
+    {
+        "tag":"v_over_eye",
+        "desc":"눈에 V 사인을 한다"
+    },
+    {
+        "tag":"v_over_mouth",
+        "desc":"입에 V 사인을 한다"
+    },
+    {
+        "tag":"two-finger_salute",
+        "desc":"두 손가락으로 경례한다"
+    },
+    {
+        "tag":"fox_shadow_puppet",
+        "desc":"여우 그림자를 만든다"
+    },
+    {
+        "tag":"finger_gun",
+        "desc":"손가락 총"
+    },
+    {
+        "tag":"finger_heart",
+        "desc":"손가락 하트"
+    },
+    {
+        "tag":"Three_open_fingers",
+        "desc":"손가락 세개를 올린다"
+    },
+    {
+        "tag":"middle_w",
+        "desc":"검지, 중지, 약지를 올린다"
+    },
+    {
+        "tag":"ok_sign",
+        "desc":"OK 사인을 한다"
+    },
+    {
+        "tag":"money_gesture",
+        "desc":"돈 사인을 한다"
+    },
+    {
+        "tag":"w_sign",
+        "desc":"더블 피스 사인을 한다"
+    },
+    {
+        "tag":"vulcan_salute",
+        "desc":"검지와 중지, 약지와 새끼를 올린다"
+    },
+    {
+        "tag":"salute",
+        "desc":"손가락으로 경례하다"
+    },
+    {
+        "tag":"akanbe",
+        "desc":"손가락으로 눈을 당긴다"
+    },
+    {
+        "tag":"straight-arm_salute",
+        "desc":"손가락으로 똑바로 경례한다"
+    },
+    {
+        "tag":"slit_throat(gesture)",
+        "desc":"손가락으로 목을 긋다"
+    },
+    {
+        "tag":"beckoning",
+        "desc":"손가락으로 손짓하다"
+    },
+    {
+        "tag":"finger_counting",
+        "desc":"손가락으로 숫자를 세다"
+    },
+    {
+        "tag":"open_hand",
+        "desc":"손가락으로 열다"
+    },
+    {
+        "tag":"ohikaenasutte",
+        "desc":"손가락으로 인사하다"
+    },
+    {
+        "tag":"crossed_fingers",
+        "desc":"손가락을 교차한다"
+    },
+    {
+        "tag":"spread_fingers",
+        "desc":"손가락을 벌리다"
+    },
+    {
+        "tag":"reaching",
+        "desc":"손가락을 뻗다"
+    },
+    {
+        "tag":"shushing",
+        "desc":"손가락을 입술에얹다"
+    },
+    {
+        "tag":"waving",
+        "desc":"손가락을 흔들다"
+    },
+    {
+        "tag":"pinching",
+        "desc":"손가락으로 꼬집다"
+    },
+    {
+        "tag":"belly_grab",
+        "desc":"손가락으로 배를 꼬집다"
+    },
+    {
+        "tag":"cheek_pinching",
+        "desc":"손가락으로 뺨을 꼬집다"
+    },
+    {
+        "tag":"pointing",
+        "desc":"손가락으로 가리키다"
+    },
+    {
+        "tag":"pointing_up",
+        "desc":"손가락으로 가리키다"
+    },
+    {
+        "tag":"pointing_at_self",
+        "desc":"손가락으로 가리키다"
+    },
+    {
+        "tag":"pointing_at_viewer",
+        "desc":"손가락으로 뷰어를 가리키다"
+    },
+    {
+        "tag":"pointing_down",
+        "desc":"손가락으로 아래를 가리키다"
+    },
+    {
+        "tag":"pointing_forward",
+        "desc":"손가락으로 앞을 가리키다"
+    },
+    {
+        "tag":"saturday_night_fever",
+        "desc":"손가락으로 높이 가리키다"
+    },
+    {
+        "tag":"leg_lift",
+        "desc":"다리를 들다"
+    },
+    {
+        "tag":"folded",
+        "desc":"다리를 잡는다"
+    },
+    {
+        "tag":"spread_legs",
+        "desc":"다리를 벌리다"
+    },
+    {
+        "tag":"watson_cross",
+        "desc":"다리를 서서 꼬다"
+    },
+    {
+        "tag":"crossed_legs",
+        "desc":"다리를 꼬다"
+    },
+    {
+        "tag":"figure_four_sitting",
+        "desc":"다리를 앉아서 껴안다"
+    },
+    {
+        "tag":"hugging_own_legs",
+        "desc":"다리를 껴안다"
+    },
+    {
+        "tag":"one_knee",
+        "desc":"무릎 한쪽을 꿇다"
+    },
+    {
+        "tag":"kneeling",
+        "desc":"무릎 양쪽을 꿇다"
+    },
+    {
+        "tag":"knees_together_feet_apart",
+        "desc":"무릎을 모으고 발을 벌리다"
+    },
+    {
+        "tag":"knees_apart_feet_together",
+        "desc":"무릎을 벌리고 발을 벌리다"
+    },
+    {
+        "tag":"leg_up",
+        "desc":"다리 한쪽을 위로 올리다"
+    },
+    {
+        "tag":"egs_up",
+        "desc":"다리 양쪽을 위로 올리다"
+    },
+    {
+        "tag":"knees_to_chest",
+        "desc":"다리를 가슴 위로 올리다"
+    },
+    {
+        "tag":"legs_over_head",
+        "desc":"다리를 머리 위로 올리다"
+    },
+    {
+        "tag":"outstretched_leg",
+        "desc":"다리를 길게 뻗다"
+    },
+    {
+        "tag":"pigeon_pose",
+        "desc":"다리를 뒤로 뻗다"
+    },
+    {
+        "tag":"split",
+        "desc":"다리를 서서 뻗다"
+    },
+    {
+        "tag":"standing_split",
+        "desc":"다리를 서서 뻗다"
+    },
+    {
+        "tag":"kicking",
+        "desc":"다리로 차다"
+    },
+    {
+        "tag":"crotch_kick",
+        "desc":"다리로 가랑이를 차다"
+    },
+    {
+        "tag":"drop_kick",
+        "desc":"다리를 모아서 차다"
+    },
+    {
+        "tag":"flying_kick",
+        "desc":"다리로 날아서 차다"
+    },
+    {
+        "tag":"axe_kick",
+        "desc":"다리를 1차로 차다"
+    },
+    {
+        "tag":"drop_kick",
+        "desc":"다리로 허리보다 높이 차다"
+    },
+    {
+        "tag":"crossed_ankles",
+        "desc":"발목을 겹치다"
+    },
+    {
+        "tag":"pigeon-toed",
+        "desc":"발가락이 위를 향하다"
+    },
+    {
+        "tag":"plantar_flexion",
+        "desc":"발바닥이 아래로 향하다"
+    },
+    {
+        "tag":"dorsiflexion",
+        "desc":"발을 위쪽으로 구부리다"
+    },
+    {
+        "tag":"tiptoes",
+        "desc":"발가락을 들고 균형잡다"
+    },
+    {
+        "tag":"tiptoe_kiss",
+        "desc":"발가락을 들고 키스한다"
+    },
+    {
+        "tag":"stomping",
+        "desc":"발로 강제로 밟다"
+    },
+    {
+        "tag":"stepping",
+        "desc":"무릎을 꿇리고 머리를 밟다"
+    },
+    {
+        "tag":"foot_on_head",
+        "desc":"앉아서 머리를 밟다"
+    },
+    {
+        "tag":"crotch_stomping",
+        "desc":"강제로 가랑이를 밟다"
+    }
+]

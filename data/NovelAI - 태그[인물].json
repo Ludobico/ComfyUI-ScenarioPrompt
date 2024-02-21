@@ -1,0 +1,1238 @@
+[
+    {
+        "tag":"1other",
+        "desc":"1명"
+    },
+    {
+        "tag":"2others",
+        "desc":"2명"
+    },
+    {
+        "tag":"3others",
+        "desc":"3명"
+    },
+    {
+        "tag":"4others",
+        "desc":"4명"
+    },
+    {
+        "tag":"5others",
+        "desc":"5명"
+    },
+    {
+        "tag":"6others",
+        "desc":"6명"
+    },
+    {
+        "tag":"1boy",
+        "desc":"남성 1명 "
+    },
+    {
+        "tag":"2boys",
+        "desc":"남성 2명"
+    },
+    {
+        "tag":"3boys",
+        "desc":"남성 3명"
+    },
+    {
+        "tag":"4boys",
+        "desc":"남성 4명"
+    },
+    {
+        "tag":"5boys",
+        "desc":"남성 5명"
+    },
+    {
+        "tag":"6+boys",
+        "desc":"남성 6명"
+    },
+    {
+        "tag":"1girl",
+        "desc":"여성 1명"
+    },
+    {
+        "tag":"2girls",
+        "desc":"여성 2명"
+    },
+    {
+        "tag":"3girls",
+        "desc":"여성 3명"
+    },
+    {
+        "tag":"4girls",
+        "desc":"여성 4명"
+    },
+    {
+        "tag":"5girls",
+        "desc":"여성 5명"
+    },
+    {
+        "tag":"6+girls",
+        "desc":"여성 6명"
+    },
+    {
+        "tag":"son",
+        "desc":"아들"
+    },
+    {
+        "tag":"daughter",
+        "desc":"딸"
+    },
+    {
+        "tag":"father",
+        "desc":"아버지"
+    },
+    {
+        "tag":"mother",
+        "desc":"어머니"
+    },
+    {
+        "tag":"aunt",
+        "desc":"이모"
+    },
+    {
+        "tag":"uncle",
+        "desc":"삼촌"
+    },
+    {
+        "tag":"cousins",
+        "desc":"사촌"
+    },
+    {
+        "tag":"granddaughter",
+        "desc":"할아버지"
+    },
+    {
+        "tag":"grandmother",
+        "desc":"할머니"
+    },
+    {
+        "tag":"brother",
+        "desc":"형"
+    },
+    {
+        "tag":"older_sister",
+        "desc":"누나"
+    },
+    {
+        "tag":"Younger_brother",
+        "desc":"남동생"
+    },
+    {
+        "tag":"Younger_Sister",
+        "desc":"여동생"
+    },
+    {
+        "tag":"siblings",
+        "desc":"형제"
+    },
+    {
+        "tag":"brothers",
+        "desc":"형제"
+    },
+    {
+        "tag":"sisters",
+        "desc":"자매"
+    },
+    {
+        "tag":"brother_and_sister",
+        "desc":"형제와 자매"
+    },
+    {
+        "tag":"step-siblings",
+        "desc":"의붓 형제"
+    },
+    {
+        "tag":"half-siblings",
+        "desc":"이복 형제자매"
+    },
+    {
+        "tag":"multiple_births",
+        "desc":"다태아"
+    },
+    {
+        "tag":"twins",
+        "desc":"쌍둥이"
+    },
+    {
+        "tag":"triplets",
+        "desc":"세 쌍둥이"
+    },
+    {
+        "tag":"quadruplets",
+        "desc":"네 쌍둥이"
+    },
+    {
+        "tag":"sextuplets",
+        "desc":"다섯 쌍둥이"
+    },
+    {
+        "tag":"septuplets",
+        "desc":"일곱 쌍둥이"
+    },
+    {
+        "tag":"father_and_son",
+        "desc":"아버지와 아들"
+    },
+    {
+        "tag":"father_and_daughter",
+        "desc":"아버지와 딸"
+    },
+    {
+        "tag":"mother_and_son",
+        "desc":"어머니와 아들"
+    },
+    {
+        "tag":"mother_and_daughter",
+        "desc":"어머니와 딸"
+    },
+    {
+        "tag":"uncle_and_nephew",
+        "desc":"삼촌과 남자 조카"
+    },
+    {
+        "tag":"uncle_and_niece",
+        "desc":"삼촌과 여자 조카"
+    },
+    {
+        "tag":"aunt_and_niece",
+        "desc":"이모와 여자 조카"
+    },
+    {
+        "tag":"aunt_and_nephew",
+        "desc":"이모와 남자 조카"
+    },
+    {
+        "tag":"grandfather_and_grandson",
+        "desc":"할아버지와 손자"
+    },
+    {
+        "tag":"grandfather_and_granddaughter",
+        "desc":"할아버지와 손녀"
+    },
+    {
+        "tag":"grandmother_and_grandson",
+        "desc":"할머니와 손자"
+    },
+    {
+        "tag":"grandmother_and_granddaughter",
+        "desc":"할머니와 손녀"
+    },
+    {
+        "tag":"yellow_man",
+        "desc":"황인"
+    },
+    {
+        "tag":"a_mixed_Eastern_blood",
+        "desc":"동앙계 혼혈"
+    },
+    {
+        "tag":"Eastern_Quota",
+        "desc":"동양계 쿼터"
+    },
+    {
+        "tag":"White_man",
+        "desc":"백인"
+    },
+    {
+        "tag":"a_mixed_race_of_white_blood",
+        "desc":"백인계 혼혈"
+    },
+    {
+        "tag":"white_quarter",
+        "desc":"백인계 쿼터"
+    },
+    {
+        "tag":"black_man",
+        "desc":"흑인"
+    },
+    {
+        "tag":"a_mixed_race_of_black_people",
+        "desc":"흑인계 혼혈"
+    },
+    {
+        "tag":"black_quarter",
+        "desc":"흑인계 쿼터"
+    },
+    {
+        "tag":"Korean",
+        "desc":"한국인"
+    },
+    {
+        "tag":"North_Korean",
+        "desc":"북한인"
+    },
+    {
+        "tag":"Japanese",
+        "desc":"일본인"
+    },
+    {
+        "tag":"Chinese",
+        "desc":"중국인"
+    },
+    {
+        "tag":"Hong_Kong_people",
+        "desc":"홍콩인"
+    },
+    {
+        "tag":"Taiwanese",
+        "desc":"대만인"
+    },
+    {
+        "tag":"Mongolians",
+        "desc":"몽골인"
+    },
+    {
+        "tag":"Thai",
+        "desc":"태국인"
+    },
+    {
+        "tag":"Vietnamese_people",
+        "desc":"베트남인"
+    },
+    {
+        "tag":"Canadian",
+        "desc":"캐나다인"
+    },
+    {
+        "tag":"Mexicans",
+        "desc":"멕시코인"
+    },
+    {
+        "tag":"American",
+        "desc":"미국인"
+    },
+    {
+        "tag":"Brazilians",
+        "desc":"브라질인"
+    },
+    {
+        "tag":"Argentines",
+        "desc":"아르헨티나인"
+    },
+    {
+        "tag":"Uruguayan_people",
+        "desc":"우루과이인"
+    },
+    {
+        "tag":"Chilean_people",
+        "desc":"칠레인"
+    },
+    {
+        "tag":"Colombian_people",
+        "desc":"콜롬비아인"
+    },
+    {
+        "tag":"Paraguayan_people",
+        "desc":"파라과이인"
+    },
+    {
+        "tag":"Russian_people_of_Russia",
+        "desc":"러시아인"
+    },
+    {
+        "tag":"Belarusian_people",
+        "desc":"벨라루스인"
+    },
+    {
+        "tag":"Ukrainians",
+        "desc":"우크라이나인"
+    },
+    {
+        "tag":"Dutch",
+        "desc":"네덜란드인"
+    },
+    {
+        "tag":"People_of_Monaco",
+        "desc":"모나코인"
+    },
+    {
+        "tag":"Belgians",
+        "desc":"벨기에인"
+    },
+    {
+        "tag":"Irishman",
+        "desc":"아일랜드인"
+    },
+    {
+        "tag":"British",
+        "desc":"영국인"
+    },
+    {
+        "tag":"French",
+        "desc":"프랑스인"
+    },
+    {
+        "tag":"Greeks",
+        "desc":"그리스인"
+    },
+    {
+        "tag":"Romanian_people",
+        "desc":"루마니아인"
+    },
+    {
+        "tag":"Vatican_people",
+        "desc":"바티칸인"
+    },
+    {
+        "tag":"Bulgarian",
+        "desc":"불가리아인"
+    },
+    {
+        "tag":"Spanish",
+        "desc":"스페인인"
+    },
+    {
+        "tag":"Italians",
+        "desc":"이탈리아인"
+    },
+    {
+        "tag":"Turkish_people",
+        "desc":"터키인"
+    },
+    {
+        "tag":"Portuguese_people",
+        "desc":"포르투갈인"
+    },
+    {
+        "tag":"Norwegian_people",
+        "desc":"노르웨이인"
+    },
+    {
+        "tag":"Danish_people",
+        "desc":"덴마크인"
+    },
+    {
+        "tag":"Swedes",
+        "desc":"스웨덴인"
+    },
+    {
+        "tag":"Finns",
+        "desc":"핀란드인"
+    },
+    {
+        "tag":"Icelanders",
+        "desc":"아이슬란드인"
+    },
+    {
+        "tag":"Darudere",
+        "desc":"다루데레"
+    },
+    {
+        "tag":"Megadere",
+        "desc":"메가데레"
+    },
+    {
+        "tag":"Menhera",
+        "desc":"멘헤라"
+    },
+    {
+        "tag":"Bokodere",
+        "desc":"보코데레"
+    },
+    {
+        "tag":"Yandere",
+        "desc":"얀데레"
+    },
+    {
+        "tag":"Tsundere",
+        "desc":"츤데레"
+    },
+    {
+        "tag":"kuudere",
+        "desc":"쿨데레"
+    },
+    {
+        "tag":"Lawful_Good",
+        "desc":"질서 선"
+    },
+    {
+        "tag":"Lawful_Neutral",
+        "desc":"질서 중립"
+    },
+    {
+        "tag":"Lawful_Evil",
+        "desc":"질서 악"
+    },
+    {
+        "tag":"Neutral_Good",
+        "desc":"중립 선"
+    },
+    {
+        "tag":"True_Neutral",
+        "desc":"중립"
+    },
+    {
+        "tag":"Neutral_Evil",
+        "desc":"중립 악"
+    },
+    {
+        "tag":"Chaotic_Good",
+        "desc":"혼돈 선"
+    },
+    {
+        "tag":"Chaotic_Neutral",
+        "desc":"혼돈 중립"
+    },
+    {
+        "tag":"Chaotic_Evil",
+        "desc":"혼돈 악"
+    },
+    {
+        "tag":"Goblin",
+        "desc":"고블린"
+    },
+    {
+        "tag":"Slime",
+        "desc":"슬라임"
+    },
+    {
+        "tag":"Elf",
+        "desc":"엘프"
+    },
+    {
+        "tag":"Dark_Elf",
+        "desc":"다크 엘프"
+    },
+    {
+        "tag":"High_Elf",
+        "desc":"하이 엘프"
+    },
+    {
+        "tag":"Orc",
+        "desc":"오크"
+    },
+    {
+        "tag":"Monster",
+        "desc":"요괴"
+    },
+    {
+        "tag":"Fairy",
+        "desc":"요정"
+    },
+    {
+        "tag":"Dragon",
+        "desc":"용"
+    },
+    {
+        "tag":"Ghost",
+        "desc":"유령"
+    },
+    {
+        "tag":"Spirit",
+        "desc":"정령"
+    },
+    {
+        "tag":"Angel",
+        "desc":"천사"
+    },
+    {
+        "tag":"devil",
+        "desc":"악마"
+    },
+    {
+        "tag":"Vampire",
+        "desc":"흡혈귀"
+    },
+    {
+        "tag":"dog",
+        "desc":"강아지"
+    },
+    {
+        "tag":"Gorilla",
+        "desc":"고릴라"
+    },
+    {
+        "tag":"cat",
+        "desc":"고양이"
+    },
+    {
+        "tag":"bear",
+        "desc":"곰"
+    },
+    {
+        "tag":"raccoon",
+        "desc":"너구리"
+    },
+    {
+        "tag":"wolf",
+        "desc":"늑대"
+    },
+    {
+        "tag":"squirrel",
+        "desc":"다람쥐"
+    },
+    {
+        "tag":"pig",
+        "desc":"돼지"
+    },
+    {
+        "tag":"horse",
+        "desc":"말"
+    },
+    {
+        "tag":"bat",
+        "desc":"박쥐"
+    },
+    {
+        "tag":"deer",
+        "desc":"사슴"
+    },
+    {
+        "tag":"lion",
+        "desc":"사자"
+    },
+    {
+        "tag":"cow",
+        "desc":"소"
+    },
+    {
+        "tag":"sheep",
+        "desc":"양"
+    },
+    {
+        "tag":"fox",
+        "desc":"여우"
+    },
+    {
+        "tag":"goat",
+        "desc":"염소"
+    },
+    {
+        "tag":"ferret",
+        "desc":"족제비"
+    },
+    {
+        "tag":"mouse",
+        "desc":"쥐"
+    },
+    {
+        "tag":"rabbit",
+        "desc":"토끼"
+    },
+    {
+        "tag":"panda",
+        "desc":"팬더"
+    },
+    {
+        "tag":"tiger",
+        "desc":"호랑이"
+    },
+    {
+        "tag":"dog_human",
+        "desc":"강아지 인간"
+    },
+    {
+        "tag":"Gorilla_human",
+        "desc":"고릴라 인간"
+    },
+    {
+        "tag":"cat_human",
+        "desc":"고양이 인간"
+    },
+    {
+        "tag":"bear_human",
+        "desc":"곰 인간"
+    },
+    {
+        "tag":"raccoon_human",
+        "desc":"너구리 인간"
+    },
+    {
+        "tag":"Werewolf",
+        "desc":"늑대 인간"
+    },
+    {
+        "tag":"squirrel_human",
+        "desc":"다람쥐 인간"
+    },
+    {
+        "tag":"Pig_human",
+        "desc":"돼지 인간"
+    },
+    {
+        "tag":"horse_human",
+        "desc":"말 인간"
+    },
+    {
+        "tag":"bat_human",
+        "desc":"박쥐 인간"
+    },
+    {
+        "tag":"deer_human",
+        "desc":"사슴 인간"
+    },
+    {
+        "tag":"lion_human",
+        "desc":"사자 인간"
+    },
+    {
+        "tag":"cow_human",
+        "desc":"소 인간"
+    },
+    {
+        "tag":"sheep_human",
+        "desc":"양 인간"
+    },
+    {
+        "tag":"fox_human",
+        "desc":"여우 인간"
+    },
+    {
+        "tag":"goat_human",
+        "desc":"염소 인간"
+    },
+    {
+        "tag":"monkey_human",
+        "desc":"원숭이 인간"
+    },
+    {
+        "tag":"ferret_human",
+        "desc":"족제비 인간"
+    },
+    {
+        "tag":"mouse_human",
+        "desc":"쥐 인간"
+    },
+    {
+        "tag":"rabbit_human",
+        "desc":"토끼 인간"
+    },
+    {
+        "tag":"panda_human",
+        "desc":"팬더 인간"
+    },
+    {
+        "tag":"tiger_human",
+        "desc":"호랑이 인간"
+    },
+    {
+        "tag":"dog_furry",
+        "desc":"강아지 수인"
+    },
+    {
+        "tag":"Gorilla_furry",
+        "desc":"고릴라 수인"
+    },
+    {
+        "tag":"cat_furry",
+        "desc":"고양이 수인"
+    },
+    {
+        "tag":"bear_furry",
+        "desc":"곰 수인"
+    },
+    {
+        "tag":"raccoon_furry",
+        "desc":"너구리 수인"
+    },
+    {
+        "tag":"wolf_furry",
+        "desc":"늑대 수인"
+    },
+    {
+        "tag":"squirrel_furry",
+        "desc":"다람쥐 수인"
+    },
+    {
+        "tag":"pig_furry",
+        "desc":"돼지 수인"
+    },
+    {
+        "tag":"horse_furry",
+        "desc":"말 수인"
+    },
+    {
+        "tag":"bat_furry",
+        "desc":"박쥐 수인"
+    },
+    {
+        "tag":"deer_furry",
+        "desc":"사슴 수인"
+    },
+    {
+        "tag":"lion_furry",
+        "desc":"사자 수인"
+    },
+    {
+        "tag":"cow_furry",
+        "desc":"소 수인"
+    },
+    {
+        "tag":"sheep_furry",
+        "desc":"양 수인"
+    },
+    {
+        "tag":"fox_furry",
+        "desc":"여우 수인"
+    },
+    {
+        "tag":"goat_furry",
+        "desc":"염소 수인"
+    },
+    {
+        "tag":"monkey_furry",
+        "desc":"원숭이 순인"
+    },
+    {
+        "tag":"_ferret_furry",
+        "desc":"족제비 수인"
+    },
+    {
+        "tag":"mouse_furry",
+        "desc":"쥐 수인"
+    },
+    {
+        "tag":"rabbit_furry",
+        "desc":"토끼 수인"
+    },
+    {
+        "tag":"panda_furry",
+        "desc":"팬더 수인"
+    },
+    {
+        "tag":"tiger_furry",
+        "desc":"호랑이 수인"
+    },
+    {
+        "tag":"burglar",
+        "desc":"강도"
+    },
+    {
+        "tag":"gyaru",
+        "desc":"갸루"
+    },
+    {
+        "tag":"construction_worker",
+        "desc":"건설 노동자"
+    },
+    {
+        "tag":"miner",
+        "desc":"광부"
+    },
+    {
+        "tag":"florist",
+        "desc":"꽃집 직원"
+    },
+    {
+        "tag":"lumberjack",
+        "desc":"나무꾼"
+    },
+    {
+        "tag":"librarian",
+        "desc":"사서"
+    },
+    {
+        "tag":"croupier",
+        "desc":"상인"
+    },
+    {
+        "tag":"merchant",
+        "desc":"상인"
+    },
+    {
+        "tag":"shepherd",
+        "desc":"양치기"
+    },
+    {
+        "tag":"mechanic",
+        "desc":"정비공"
+    },
+    {
+        "tag":"politician",
+        "desc":"정치가"
+    },
+    {
+        "tag":"terrorist",
+        "desc":"테러리스트"
+    },
+    {
+        "tag":"judge",
+        "desc":"판사"
+    },
+    {
+        "tag":"student",
+        "desc":"학생"
+    },
+    {
+        "tag":"hacker",
+        "desc":"해커"
+    },
+    {
+        "tag":"salaryman",
+        "desc":"회사원(남성)"
+    },
+    {
+        "tag":"office_lady",
+        "desc":"회사원(여성)"
+    },
+    {
+        "tag":"guard",
+        "desc":"경비원"
+    },
+    {
+        "tag":"police",
+        "desc":"경찰"
+    },
+    {
+        "tag":"janitor",
+        "desc":"관리인"
+    },
+    {
+        "tag":"soldier",
+        "desc":"군인"
+    },
+    {
+        "tag":"standard-bearer",
+        "desc":"군인(기수)"
+    },
+    {
+        "tag":"officer",
+        "desc":"군인(장교)"
+    },
+    {
+        "tag":"lifeguard",
+        "desc":"근위대"
+    },
+    {
+        "tag":"sailor",
+        "desc":"선원"
+    },
+    {
+        "tag":"firefighter",
+        "desc":"소방관"
+    },
+    {
+        "tag":"spy",
+        "desc":"스파이"
+    },
+    {
+        "tag":"astronaut",
+        "desc":"우주 비행사"
+    },
+    {
+        "tag":"chef",
+        "desc":"요리사"
+    },
+    {
+        "tag":"conductor",
+        "desc":"지휘자"
+    },
+    {
+        "tag":"bodyguard",
+        "desc":"친위대"
+    },
+    {
+        "tag":"bartender",
+        "desc":"바텐더"
+    },
+    {
+        "tag":"waiter",
+        "desc":"웨이터"
+    },
+    {
+        "tag":"waitress",
+        "desc":"웨이트리스"
+    },
+    {
+        "tag":"butler",
+        "desc":"집사"
+    },
+    {
+        "tag":"cashier",
+        "desc":"카운터 직원"
+    },
+    {
+        "tag":"maid",
+        "desc":"메이드"
+    },
+    {
+        "tag":"Nurse_Maid",
+        "desc":"너스 메이드"
+    },
+    {
+        "tag":"Ladies_Maid",
+        "desc":"레이디스 메이드"
+    },
+    {
+        "tag":"Military_Maid",
+        "desc":"밀리터리 메이드"
+    },
+    {
+        "tag":"Victoria_Maid",
+        "desc":"빅토리아 메이드"
+    },
+    {
+        "tag":"CyberMaid",
+        "desc":"사이버 메이드"
+    },
+    {
+        "tag":"Steampunk_Maid",
+        "desc":"스팀펑크 메이드"
+    },
+    {
+        "tag":"Japanese-style_Maid",
+        "desc":"일본풍 메이드"
+    },
+    {
+        "tag":"China-style_Maid",
+        "desc":"차이나 메이드"
+    },
+    {
+        "tag":"Classic_maid",
+        "desc":"클래식 메이드"
+    },
+    {
+        "tag":"Kitchen_Maid",
+        "desc":"키친 메이드"
+    },
+    {
+        "tag":"Faller_Maid",
+        "desc":"팔러 메이드"
+    },
+    {
+        "tag":"French_Maid",
+        "desc":"프렌치 메이드"
+    },
+    {
+        "tag":"House_Maid",
+        "desc":"하우스 메이드"
+    },
+    {
+        "tag":"Housekeeper",
+        "desc":"하우스키퍼"
+    },
+    {
+        "tag":"scientist",
+        "desc":"과학자"
+    },
+    {
+        "tag":"chemist",
+        "desc":"화학자"
+    },
+    {
+        "tag":"engineer",
+        "desc":"엔지니어"
+    },
+    {
+        "tag":"geisha",
+        "desc":"게이샤"
+    },
+    {
+        "tag":"idol",
+        "desc":"아이돌"
+    },
+    {
+        "tag":"actor",
+        "desc":"남성 배우"
+    },
+    {
+        "tag":"actress",
+        "desc":"여성 배우"
+    },
+    {
+        "tag":"musician",
+        "desc":"음악가"
+    },
+    {
+        "tag":"painter",
+        "desc":"화가"
+    },
+    {
+        "tag":"artist",
+        "desc":"예술가"
+    },
+    {
+        "tag":"athlete",
+        "desc":"운동선수"
+    },
+    {
+        "tag":"Footballer",
+        "desc":"축구선수"
+    },
+    {
+        "tag":"a_basketball_player.",
+        "desc":"농구선수"
+    },
+    {
+        "tag":"Baseball_player",
+        "desc":"야구선수"
+    },
+    {
+        "tag":"volleyball_player",
+        "desc":"배구선수"
+    },
+    {
+        "tag":"golfer",
+        "desc":"골프 선수"
+    },
+    {
+        "tag":"tennis_player",
+        "desc":"테니스 선수"
+    },
+    {
+        "tag":"cyclist",
+        "desc":"자전거 선수"
+    },
+    {
+        "tag":"teacher",
+        "desc":"교사"
+    },
+    {
+        "tag":"math_teacher",
+        "desc":"수학 교사"
+    },
+    {
+        "tag":"science_teacher",
+        "desc":"과학 교사"
+    },
+    {
+        "tag":"English_teacher",
+        "desc":"영어 교사"
+    },
+    {
+        "tag":"health_teacher",
+        "desc":"보건 교사"
+    },
+    {
+        "tag":"school_nurse",
+        "desc":"보건 교사"
+    },
+    {
+        "tag":"driver",
+        "desc":"운전사"
+    },
+    {
+        "tag":"pilot",
+        "desc":"조종사"
+    },
+    {
+        "tag":"train_attendant",
+        "desc":"기차 안내원"
+    },
+    {
+        "tag":"train_conductor",
+        "desc":"기차 운전사"
+    },
+    {
+        "tag":"flight_attendant",
+        "desc":"비행기 안내원"
+    },
+    {
+        "tag":"trucker",
+        "desc":"트럭 운전사"
+    },
+    {
+        "tag":"doctor",
+        "desc":"의사"
+    },
+    {
+        "tag":"nurse",
+        "desc":"간호사"
+    },
+    {
+        "tag":"dentist",
+        "desc":"치과 의사"
+    },
+    {
+        "tag":"slave",
+        "desc":"노예"
+    },
+    {
+        "tag":"farmer",
+        "desc":"농장주"
+    },
+    {
+        "tag":"queen",
+        "desc":"여왕"
+    },
+    {
+        "tag":"king",
+        "desc":"왕"
+    },
+    {
+        "tag":"prisoner",
+        "desc":"죄인"
+    },
+    {
+        "tag":"dominatrix",
+        "desc":"지배자"
+    },
+    {
+        "tag":"knight",
+        "desc":"기사"
+    },
+    {
+        "tag":"ninja",
+        "desc":"닌자"
+    },
+    {
+        "tag":"witch",
+        "desc":"마녀"
+    },
+    {
+        "tag":"wizard",
+        "desc":"마법사"
+    },
+    {
+        "tag":"miko",
+        "desc":"무녀"
+    },
+    {
+        "tag":"samurai",
+        "desc":"사무라이"
+    },
+    {
+        "tag":"priest",
+        "desc":"성직자"
+    },
+    {
+        "tag":"nun",
+        "desc":"수녀"
+    },
+    {
+        "tag":"monk",
+        "desc":"수도사"
+    },
+    {
+        "tag":"alchemist",
+        "desc":"연금술사"
+    },
+    {
+        "tag":"warrior",
+        "desc":"전사"
+    },
+    {
+        "tag":"Slut",
+        "desc":"암캐"
+    },
+    {
+        "tag":"Skank",
+        "desc":"걸레"
+    },
+    {
+        "tag":"bitch",
+        "desc":"창녀"
+    },
+    {
+        "tag":"whore",
+        "desc":"빗치"
+    },
+    {
+        "tag":"call_girl",
+        "desc":"콜걸"
+    },
+    {
+        "tag":"stripper",
+        "desc":"스트립퍼"
+    },
+    {
+        "tag":"prostitution",
+        "desc":"매춘부"
+    },
+    {
+        "tag":"Porno_Actor",
+        "desc":"포르노 배우"
+    }
+]
