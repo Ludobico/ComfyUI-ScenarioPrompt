@@ -1,12 +1,33 @@
-import re, json
+import re, json, os
 from server import PromptServer
 from aiohttp import web
+@PromptServer.instance.routes.get("/ludobico/autocomplete")
+async def get_autocomplete(request):
+  full_path = os.path.dirname(os.path.realpath(__file__))
+  data_path = os.path.join(full_path, 'data')
+  dataset_list = [f for f in os.listdir(data_path) if os.path.isfile(os.path.join(data_path, f))]
+  json_data = {}
+  for data in dataset_list:
+    if data == 'template.json':
+      pass
+    else:
+      with open(os.path.join(data_path, data), "r",encoding='UTF8') as f:
+        json_data[data.split('.')[0]] = json.load(f)
+  return web.json_response(json_data)
 class ScenarioPrompt:
   def __init__(self):
     pass
 
   @classmethod
   def INPUT_TYPES(s):
+    """
+    Character : NovelAI - 태그[인물]
+    Face : NovelAI - 태그[외모]
+    Body_type : NovelAI - 태그[체형]
+    Fashion : NovelAI - 태그[의상]
+    Accessory : NovelAI - 태그[장신구]
+    Action : NovelAI - 태그[동작 1] , NovelAI - 태그[동작 2], NovelAI - 태그[행동]
+    """
     fields = ["Character", "Face", "Body_type", "Fashion", "Accessory", "Action", "point_of_view", "Background", "Light"]
     
     required = {"Base": ("STRING", {"multiline": True, "default": ""})}
