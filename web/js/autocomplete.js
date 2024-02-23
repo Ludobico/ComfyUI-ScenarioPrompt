@@ -76,6 +76,7 @@ app.registerExtension({
     const outputHtml = (matches, htmlType) => {
       const textareaStyle = window.getComputedStyle(htmlType);
       const currentTop = parseFloat(textareaStyle.top.replace('px', ''));
+      const CanvasHtml = document.querySelector('#graph-canvas');
       const newTop = currentTop + 30;
       if (matches.length > 0) {
         const html = matches
@@ -115,6 +116,9 @@ app.registerExtension({
             htmlType.value = newWords.join(',') + ',';
             matchList.innerHTML = '';
           });
+        });
+        CanvasHtml.addEventListener('click', function () {
+          matchList.innerHTML = '';
         });
       }
     };
