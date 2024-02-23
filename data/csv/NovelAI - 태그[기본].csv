@@ -1,0 +1,504 @@
+분류1,분류2,이름,태그목록,NSFW
+품질,완성도,명작,"masterpiece, masterpiece_portrait",FALSE
+품질,완성도,뚜렷한 이미지,"distinct, distinct_image",FALSE
+품질,완성도,흐릿한 이미지,"blurry, blurry_image",FALSE
+품질,해상도,높은 해상도,"highres, high_resolution",FALSE
+품질,해상도,낮은 해상도,"Lowres, Low_resolution",FALSE
+품질,해상도,고화질,"high_quality, high_quality_anime",FALSE
+품질,해상도,저화질,"Low_picture_quality, Low_picture_anime",FALSE
+품질,디테일,높은 디테일,"super_detail, hyper_detail",FALSE
+품질,디테일,세세한 디테일,finely_detailed,FALSE
+품질,디테일,복잡한 디테일,intricate_details,FALSE
+품질,디테일,특정한 디테일,detailed_*,FALSE
+품질,디테일,원하는 디테일,drooling from_*,FALSE
+품질,완성도,완벽한 신체,"perfect_anatomy, perfect_body, perfect_navel, perfect_face, perfect_eyes, perfect_chest, perfect_nipples, perfect_hips, perfect_arms, perfect_hands, perfect_fingers, perfect_legs, perfect_feet, perfect_toe",FALSE
+품질,완성도,잘못된 신체,"missing_anatomy, missing_body, missing_navel, missing_face, missing_eyes, missing_chest, missing_nipples, missing_hips, missing_arms, missing_hands, missing_fingers, missing_legs, missing_feet, missing_toe",FALSE
+품질,완성도,복수의 신체,"extra_anatomy, extra_body, extra_navel, extra_face, extra_eyes, extra_chest, extra_nipples, extra_hips, extra_arms, extra_hands, extra_fingers, extra_legs, extra_feet, extra_toe",FALSE
+작화,화풍,러프,unfinished,FALSE
+작화,화풍,스케치,sketch,FALSE
+작화,화풍,선이 명확한,ligne_claire,FALSE
+작화,화풍,손 그림,traditional_media,FALSE
+작화,화풍,가짜 손 그림,faux_traditional_media,FALSE
+작화,화풍,게임,CG_game_cg,FALSE
+작화,화풍,픽셀,pixel_art,FALSE
+작화,화풍,미소녀,"bishoujo, mishoujo",FALSE
+작화,화풍,애니메이션,"anime_art_style, anime_screencap",FALSE
+작화,화풍,실사체,realistic,FALSE
+작화,화풍,빈실사체,semi_realistic,FALSE
+작화,화풍,일본풍 실사체,"manga_realistic, manga_photorealistic",FALSE
+작화,화풍,미국풍 실사체,"Cartoon_realistic, Cartoon_photorealistic",FALSE
+작화,스타일,흑백,Monochrome,FALSE
+작화,스타일,웹툰,"Webtoon, Korea_Webtoon",FALSE
+작화,스타일,픽시브,pixiv,FALSE
+작화,스타일,삽화,Illustration,FALSE
+작화,스타일,에로 만화,eromanga,FALSE
+작화,스타일,소년 만화,Shonen_manga,FALSE
+작화,스타일,애니메이션,"animation, Japanese_animation",FALSE
+작화,스타일,디즈니,Disney,FALSE
+작화,스타일,카툰,Cartoon,FALSE
+작화,스타일,카툰 네트워크,Cartoon_Network,FALSE
+작화,스타일,칼아츠 스타일,CalArts_style,FALSE
+작화,스타일,그래픽 노벨,Graphic_Novel,FALSE
+작화,스타일,미국 카툰,American_cartoon,FALSE
+작화,스타일,미국 만화,American_comics,FALSE
+작화,스타일,DC 코믹스,DC_Comics,FALSE
+작화,스타일,마블 코믹스,Marvel_Comics,FALSE
+작화,스타일,패러디,style_parody={},FALSE
+작화,스타일,패러디,fine_art_parody={},FALSE
+테마,장르,판타지,Fantasy,FALSE
+테마,장르,다크 판타지,Dark_Fantasy,FALSE
+테마,장르,고딕 판타지,Gothic_Fantasy,FALSE
+테마,장르,어반 판타지,Urban_Fantasy,FALSE
+테마,장르,로맨스 판타지,Romance_Fantasy,FALSE
+테마,장르,스팀펑크,Steampunk,FALSE
+테마,장르,디젤펑크,Dieselpunk,FALSE
+테마,장르,사이버펑크,Cyberpunk,FALSE
+테마,장르,아케인펑크,Arcanepunk,FALSE
+테마,연도,20년대,20s-anime-aesthetic,FALSE
+테마,연도,30년대,30s-anime-aesthetic,FALSE
+테마,연도,40년대,40s-anime-aesthetic,FALSE
+테마,연도,50년대,50s-anime-aesthetic,FALSE
+테마,연도,60년대,60s-anime-aesthetic,FALSE
+테마,연도,70년대,70s-anime-aesthetic,FALSE
+테마,연도,80년대,80s-anime-aesthetic,FALSE
+테마,연도,90년대,90s-anime-aesthetic,FALSE
+테마,연도,00년대,00s-anime-aesthetic,FALSE
+테마,연도,10년대,10s-anime-aesthetic,FALSE
+테마,신화,그리스 신화,Greek_mythology,FALSE
+테마,신화,북유럽 신화,Nordic_mythology,FALSE
+테마,신화,수메르 신화,Sumerian_mythology,FALSE
+테마,신화,슬라브 신화,Slavic_mythology,FALSE
+테마,신화,아즈텍 신화,Aztec_mythology,FALSE
+테마,신화,이집트 신화,Egyptian_mythology,FALSE
+테마,신화,인도 신화,Indian_mythology,FALSE
+테마,신화,일본 신화,Japanese_mythology,FALSE
+테마,신화,중국 신화,Chinese_mythology,FALSE
+테마,신화,켈트 신화,Celtic_mythology,FALSE
+테마,표지,앨범 표지,album_cover,FALSE
+테마,표지,싱글 캐릭터 표지,character_single,FALSE
+테마,표지,작품 표지,cover_page,FALSE
+테마,표지,동인지 표지,doujin_cover,FALSE
+테마,표지,가짜 표지,fake_cover,FALSE
+테마,표지,비디오 게임 표지,video_game_cover,FALSE
+테마,표지,잡지 표지,magazine_cover,FALSE
+테마,표지,만화 표지,manga_cover,FALSE
+테마,음악,트로트,Teuroteu,FALSE
+테마,음악,게임 음악,Game_music,FALSE
+테마,음악,뉴뮤직,New_Music,FALSE
+테마,음악,뉴에이지 음악,New_Age_music,FALSE
+테마,음악,시티 팝,City_Pop,FALSE
+테마,음악,애니메이션 음악,Animated_music,FALSE
+테마,음악,엔카,Enka,FALSE
+테마,음악,유로비트,Eurobeat,FALSE
+테마,음악,일렉트로니카,Electronica,FALSE
+테마,음악,가스펠,Gaspel,FALSE
+테마,음악,댄스,Dance,FALSE
+테마,음악,디스코,Disco,FALSE
+테마,음악,레게,Reggae,FALSE
+테마,음악,로큰롤,Rock_and_roll,FALSE
+테마,음악,록,Rock,FALSE
+테마,음악,발라드,Ballad,FALSE
+테마,음악,블루스,Blues,FALSE
+테마,음악,소울 음악,soulfulmusic,FALSE
+테마,음악,재즈,Jazz,FALSE
+테마,음악,전자 음악,electronic_music,FALSE
+테마,음악,클래식,Classic,FALSE
+테마,음악,팝,Pop,FALSE
+테마,음악,펑크,Funk,FALSE
+테마,음악,포크,Fork,FALSE
+테마,미술,일본화,nihonga,FALSE
+테마,미술,일본 페인팅,sumi-e,FALSE
+테마,미술,우키요에,ukiyo-e,FALSE
+테마,미술,아르데코,art_deco,FALSE
+테마,미술,아르누보,art_nouveau,FALSE
+테마,미술,낭만주의,Romanticism,FALSE
+테마,미술,르네상스,Renaissance,FALSE
+테마,미술,바로크,Baroque,FALSE
+테마,미술,로코코,Rococo,FALSE
+테마,미술,화염주의,flame_painter,FALSE
+테마,미술,인상주의,impressionism,FALSE
+테마,미술,미니멀리즘,minimalism,FALSE
+테마,미술,콘트라포스토,contrapposto,FALSE
+테마,미술,초현실주의,surreal,FALSE
+테마,도구,구아슈,gouache,FALSE
+테마,도구,마커,marker,FALSE
+테마,도구,밀리펜,millipen,FALSE
+테마,도구,볼펜,ballpoint_pen,FALSE
+테마,도구,분필,chalk,FALSE
+테마,도구,브러시,brush,FALSE
+테마,도구,색 잉크,color_ink,FALSE
+테마,도구,색연필,colored_pencil,FALSE
+테마,도구,서예 붓,calligraphy_brush,FALSE
+테마,도구,수채화,watercolor,FALSE
+테마,도구,수채화 연필,watercolor_pencil,FALSE
+테마,도구,숯,charcoal,FALSE
+테마,도구,아크릴 물감,acrylic_paint,FALSE
+테마,도구,에어브러시,airbrush,FALSE
+테마,도구,유화,oil_painting,FALSE
+테마,도구,잉크,ink,FALSE
+테마,도구,캔버스,canvas,FALSE
+테마,도구,크레용,crayon,FALSE
+테마,도구,파스텔,pastel,FALSE
+테마,도구,펜촉,nib_pen,FALSE
+테마,도구,플라스틱 연필,coupy_pencil,FALSE
+테마,도구,회화,painting,FALSE
+테마,도구,흑연,graphite,FALSE
+테마,포르노,AV,Adult_Video,TRUE
+테마,포르노,포르노,porn,TRUE
+테마,포르노,섹스 비디오 ,Sex_Video,TRUE
+테마,포르노,리벤지 포르노 ,Revenge_Porn,TRUE
+초점,집중,단독 집중,solo_focus,FALSE
+초점,집중,남자에게 집중한다,male_focus,FALSE
+초점,집중,여자에게 집중한다,girl_focus,FALSE
+초점,집중,앞에 집중한다,front_focus,FALSE
+초점,집중,뒤에 집중한다,back_focus,FALSE
+초점,집중,밖에 집중한다,other_focus,FALSE
+초점,집중,눈에 집중한다,eye_focus,FALSE
+초점,집중,손에 집중한다,hand_focus,FALSE
+초점,집중,발에 집중한다,foot_focus,FALSE
+초점,집중,가슴에 집중한다,breast_focus,FALSE
+초점,집중,가슴에 집중한다,pectoral_focus,FALSE
+초점,집중,겨드랑이에 집중한다,armpit_focus,FALSE
+초점,집중,배꼽에 집중한다,navel_focus,FALSE
+초점,집중,허벅지에 집중한다,thigh_focus,FALSE
+초점,집중,엉덩이에 집중한다,ass_focus,FALSE
+초점,집중,엉덩이에 집중한다,hip_focus,FALSE
+초점,강조,얼굴을 강조한다,face,FALSE
+초점,강조,초상화,portrait,FALSE
+초점,강조,상체에 집중한다,upper_body,FALSE
+초점,강조,하체에 집중한다,lower_body,FALSE
+초점,강조,얼굴~허벅지에 집중한다,cowboy_shot,FALSE
+초점,강조,얼굴~발목에 집중한다,feet_out_of_frame,FALSE
+초점,강조,몸에 집중한다,fullbody,FALSE
+초점,강조,멀리서 몸에 집중한다,wide_shot,FALSE
+초점,강조,더 멀리서 몸에 집중한다,very_wide_shot,FALSE
+초점,시점,뷰어를 보고 있다,looking_at_viewer,FALSE
+초점,시점,위를 보고 있다,looking_up,FALSE
+초점,시점,아래를 보고 있다,looking_down,FALSE
+초점,시점,앞을 보고 있다,looking_front,FALSE
+초점,시점,뒤를 보고 있다,looking_back,FALSE
+초점,시점,옆을 보고 있다,looking_away,FALSE
+초점,시점,먼 곳을 보고 있다,looking_afar,FALSE
+초점,시점,밖을 보고 있다,looking_outside,FALSE
+초점,시점,측면을 보고 있다,looking_to_the_side,FALSE
+초점,시점,눈을 보고 있다,eye_contact,FALSE
+초점,시점,손을 보고 있다,looking_at_hand,FALSE
+초점,시점,다리를 보고 있다,looking_through_legs,FALSE
+초점,시점,가슴을 보고 있다,looking_at_breasts,FALSE
+초점,시점,엉덩이를 보고 있다,looking_at_ass,FALSE
+초점,시점,다른 사람을 보고 있다,looking_at_another,FALSE
+초점,시점,거울을 보고 있다,looking_at_mirror,FALSE
+초점,시점,휴대전화를 보고 있다,looking_at_phone,FALSE
+초점,시점,안경 밖을 보고 있다,looking_over_eyewear,FALSE
+연출,컷,1컷,1koma,FALSE
+연출,컷,2컷,2koma,FALSE
+연출,컷,3컷,3koma,FALSE
+연출,컷,4컷,4koma,FALSE
+연출,컷,다중 4컷,multiple_4koma,FALSE
+연출,컷,5컷,5koma,FALSE
+연출,컷,추가적인 컷씬,cross-section,FALSE
+연출,컷,테두리 없는 컷,borderless_panels,FALSE
+연출,컷,왼쪽에서 오른쪽 컷 진행,left-to-right_manga,FALSE
+연출,컷,오른쪽에서 왼쪽 컷 진행,right-to-left_comic,FALSE
+연출,컷,상하반전,upside-down,FALSE
+연출,효과,불 효과,fire*_effect,FALSE
+연출,효과,화염 효과,flame*_effect,FALSE
+연출,효과,전기 효과,spark*_effect*_spark,FALSE
+연출,효과,번개 효과,lightning*_effect,FALSE
+연출,효과,바람 효과,Wind*_effect,FALSE
+연출,효과,파도 효과,Wave*_effect,FALSE
+연출,효과,매지컬 효과,magical*_effect,FALSE
+연출,효과,광택 효과,effect*_glossy,FALSE
+연출,효과,광선 효과,effect*_light_rays,FALSE
+연출,효과,집중선 효과,effect*_speed_lines,FALSE
+연출,효과,떨림 효과*,effect*_trembling,FALSE
+연출,효과,블러 효과,effect*_blur,FALSE
+연출,효과,모션 블러 효과,effect*_motion_blur,FALSE
+연출,액션,역동적인 각도,dynamic_angle,FALSE
+연출,액션,역동적인 포즈,dynamic_pose,FALSE
+연출,효과,반짝이는 입자 효과,*_light_particle,FALSE
+연출,효과,회색 입자가 반짝히는 효과,light*_gray_particle,FALSE
+연출,효과,흰색 입자가 반짝히는 효과,light*_white_particle,FALSE
+연출,효과,갈색 입자가 반짝히는 효과,light*_brown_particle,FALSE
+연출,효과,빨강색 입자가 반짝히는 효과,light*_Red_particle,FALSE
+연출,효과,분홍색 입자가 반짝히는 효과,light*_pink_particle,FALSE
+연출,효과,주황색 입자가 반짝히는 효과,light*_orange_particle,FALSE
+연출,효과,노란색 입자가 반짝히는 효과,light*_yellow_particle,FALSE
+연출,효과,황금색 입자가 반짝히는 효과,light*_golden_particle,FALSE
+연출,효과,연두색 입자가 반짝히는 효과,light*_light_green_particle,FALSE
+연출,효과,초록색 입자가 반짝히는 효과,light*_green_particle,FALSE
+연출,효과,하늘색 입자가 반짝히는 효과,light*_sky_blue_particle,FALSE
+연출,효과,파란색 입자가 반짝히는 효과,light*_blue_particle,FALSE
+연출,효과,보라색 입자가 반짝히는 효과,light*_Purple_particle,FALSE
+연출,효과,검은색 입자가 반짝히는 효과,light*_black_particle,FALSE
+연출,효과,무지개색 입자가 반짝히는 효과,light*_rainbow_particle,FALSE
+연출,효과,캐릭터 주변을 휘몰아치는 효과,*_swirling_around_the_character,FALSE
+연출,효과,불이 휘몰아치는 효과,fire*_swirling_around_the_character,FALSE
+연출,효과,물이 휘몰아치는 효과,water*_swirling_around_the_character,FALSE
+연출,효과,바람이 휘몰아치는 효과,wind*_swirling_around_the_character,FALSE
+연출,효과,번개가 휘몰아치는 효과,lighting*_swirling_around_the_character,FALSE
+연출,효과,파도가 휘몰아치는 효과,wave*_swirling_around_the_character,FALSE
+배경,위치,앞쪽 배경,foreground,FALSE
+배경,위치,뒤쪽 배경,background,FALSE
+배경,컬러,회색,gray,FALSE
+배경,컬러,흰색,white,FALSE
+배경,컬러,갈색,brown,FALSE
+배경,컬러,빨강색,Red,FALSE
+배경,컬러,분홍색,pink,FALSE
+배경,컬러,주황색,orange,FALSE
+배경,컬러,노란색,yellow,FALSE
+배경,컬러,황금색,golden,FALSE
+배경,컬러,연두색,light_green,FALSE
+배경,컬러,초록색,green,FALSE
+배경,컬러,하늘색,sky_blue,FALSE
+배경,컬러,파란색,blue,FALSE
+배경,컬러,보라색,Purple,FALSE
+배경,컬러,검은색,black,FALSE
+배경,컬러,무지개색,rainbow,FALSE
+배경,컬러,투 톤,two-tone,FALSE
+배경,컬러,줄무늬,streaked,FALSE
+배경,컬러,그라데이션,gradient,FALSE
+배경,컬러,색깔 분열,split-color,FALSE
+배경,컬러,여러 색깔,multicolored,FALSE
+배경,컬러,내부 착색,colored_inner,FALSE
+배경,무늬,격자 무늬,plaid,FALSE
+배경,무늬,딸기 무늬,strawberry,FALSE
+배경,무늬,무지개 무늬,rainbow,FALSE
+배경,무늬,물방울 무늬,polka_dot,FALSE
+배경,무늬,미국 국기 무늬,american_flag,FALSE
+배경,무늬,아가일 무늬,argyle,FALSE
+배경,무늬,위장 무늬,camouflage,FALSE
+배경,무늬,인쇄한 무늬,print,FALSE
+배경,무늬,줄무늬,striped,FALSE
+배경,무늬,사선 줄무늬,diagonal-striped,FALSE
+배경,무늬,세로 줄무늬,vertical-striped,FALSE
+배경,무늬,체크 무늬,checkered,FALSE
+장소,국가,아시아,Asia,FALSE
+장소,국가,한국,Korea,FALSE
+장소,국가,북한,North_Korea,FALSE
+장소,국가,일본,Japan,FALSE
+장소,국가,중국,China,FALSE
+장소,국가,홍콩,Hong_Kong,FALSE
+장소,국가,대만,Taiwan,FALSE
+장소,국가,몽골,Mongolia,FALSE
+장소,국가,태국,Thailand,FALSE
+장소,국가,베트남,Vietnam,FALSE
+장소,국가,캐나다,Canada,FALSE
+장소,국가,멕시코,Mexico,FALSE
+장소,국가,미국,America,FALSE
+장소,국가,브라질,Brazil,FALSE
+장소,국가,아르헨티나,Argentina,FALSE
+장소,국가,우르과이,Uruguay,FALSE
+장소,국가,칠레,Chile,FALSE
+장소,국가,콜롬비아,Colombia,FALSE
+장소,국가,파라과이,Paraguay,FALSE
+장소,국가,러시아,Russia,FALSE
+장소,국가,벨라루스,Belarus,FALSE
+장소,국가,우크라이나,Ukraine,FALSE
+장소,국가,네덜란드,Netherlands,FALSE
+장소,국가,모나코,Monaco,FALSE
+장소,국가,벨기에,Belgium,FALSE
+장소,국가,아일랜드,Ireland,FALSE
+장소,국가,영국,Briton,FALSE
+장소,국가,프랑스,France,FALSE
+장소,국가,그리스,Greece,FALSE
+장소,국가,루마니아,Romania,FALSE
+장소,국가,바티칸,Vatican,FALSE
+장소,국가,불가리아,Bulgaria,FALSE
+장소,국가,스페인,Spain,FALSE
+장소,국가,이탈리아,Italy,FALSE
+장소,국가,터키,Turkey,FALSE
+장소,국가,포르투갈,Portugal,FALSE
+장소,국가,노르웨이,Norway,FALSE
+장소,국가,덴마크,Denmark,FALSE
+장소,국가,스웨덴,Sweden,FALSE
+장소,국가,핀란드,Finland,FALSE
+장소,국가,아이슬란드,Iceland,FALSE
+장소,가정,집,house,FALSE
+장소,가정,아파트,apartment,FALSE
+장소,가정,오두막,hut,FALSE
+장소,가정,오두막집,shack,FALSE
+장소,가정,나무 위의집,treehouse,FALSE
+장소,가정,물 위의 집,stilt_house,FALSE
+장소,가정,옷장,closet,FALSE
+장소,가정,화장실,bathroom,FALSE
+장소,가정,욕조,bathtub,FALSE
+장소,가정,침실,bedroom,FALSE
+장소,가정,탈의실,changing_room,FALSE
+장소,가정,탈의실,dressing_room,FALSE
+장소,가정,피팅룸,fitting_room,FALSE
+장소,가정,주방,kitchen,FALSE
+장소,가정,거실,living_room,FALSE
+장소,가정,지저분한방,messy_room,FALSE
+장소,가정,오타쿠방,otaku_room,FALSE
+장소,가정,샤워실,shower,FALSE
+장소,가정,칸막이화장실,toilet_stall,FALSE
+장소,시설,감방,prison_cell,FALSE
+장소,시설,감옥,prison,FALSE
+장소,시설,지하 감옥,dungeon,FALSE
+장소,시설,건물 난간,minaret,FALSE
+장소,시설,교회,church,FALSE
+장소,시설,군사 기지,military_base,FALSE
+장소,시설,군사 벙커,bunker,FALSE
+장소,시설,도서관,library,FALSE
+장소,시설,도시,city,FALSE
+장소,시설,공원,park,FALSE
+장소,시설,마을,village,FALSE
+장소,시설,빌딩,building,FALSE
+장소,시설,시골,rural,FALSE
+장소,시설,이동하는 도시,floating_city,FALSE
+장소,시설,정원,garden,FALSE
+장소,시설,묘지,graveyard,FALSE
+장소,시설,법정,courtroom,FALSE
+장소,시설,병실,infirmary,FALSE
+장소,시설,병원,hospital,FALSE
+장소,시설,사원,mosque,FALSE
+장소,시설,성,castle,FALSE
+장소,시설,러브 호텔,love hotel,FALSE
+장소,시설,호텔,hotel,FALSE
+장소,시설,호텔방,hotel_room,FALSE
+장소,시설,신사,shrine,FALSE
+장소,시설,유적,ruins,FALSE
+장소,시설,전화 부스,phone_booth,FALSE
+장소,시설,절,temple,FALSE
+장소,시설,학교,school,FALSE
+장소,시설,건물 옥상,rooftop,FALSE
+장소,시설,교실,classroom,FALSE
+장소,시설,동아리실,clubroom,FALSE
+장소,시설,사무실,office,FALSE
+장소,시설,직원실,staff_room,FALSE
+장소,시설,1인 사무실,cubicle_1_cubicle,FALSE
+장소,유흥,게임장,arcade,FALSE
+장소,유흥,경기장,stadium,FALSE
+장소,유흥,관람차,ferris_wheel,FALSE
+장소,유흥,영화관,amphitheater,FALSE
+장소,유흥,원형극장,theater,FALSE
+장소,유흥,놀이공원,amusement_park,FALSE
+장소,유흥,동물원,zoo,FALSE
+장소,유흥,롤러코스터,roller_coaster,FALSE
+장소,유흥,미술관,art_gallery,FALSE
+장소,유흥,박물관,museum,FALSE
+장소,유흥,쇼핑센터,mall,FALSE
+장소,유흥,수족관,aquarium,FALSE
+장소,유흥,술집,bar,FALSE
+장소,유흥,영화관,movie_theater,FALSE
+장소,유흥,온천,onsen,FALSE
+장소,유흥,클럽,nightclub,FALSE
+장소,유흥,투기장,arena,FALSE
+장소,유흥,회전목마,carousel,FALSE
+장소,유흥,무대,stage,FALSE
+장소,유흥,이벤트 무대,convention,FALSE
+장소,운동,라커룸,locker_room,FALSE
+장소,운동,볼링장,bowling_alley,FALSE
+장소,운동,수영장,pool,FALSE
+장소,운동,스케이트장,skating_rink,FALSE
+장소,운동,운동장,playground,FALSE
+장소,운동,육상경기장,running_track,FALSE
+장소,운동,축구장,soccer_field,FALSE
+장소,운동,워터파크,waterpark,FALSE
+장소,운동,체육관창고,gym_storeroom,FALSE
+장소,운동,풀사이드,poolside,FALSE
+장소,운동,헬스장,gym,FALSE
+장소,가게,가게,shop,FALSE
+장소,가게,구내식당,cafeteria,FALSE
+장소,가게,꽃집,flower_shop,FALSE
+장소,가게,레스토랑,restaurant,FALSE
+장소,가게,무기상점,weapon_shop,FALSE
+장소,가게,무기창고,armory,FALSE
+장소,가게,빵집,bakery,FALSE
+장소,가게,샬롱,salon,FALSE
+장소,가게,서점,bookstore,FALSE
+장소,가게,성인 도구가게,sex_shop,FALSE
+장소,가게,슈퍼 마켓,supermarket,FALSE
+장소,가게,시장,market,FALSE
+장소,가게,시장,market_stall,FALSE
+장소,가게,식당,dining_room,FALSE
+장소,가게,야외,pharmacy,FALSE
+장소,가게,옷장,closet,FALSE
+장소,가게,창고,storage_room,FALSE
+장소,가게,카페,cafe,FALSE
+장소,가게,편의점,convenience_store,FALSE
+장소,이동,거리,street,FALSE
+장소,이동,골목,alley,FALSE
+장소,이동,길,path,FALSE
+장소,이동,다리,bridge,FALSE
+장소,이동,보도,sidewalk,FALSE
+장소,이동,횡단보도,crosswalk,FALSE
+장소,이동,돌 산책로,stone_walkway,FALSE
+장소,이동,나무 다리,wooden_bridge,FALSE
+장소,이동,밧줄 다리,rope_bridge,FALSE
+장소,이동,도로,road,FALSE
+장소,이동,고속도로,highway,FALSE
+장소,이동,차고,garage,FALSE
+장소,이동,터널,tunnel,FALSE
+장소,이동,주유소,gas_station,FALSE
+장소,이동,주차장,parking_lot,FALSE
+장소,이동,기차역,train_station,FALSE
+장소,이동,철도 선로,railroad_tracks,FALSE
+장소,이동,교차로,railroad_crossing,FALSE
+장소,이동,항구,harbor,FALSE
+장소,이동,운하,canal,FALSE
+장소,이동,교각,pier,FALSE
+장소,이동,선착장,jetty,FALSE
+장소,이동,공항,airport,FALSE
+장소,이동,비행장,airfield,FALSE
+장소,이동,격납고,hangar,FALSE
+장소,이동,활주로,runway,FALSE
+장소,이동,컨트롤 타워,control_tower,FALSE
+장소,현장,건설현장,construction_site,FALSE
+장소,현장,공장,factory,FALSE
+장소,현장,꽃밭,flower_field,FALSE
+장소,현장,냉각탑,cooling_tower,FALSE
+장소,현장,밀밭,wheat_field,FALSE
+장소,현장,발전소,powerplant,FALSE
+장소,현장,밭,field,FALSE
+장소,현장,실험실,laboratory,FALSE
+장소,현장,쌀밭,rice_paddy,FALSE
+장소,현장,온실,conservatory,FALSE
+장소,현장,온실,greenhouse,FALSE
+장소,현장,외양간,barn,FALSE
+장소,현장,원자력 발전소,nuclear_powerplant,FALSE
+장소,현장,작업장,workshop,FALSE
+장소,현장,(정원의) 정자,gazebo,FALSE
+장소,현장,정련소,refinery,FALSE
+장소,현장,창고,warehouse,FALSE
+장소,자연,강,river,FALSE
+장소,자연,개울,stream,FALSE
+장소,자연,낭떠러지,cliff,FALSE
+장소,자연,대나무숲,bamboo_forest,FALSE
+장소,자연,대양,ocean,FALSE
+장소,자연,동굴,cave,FALSE
+장소,자연,목초지,meadow,FALSE
+장소,자연,밀림,jungle,FALSE
+장소,자연,빙하,glacier,FALSE
+장소,자연,사막,desert,FALSE
+장소,자연,사바나,savannah,FALSE
+장소,자연,산,mountain,FALSE
+장소,자연,섬,island,FALSE
+장소,자연,섬이 떠다니다,floating_island,FALSE
+장소,자연,언덕,hill,FALSE
+장소,자연,연못,pond,FALSE
+장소,자연,오아시스,oasis,FALSE
+장소,자연,온천,geyser,FALSE
+장소,자연,자연,nature,FALSE
+장소,자연,폭포,waterfall,FALSE
+장소,자연,해변,beach,FALSE
+장소,자연,해변가,shore,FALSE
+장소,자연,해저,ocean_bottom,FALSE
+장소,자연,협곡,canyon,FALSE
+장소,자연,호수,lake,FALSE
+장소,자연,화산,volcano,FALSE
+장소,자연,황무지,wasteland,FALSE
+장소,건축물,거대 구조물,megastructure,FALSE
+장소,건축물,경비탑,guard_tower,FALSE
+장소,건축물,댐,dam,FALSE
+장소,건축물,둑,dock,FALSE
+장소,건축물,등대,lighthouse,FALSE
+장소,건축물,마천루,skyscraper,FALSE
+장소,건축물,분수,fountain,FALSE
+장소,건축물,수로,aqueduct,FALSE
+장소,건축물,시계탑,clock_tower,FALSE
+장소,건축물,우주 엘리베이터,space_elevator,FALSE
+장소,건축물,종탑,bell_tower,FALSE
+장소,건축물,탑,pagoda,FALSE
+장소,건축물,탑,tower,FALSE

@@ -1,0 +1,174 @@
+[
+    {
+        "tag":"solo_focus",
+        "desc":"단독 집중"
+    },
+    {
+        "tag":"male_focus",
+        "desc":"남자에게 집중한다"
+    },
+    {
+        "tag":"girl_focus",
+        "desc":"여자에게 집중한다"
+    },
+    {
+        "tag":"front_focus",
+        "desc":"앞에 집중한다"
+    },
+    {
+        "tag":"back_focus",
+        "desc":"뒤에 집중한다"
+    },
+    {
+        "tag":"other_focus",
+        "desc":"밖에 집중한다"
+    },
+    {
+        "tag":"eye_focus",
+        "desc":"눈에 집중한다"
+    },
+    {
+        "tag":"hand_focus",
+        "desc":"손에 집중한다"
+    },
+    {
+        "tag":"foot_focus",
+        "desc":"발에 집중한다"
+    },
+    {
+        "tag":"breast_focus",
+        "desc":"가슴에 집중한다"
+    },
+    {
+        "tag":"pectoral_focus",
+        "desc":"가슴에 집중한다"
+    },
+    {
+        "tag":"armpit_focus",
+        "desc":"겨드랑이에 집중한다"
+    },
+    {
+        "tag":"navel_focus",
+        "desc":"배꼽에 집중한다"
+    },
+    {
+        "tag":"thigh_focus",
+        "desc":"허벅지에 집중한다"
+    },
+    {
+        "tag":"ass_focus",
+        "desc":"엉덩이에 집중한다"
+    },
+    {
+        "tag":"hip_focus",
+        "desc":"엉덩이에 집중한다"
+    },
+    {
+        "tag":"face",
+        "desc":"얼굴을 강조한다"
+    },
+    {
+        "tag":"portrait",
+        "desc":"초상화"
+    },
+    {
+        "tag":"upper_body",
+        "desc":"상체에 집중한다"
+    },
+    {
+        "tag":"lower_body",
+        "desc":"하체에 집중한다"
+    },
+    {
+        "tag":"cowboy_shot",
+        "desc":"얼굴~허벅지에 집중한다"
+    },
+    {
+        "tag":"feet_out_of_frame",
+        "desc":"얼굴~발목에 집중한다"
+    },
+    {
+        "tag":"fullbody",
+        "desc":"몸에 집중한다"
+    },
+    {
+        "tag":"wide_shot",
+        "desc":"멀리서 몸에 집중한다"
+    },
+    {
+        "tag":"very_wide_shot",
+        "desc":"더 멀리서 몸에 집중한다"
+    },
+    {
+        "tag":"looking_at_viewer",
+        "desc":"뷰어를 보고 있다"
+    },
+    {
+        "tag":"looking_up",
+        "desc":"위를 보고 있다"
+    },
+    {
+        "tag":"looking_down",
+        "desc":"아래를 보고 있다"
+    },
+    {
+        "tag":"looking_front",
+        "desc":"앞을 보고 있다"
+    },
+    {
+        "tag":"looking_back",
+        "desc":"뒤를 보고 있다"
+    },
+    {
+        "tag":"looking_away",
+        "desc":"옆을 보고 있다"
+    },
+    {
+        "tag":"looking_afar",
+        "desc":"먼 곳을 보고 있다"
+    },
+    {
+        "tag":"looking_outside",
+        "desc":"밖을 보고 있다"
+    },
+    {
+        "tag":"looking_to_the_side",
+        "desc":"측면을 보고 있다"
+    },
+    {
+        "tag":"eye_contact",
+        "desc":"눈을 보고 있다"
+    },
+    {
+        "tag":"looking_at_hand",
+        "desc":"손을 보고 있다"
+    },
+    {
+        "tag":"looking_through_legs",
+        "desc":"다리를 보고 있다"
+    },
+    {
+        "tag":"looking_at_breasts",
+        "desc":"가슴을 보고 있다"
+    },
+    {
+        "tag":"looking_at_ass",
+        "desc":"엉덩이를 보고 있다"
+    },
+    {
+        "tag":"looking_at_another",
+        "desc":"다른 사람을 보고 있다"
+    },
+    {
+        "tag":"looking_at_mirror",
+        "desc":"거울을 보고 있다"
+    },
+    {
+        "tag":"looking_at_phone",
+        "desc":"휴대전화를 보고 있다"
+    },
+    {
+        "tag":"looking_over_eyewear",
+        "desc":"안경 밖을 보고 있다"
+    }
+]

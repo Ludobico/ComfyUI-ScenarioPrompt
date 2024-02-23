@@ -1,0 +1,53 @@
+[
+  {
+    "tag": "Sunlight"
+  },
+  {
+    "tag": "Rim_light"
+  },
+  {
+    "tag": "Volumetric_lighting"
+  },
+  {
+    "tag": "Backlight"
+  },
+  {
+    "tag": "Dimly_lit"
+  },
+  {
+    "tag": "Well-lit"
+  },
+  {
+    "tag": "Hard_light"
+  },
+  {
+    "tag": "Subsurface_scattering"
+  },
+  {
+    "tag": "Bounce_light"
+  },
+  {
+    "tag": "Ambient_light"
+  },
+  {
+    "tag": "Soft_Lighting"
+  },
+  {
+    "tag": "Butterfly_Lighting"
+  },
+  {
+    "tag": "Cinematic_Lighting"
+  },
+  {
+    "tag": "Moody_Lighting"
+  },
+  {
+    "tag": "Beautiful_Lighting"
+  },
+  {
+    "tag": "Studio_Lighting"
+  },
+  {
+    "tag": "Rembrandt_Lighting"
+  }
+]
