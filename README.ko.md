@@ -2,7 +2,7 @@
 
 ![alt text](data/static/Scenario_prompt.png)
 
-prompt를 작성할 때 각 속성별로 어떤 프롬프트를 작성했는지 알기쉽게 파악할 수 있는 커스텀노드입니다.
+ScenarioPrompt는 프롬프트를 작성할 때 각 속성별로 어떤 프롬프트를 작성했는지 알기쉽게 파악할 수 있는 커스텀노드입니다.
 
 현재 10가지 속성으로 제공되며, **Base 항목은 필수로 입력하셔야합니다.**
 
@@ -12,7 +12,17 @@ prompt를 작성할 때 각 속성별로 어떤 프롬프트를 작성했는지 
 
 ⚠️ ScenarioPrompt를 prompt에 연결하려면 반드시 CLIP Text Encode (Prompt)에 **Convert text to input** 항목에 체크하셔야합니다.
 
-![alt text](Scenario_prompt_caution.png)
+![![alt text](Scenario_prompt_caution.png)](data/static/Scenario_prompt_caution.png)
+
+## Installation
+
+```bash
+cd path/to/comfyui/custom_nodes/
+```
+
+```bash
+git clone https://github.com/Ludobico/ComfyUI-ScenarioPrompt.git
+```
 
 ## Autocomplete
 
@@ -20,6 +30,10 @@ prompt를 작성할 때 각 속성별로 어떤 프롬프트를 작성했는지 
 
 자동완성에 사용되는 태그 역시 NovelAI.app 의 구글시트를 기반으로 만들어졌습니다.
 
-총 6개의 항목(Character, Face, Body_type, Fashion, Accessory, Action)에 대해서 자동완성이 지원됩니다.
+![![alt text](ScenarioPrompt_autocomplete.gif)](data/static/ScenarioPrompt_autocomplete.gif)
 
-![alt text](ScenarioPrompt_autocomplete.gif)
+## Reference
+
+https://github.com/gangjun06/NovelAI.app
+
+https://github.com/PluMaZero/ComfyUI-SpaceFlower
