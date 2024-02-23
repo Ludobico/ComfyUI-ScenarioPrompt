@@ -2,8 +2,8 @@ import { app } from '../../../scripts/app.js';
 import { api } from '../../../scripts/api.js';
 
 let promptList;
-let Character, Face, Body_type, Fashion, Accessory, Action;
-let CharacterP, FaceP, Body_typeP, FashionP, AccessoryP, ActionP;
+let Character, Face, Body_type, Fashion, Accessory, Action, Point_of_view, Background, Light;
+let CharacterP, FaceP, Body_typeP, FashionP, AccessoryP, ActionP, Point_of_viewP, BackgroundP, LightP;
 let matchList;
 function createDiv(className) {
   var div = document.createElement('div');
@@ -19,6 +19,9 @@ var Body_typeDiv = createDiv('Body_type');
 var FashionDiv = createDiv('Fashion');
 var AccessoryDiv = createDiv('Accessory');
 var ActionDiv = createDiv('Action');
+var Point_of_viewDiv = createDiv('Point_of_view');
+var BackgroundDiv = createDiv('Background');
+var LightDiv = createDiv('Light');
 
 app.registerExtension({
   name: 'ComfyUI.ScenarioPrompt.autocomplete',
@@ -44,6 +47,9 @@ app.registerExtension({
           const Action2 = promptList['NovelAI - 태그[동작 2]'];
           const Action3 = promptList['NovelAI - 태그[행동]'];
           Action = Action1.concat(Action2, Action3);
+          Point_of_view = promptList['NovelAI - 태그[시점]'];
+          Background = promptList['NovelAI - 태그[장소]'];
+          Light = promptList['Lighting_prompt'];
         }
       });
   },
@@ -53,7 +59,7 @@ app.registerExtension({
       const lastWord = searchWords[searchWords.length - 1].trim();
       let matches = promptType.filter((p) => {
         // const regex = new RegExp(`^\\d*${searchText}`, 'gi');
-        const regex = new RegExp(`^\\d*${lastWord}`, 'gi');
+        const regex = new RegExp(`.*${lastWord}.*`, 'gi');
         return p.tag.match(regex);
       });
 
@@ -168,6 +174,27 @@ app.registerExtension({
           matchList = document.getElementById('match-list');
           ActionP.addEventListener('input', () => {
             searchPrompt(ActionP.value, Action, ActionP);
+          });
+        } else if (node.widgets[i].name === 'Point_of_view') {
+          Point_of_viewP = document.querySelector('.comfy-multiline-input[placeholder="Point_of_view"]');
+          Point_of_viewP.parentNode.insertBefore(Point_of_viewDiv, Point_of_viewP.nextSibling);
+          matchList = document.getElementById('match-list');
+          Point_of_viewP.addEventListener('input', () => {
+            searchPrompt(Point_of_viewP.value, Point_of_view, Point_of_viewP);
+          });
+        } else if (node.widgets[i].name === 'Background') {
+          BackgroundP = document.querySelector('.comfy-multiline-input[placeholder="Background"]');
+          BackgroundP.parentNode.insertBefore(BackgroundDiv, BackgroundP.nextSibling);
+          matchList = document.getElementById('match-list');
+          BackgroundP.addEventListener('input', () => {
+            searchPrompt(BackgroundP.value, Background, BackgroundP);
+          });
+        } else if (node.widgets[i].name === 'Light') {
+          LightP = document.querySelector('.comfy-multiline-input[placeholder="Light"]');
+          LightP.parentNode.insertBefore(LightDiv, LightP.nextSibling);
+          matchList = document.getElementById('match-list');
+          LightP.addEventListener('input', () => {
+            searchPrompt(LightP.value, Light, LightP);
           });
         }
       }

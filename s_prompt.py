@@ -27,10 +27,12 @@ class ScenarioPrompt:
     Fashion : NovelAI - 태그[의상]
     Accessory : NovelAI - 태그[장신구]
     Action : NovelAI - 태그[동작 1] , NovelAI - 태그[동작 2], NovelAI - 태그[행동]
+    Point_of_view : NovelAI - 태그[시점]
+    Background : NovelAI - 태그[장소]
     """
-    fields = ["Character", "Face", "Body_type", "Fashion", "Accessory", "Action", "point_of_view", "Background", "Light"]
+    fields = ["Character", "Face", "Body_type", "Fashion", "Accessory", "Action", "Point_of_view", "Background", "Light"]
     
-    required = {"Base": ("STRING", {"multiline": True, "default": ""})}
+    required = {"Base": ("STRING", {"multiline": True, "default": "masterpiece, best_quality"})}
     optional = {field: ("STRING", {"multiline": True}) for field in fields}
     
     return {"required": required, "optional": optional}
@@ -41,13 +43,13 @@ class ScenarioPrompt:
   FUNCTION = "executor"
   CATEGORY = "utils"
 
-  def executor(self,Base,Character,Face,Body_type,Fashion,Accessory,Action,point_of_view,Background,Light):
+  def executor(self,Base,Character,Face,Body_type,Fashion,Accessory,Action,Point_of_view,Background,Light):
     def merge_commas(string):
       pattern = r',\s*,|,\s*,\s*,'
       modified_string = re.sub(pattern, ',', string)
       return modified_string
     
-    result_components = [Base, Character, Face, Body_type, Fashion, Accessory, Action, point_of_view, Background, Light]
+    result_components = [Base, Character, Face, Body_type, Fashion, Accessory, Action, Point_of_view, Background, Light]
     result_prompt = ', '.join(component for component in result_components if component)
 
     result_prompt = merge_commas(result_prompt)
