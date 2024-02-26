@@ -6,7 +6,7 @@
 
 ScenarioPrompt is a custom node that helps you understand what you're prompting for each property as you build your prompts
 
-Currently available in 10 attributes, **Base is mandatory**.
+Currently available in 10 properties, **Base is mandatory**.
 
 ![alt text](data/static/Scenario_prompt_example1.png)
 
