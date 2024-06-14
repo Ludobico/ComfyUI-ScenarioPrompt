@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-scenarioprompt"
+description = "ScenarioPrompt is a custom node that helps you understand what you're prompting for each property as you build your prompts"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Ludobico/ComfyUI-ScenarioPrompt"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ScenarioPrompt"
+Icon = ""
