@@ -9,6 +9,6 @@ Repository = "https://github.com/Ludobico/ComfyUI-ScenarioPrompt"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "ludobico"
 DisplayName = "ComfyUI-ScenarioPrompt"
 Icon = ""
